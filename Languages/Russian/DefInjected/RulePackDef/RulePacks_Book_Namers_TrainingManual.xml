@@ -1,0 +1,25 @@
+﻿<LanguageData>
+
+    <ABooks_TrainingManual_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic(p=6)->[randAdjective] Руководство по обучению [subject_primary]</li>
+        <li>titleBasic(p=6)->[randNoun] и обучение навыкам [subject_primary]</li>
+        <li>titleBasic->Обучение искусству [subject_primary]</li>
+        <li>titleBasic->Основные методы обучения [subject_primary]</li>
+        <li>titleBasic->Руководство по обучению [subject_primary] для начинающих</li>
+        <li>titleBasic->Уроки продвинутого обучения [subject_primary]</li>
+        <li>titleBasic->Обучение до уровня эксперта: [subject_primary]</li>
+        <li>titleBasic->Обучение для выживания: [subject_primary]</li>
+        <li>titleBasic->Обучение мастерству в [subject_primary]</li>
+        <li>titleBasic->Практика ведет к совершенству: Обучение [subject_primary]</li>
+        <li>titleAuthored->Руководство [ANYPAWN_nameIndef] по обучению [subject_primary]</li>
+        <li>titleAuthored->Учебное пособие [ANYPAWN_nameIndef] по [subject_primary]</li>
+        <li>titleAuthored->Книга [ANYPAWN_nameIndef] об обучении [subject_primary]</li>
+        <li>titleAuthored->Справочник [ANYPAWN_nameIndef] по обучению [subject_primary]</li>
+        <li>titleAuthored->Уроки [ANYPAWN_nameIndef] по обучению [subject_primary]</li>
+        <li>titleAuthored->Заметки [ANYPAWN_nameIndef] об обучении [subject_primary]</li>
+        <li>titleAuthored->Стратегии [ANYPAWN_nameIndef] обучения [subject_primary]</li>
+    </ABooks_TrainingManual_Namer.rulePack.rulesStrings>
+
+</LanguageData>

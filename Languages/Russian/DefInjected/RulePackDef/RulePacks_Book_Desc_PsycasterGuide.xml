@@ -1,0 +1,86 @@
+﻿<LanguageData>
+
+    <ABooks_PsycasterGuide_Description.rulePack.rulesStrings>
+        <li>desc->Этот [writingQualityAdjective] [bookType] [follows] за [psycaster], пока [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nПосле прочтения эта книга даст понимание пси-магии и научит читателя [subject_primary], а затем будет уничтожена.</li>
+        <li>follows->делится психическими секретами</li>
+        <li>follows->освещает псионические практики</li>
+        <li>follows->документирует умственную дисциплину</li>
+        <li>follows->исследует техники</li>
+        <li>follows->погружается в психику</li>
+        <li>follows->записывает опыт</li>
+        <li>follows->раскрывает методы</li>
+        <li>follows->проводит читателей через искусство</li>
+        <li>heOrShe->он</li>
+        <li>heOrShe->она</li>
+        <li>storyStruggles->стремится овладеть тонкостями [subject_primary]</li>
+        <li>storyStruggles->стремится раскрыть тайны [subject_primary]</li>
+        <li>storyStruggles->объясняет трудности и награды пси-магии</li>
+        <li>storyStruggles->делится уникальными взглядами на овладение психическими способностями</li>
+        <li>storyStruggles->погружается в сложности использования [subject_primary]</li>
+        <li>storyStruggles->описывает эффективные стратегии использования ментальной энергии</li>
+        <li>storyStruggles->сосредоточен на важности дисциплины и сосредоточенности</li>
+        <li>storyStruggles->подчеркивает ценность терпения в раскрытии [subject_primary]</li>
+        <li>storyStruggles->описывает путь к псионическому просветлению</li>
+        <li>storyStruggles->разбирает основы психического мастерства</li>
+        <li>psycaster->наставника</li>
+        <li>psycaster->провидца</li>
+        <li>psycaster->псионика</li>
+        <li>psycaster->психического адепта</li>
+        <li>psycaster->мистика</li>
+        <li>psycaster->архопсионика</li>
+        <li>psycaster->телепата</li>
+        <li>psycaster->менталиста</li>
+        <li>psycaster->психического мастера</li>
+        <li>psycaster->визионера</li>
+        <li>writingQualityAdjective(quality==6)->мастерски созданный</li>
+        <li>writingQualityAdjective(quality==5)->умный и проницательный</li>
+        <li>writingQualityAdjective(quality==4)->четкий и взвешенный</li>
+        <li>writingQualityAdjective(quality==3)->достойно составленный</li>
+        <li>writingQualityAdjective(quality==2)->в лучшем случае средний</li>
+        <li>writingQualityAdjective(quality==1)->плохо выполненный</li>
+        <li>writingQualityAdjective(quality==0)->едва читаемый</li>
+        <li>writingQualitySentence(quality[greater_than]4)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->глубокое исследование психических искусств</li>
+        <li>excellentDesc->глубоко проницателен в отношении использования ментальной энергии</li>
+        <li>excellentDesc->написан четко и наполнен псионической мудростью</li>
+        <li>excellentDesc->креативен и вдохновляет на психическое мастерство</li>
+        <li>excellentDesc->удивительно оригинальное и хорошо сделанное руководство</li>
+        <li>excellentDesc->наполнен увлекательными примерами от мастеров пси-магии</li>
+        <li>excellentExtra->. Каждая страница раскрывает сложные техники для овладения [subject_primary]</li>
+        <li>excellentExtra->. Это увлекательное чтение, которое вдохновляет на глубокий психический рост</li>
+        <li>excellentExtra->. Его идеи очень действенны и преобразующи</li>
+        <li>decentDesc->солидное руководство по основам психических способностей</li>
+        <li>decentDesc->интересный и информативный, с практическими советами</li>
+        <li>decentDesc->сосредоточен на понимании [subject_primary]</li>
+        <li>decentDesc->иногда вдохновляет понятными примерами</li>
+        <li>decentDesc->привлекателен для начинающих псиоников</li>
+        <li>decentExtra->, но ему не хватает глубины для продвинутых практиков</li>
+        <li>decentExtra->, но некоторые техники кажутся устаревшими</li>
+        <li>decentExtra->, но его руководство временами может быть расплывчатым</li>
+        <li>decentExtra->, но он слишком сильно фокусируется на теории, а не на практике</li>
+        <li>decentExtra->, но он часто усложняет простые методы</li>
+        <li>awfulDesc->написан кем-то с ограниченным пониманием пси-магии</li>
+        <li>awfulDesc->наполнен неуместными или фантастическими анекдотами</li>
+        <li>awfulDesc->неясен и бессвязен в своих объяснениях</li>
+        <li>awfulDesc->лишен четких, действенных психических техник</li>
+        <li>awfulDesc->изобилует противоречивыми или бессмысленными советами</li>
+        <li>awfulExtra->, и его методы часто контрпродуктивны</li>
+        <li>awfulExtra->, и он не рассматривает ключевые принципы пси-магии</li>
+        <li>awfulExtra->, и он включает абсурдные или непрактичные предложения</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Книга была опубликована [date_form].</li>
+        <li>maybe_date->Текст был впервые напечатан [date_form].</li>
+        <li>maybe_date->Неясно, когда именно была написана книга.</li>
+        <li>date_form->недавно</li>
+        <li>date_form->много веков назад</li>
+        <li>date_form->[date]</li>
+        <li>date_form->в [date_season]</li>
+        <li>bookType(p=4)->руководство по пси-магии</li>
+        <li>bookType(p=2)->мистическое руководство</li>
+        <li>bookType->справочник</li>
+        <li>bookType->учебное пособие</li>
+    </ABooks_PsycasterGuide_Description.rulePack.rulesStrings>
+
+</LanguageData>

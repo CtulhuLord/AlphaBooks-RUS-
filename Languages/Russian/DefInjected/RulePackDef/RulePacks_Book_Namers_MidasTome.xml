@@ -1,0 +1,22 @@
+﻿<LanguageData>
+
+    <ABooks_MidasTome_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic(p=6)->Том Мидаса</li>
+        <li>titleBasic(p=6)->Секреты архотехнологий золота</li>
+        <li>titleBasic->Мастерство трансмутации: Прикосновение Мидаса</li>
+        <li>titleBasic->Алхимия золота: Руководство по архотехнологиям</li>
+        <li>titleBasic->Золотое прикосновение: Том архотехнологий</li>
+        <li>titleBasic->Превращение ремесла в золото: Том Мидаса</li>
+        <li>titleBasic->Кодекс Мидаса (архотехнологии)</li>
+        <li>titleBasic->Ковка богатства: Секреты Тома Мидаса</li>
+        <li>titleAuthored->Руководство [ANYPAWN_nameIndef] по прикосновению Мидаса</li>
+        <li>titleAuthored->Архотехнологический кодекс золота [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Сочинения [ANYPAWN_nameIndef] о Томе Мидаса</li>
+        <li>titleAuthored->Руководство [ANYPAWN_nameIndef] по трансмутации золота</li>
+        <li>titleAuthored->Исследования [ANYPAWN_nameIndef] о золотом прикосновении</li>
+        <li>titleAuthored->Секреты архотехнологической алхимии [ANYPAWN_nameIndef]</li>
+    </ABooks_MidasTome_Namer.rulePack.rulesStrings>
+
+</LanguageData>

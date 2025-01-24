@@ -1,0 +1,81 @@
+﻿<LanguageData>
+
+    <ABooks_PsychologyBook_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>ending->\n\nПосле прочтения эта книга на три дня улучшит управление настроением и социальные навыки, а затем будет уничтожена.</li>
+        <li>intro->Этот [writingQualityAdjective] [bookType] предлагает глубокий взгляд на</li>
+        <li>intro->[WritingQualityAdjective] руководство по навигации в</li>
+        <li>intro->Вечный [bookType], описывающий трудности</li>
+        <li>intro->[WritingQualityAdjective] отчет о выживании среди</li>
+        <li>intro->Необыкновенный [bookType], исследующий</li>
+        <li>intro->Пугающе яркое исследование</li>
+        <li>conceptExploration->взаимосвязь между страхом и лидерством</li>
+        <li>conceptExploration->влияние одиночества на психику</li>
+        <li>conceptExploration->этику принятия решений в ситуациях жизни и смерти</li>
+        <li>conceptExploration->то, как отчаяние формирует отношения</li>
+        <li>conceptExploration->роль доверия в выживании</li>
+        <li>conceptExploration->адаптацию к гнетущей изоляции на Краю</li>
+        <li>conceptExploration->конфликт между инстинктами выживания и моралью</li>
+        <li>conceptExploration->тонкий баланс надежды и отчаяния</li>
+        <li>conceptExploration->то, как коллективная борьба строит — или разрушает — сообщества</li>
+        <li>conceptExploration->психологию работы в беспощадном мире</li>
+        <li>contextStatement->яркими историями с Края, он(а) исследует</li>
+        <li>contextStatement->десятилетия колониального опыта, эта книга исследует</li>
+        <li>contextStatement->записями бесчисленных застрявших колонистов, он(а) раскрывает</li>
+        <li>contextStatement->реальными историями с фронтира, эта книга раскрывает</li>
+        <li>contextStatement->борьбой пионеров Края, он(а) объясняет</li>
+        <li>impactStatement->Ее(Его) идеи изменят ваше понимание человеческого поведения под давлением</li>
+        <li>impactStatement->Он(а) предоставляет жизненно важные инструменты для любого колониста, путешествующего по суровой границе</li>
+        <li>impactStatement->Он(а) проливает свет на самые темные уголки человеческого разума</li>
+        <li>impactStatement->Эта книга — важнейший ресурс для лидеров в опасности</li>
+        <li>impactStatement->Содержащиеся в ней уроки необходимы для любого, кто стремится выжить на Краю</li>
+        <li>writingQualityAdjective(quality==6)->мастерски созданный</li>
+        <li>writingQualityAdjective(quality==5)->блестяще проницательный</li>
+        <li>writingQualityAdjective(quality==4)->заставляющий задуматься и точный</li>
+        <li>writingQualityAdjective(quality==3)->функциональный, но не вдохновляющий</li>
+        <li>writingQualityAdjective(quality==2)->посредственный</li>
+        <li>writingQualityAdjective(quality==1)->едва понятный</li>
+        <li>writingQualityAdjective(quality==0)->несвязное бормотание</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->шедевр психологического анализа</li>
+        <li>excellentDesc->бесценный ресурс для понимания психологии выживания</li>
+        <li>excellentDesc->искусно созданное руководство для лидеров колоний</li>
+        <li>excellentDesc->глубоко оригинальное исследование психологического выживания на Краю</li>
+        <li>excellentDesc->богатый практическими советами и яркими рассказами</li>
+        <li>excellentExtra->, который(ая) раскрывает истинную сущность человеческой психологии</li>
+        <li>excellentExtra->, который(ая) вдохновляет на стойкость даже в самые темные времена</li>
+        <li>excellentExtra->, который(ая) готовит читателей к вызовам пограничной жизни</li>
+        <li>decentDesc->сносное руководство по психологической устойчивости</li>
+        <li>decentDesc->интересный, но неотшлифованный</li>
+        <li>decentDesc->полезный в некоторых областях, но недостаточно глубокий</li>
+        <li>decentDesc->сосредоточенный на нескольких узких концепциях</li>
+        <li>decentDesc->иногда проницательный, но непоследовательный</li>
+        <li>decentExtra->и может быть полезен менее опытным читателям</li>
+        <li>decentExtra->, он(а) не охватывает общую картину выживания</li>
+        <li>decentExtra->, хотя его(ее) теории могут быть противоречивыми</li>
+        <li>awfulDesc->беспорядочный набор полусырых идей</li>
+        <li>awfulDesc->запутанная мешанина необоснованных теорий</li>
+        <li>awfulDesc->совершенно непрактичный и плохо изученный</li>
+        <li>awfulDesc->наполненный(ая) неуместными анекдотами и пустой болтовней</li>
+        <li>awfulDesc->хаотичная смесь противоречивых теорий</li>
+        <li>awfulExtra->и совершенно бесполезен(на) для тех, кто сталкивается с реальными психологическими проблемами</li>
+        <li>awfulExtra->и активно вреден(на) для тех, кто ищет реальное понимание психологии</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Книга была опубликована [date_form].</li>
+        <li>maybe_date->Текст был впервые записан [date_form].</li>
+        <li>maybe_date->Ее(Его) происхождение затеряно во времени, как и многое на Краю.</li>
+        <li>date_form->недавно</li>
+        <li>date_form->поколения назад</li>
+        <li>date_form->[date]</li>
+        <li>date_form->во время [date_season]</li>
+        <li>bookType(p=4)->психологическое исследование</li>
+        <li>bookType(p=3)->полевой справочник</li>
+        <li>bookType(p=2)->колониальное руководство</li>
+        <li>bookType(p=1)->трактат о выживании</li>
+    </ABooks_PsychologyBook_Description.rulePack.rulesStrings>
+
+</LanguageData>

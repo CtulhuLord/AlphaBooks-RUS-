@@ -1,0 +1,75 @@
+﻿<LanguageData>
+
+    <ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[intro] [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>ending->\n\nСоздатель этого тома, по-видимому, путал два значения слова «герметичный». Как ни странно, кажется, это сработало... Похоже, книга самоуничтожится после однократного прочтения.</li>
+        <li>intro->Этот(а) [writingQualityAdjective] [bookType] раскрывает загадочное взаимодействие между</li>
+        <li>intro->[WritingQualityAdjective] исследование таинственной связи между</li>
+        <li>intro->Вечный(ая) [bookType], описывающий(ая) скрытые связи</li>
+        <li>intro->[WritingQualityAdjective] трактат, раскрывающий двойственную природу</li>
+        <li>intro->Необыкновенный(ая) [bookType], соединяющий(ая) тайные и мирские аспекты</li>
+        <li>intro->Пугающе яркое исследование тайн, окружающих</li>
+        <li>conceptExploration->божественное влияние Гермеса и принцип герметичных контейнеров</li>
+        <li>conceptExploration->скрытую мудрость в герметичных печатях</li>
+        <li>conceptExploration->тонкое искусство распечатывания того, что было заперто</li>
+        <li>conceptExploration->древние секреты, закодированные в запечатанных артефактах</li>
+        <li>conceptExploration->как божественное и механическое переплетаются в актах отпирания</li>
+        <li>conceptExploration->загадочные знания, управляющие запечатанными сокровищами</li>
+        <li>contextStatement->через притчи Гермеса и технические диаграммы</li>
+        <li>contextStatement->, сочетая мифологию и науку</li>
+        <li>contextStatement->наслаивая божественные аллегории и практические знания</li>
+        <li>contextStatement->с шепотом тайной истины и механической точности</li>
+        <li>contextStatement->через завуалированные инструкции и загадочную поэзию</li>
+        <li>impactStatement->Его(ее) учения наделят силой тех, кто стремится к mastery над запечатанным</li>
+        <li>impactStatement->Он(оно) предлагает беспрецедентное понимание для практиков герметического искусства</li>
+        <li>impactStatement->Его(ее) уроки готовят читателя к подходу к ящикам с божественной точностью</li>
+        <li>impactStatement->Эта книга — ключ к открытию того, что скрыто как в разуме, так и в материи</li>
+        <li>impactStatement->Он(оно) снабжает читателя инструментами для овладения загадками сдерживания</li>
+        <li>writingQualityAdjective(quality==6)->мастерски созданный(ая)</li>
+        <li>writingQualityAdjective(quality==5)->блестяще проницательный(ая)</li>
+        <li>writingQualityAdjective(quality==4)->заставляющий(ая) задуматься и точный(ая)</li>
+        <li>writingQualityAdjective(quality==3)->функциональный(ая), но не вдохновляющий(ая)</li>
+        <li>writingQualityAdjective(quality==2)->посредственный(ая)</li>
+        <li>writingQualityAdjective(quality==1)->едва понятный(ая)</li>
+        <li>writingQualityAdjective(quality==0)->несвязный(ая) мешанина</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->шедевр тайных и практических знаний</li>
+        <li>excellentDesc->бесценное руководство по герметическим тайнам</li>
+        <li>excellentDesc->искусно созданное сочетание божественной и практической мудрости</li>
+        <li>excellentDesc->глубоко оригинальное исследование отпирания и сдерживания</li>
+        <li>excellentDesc->богатый эзотерическими знаниями и практическими советами</li>
+        <li>excellentExtra->который(ая) соединяет божественную и механическую сферы</li>
+        <li>excellentExtra->который(ая) вдохновляет на mastery над тайным и запечатанным</li>
+        <li>excellentExtra->который(ая) предлагает глубокое понимание искусства распечатывания</li>
+        <li>decentDesc->сносное руководство по герметической теории</li>
+        <li>decentDesc->интересный(ая), но неравномерно построенный(ая)</li>
+        <li>decentDesc->полезный(ая) в некоторых аспектах, но чрезмерно загадочный(ая)</li>
+        <li>decentDesc->сосредоточенный(ая) на узких интерпретациях герметического ремесла</li>
+        <li>decentDesc->иногда проницательный(ая), но часто непоследовательный(ая)</li>
+        <li>decentExtra->и может помочь тем, у кого есть предварительные знания</li>
+        <li>decentExtra->хотя его(ее) применения иногда неясны</li>
+        <li>decentExtra->но его(ее) учениям не хватает связной структуры</li>
+        <li>awfulDesc->хаотичная смесь мифов и бессмысленных инструкций</li>
+        <li>awfulDesc->бессмысленное руководство без практической ценности</li>
+        <li>awfulDesc->запутанная мешанина противоречивых советов</li>
+        <li>awfulDesc->непрактичный беспорядок из загадочных ссылок</li>
+        <li>awfulDesc->несвязное бормотание без различимой мудрости</li>
+        <li>awfulExtra->и совершенно бесполезный(ая) для тех, кто ищет практическое руководство</li>
+        <li>awfulExtra->и активно вводящий(ая) в заблуждение тех, кто ищет ясность</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Том был впервые создан [date_form].</li>
+        <li>maybe_date->Его(ее) происхождение окутано тайной, как и его(ее) содержание.</li>
+        <li>date_form->в древние времена</li>
+        <li>date_form->[date]</li>
+        <li>date_form->во время [date_season]</li>
+        <li>bookType(p=4)->тайное руководство</li>
+        <li>bookType(p=3)->загадочный гид</li>
+        <li>bookType(p=2)->запечатанный трактат</li>
+        <li>bookType(p=1)->эзотерическая рукопись</li>
+    </ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+
+</LanguageData>

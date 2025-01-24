@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_OfficeBinder.label>Корпоративная хватка</ABooks_OfficeBinder.label>
+    <ABooks_OfficeBinder.description>Чтение служебных записок в офисном скоросшивателе значительно улучшило социальные навыки этого человека.</ABooks_OfficeBinder.description>
+    <ABooks_OfficeBinder.stages.awful.label>Ужасно</ABooks_OfficeBinder.stages.awful.label>
+    <ABooks_OfficeBinder.stages.poor.label>Плохо</ABooks_OfficeBinder.stages.poor.label>
+    <ABooks_OfficeBinder.stages.normal.label>Нормально</ABooks_OfficeBinder.stages.normal.label>
+    <ABooks_OfficeBinder.stages.good.label>Хорошо</ABooks_OfficeBinder.stages.good.label>
+    <ABooks_OfficeBinder.stages.excellent.label>Отлично</ABooks_OfficeBinder.stages.excellent.label>
+    <ABooks_OfficeBinder.stages.masterwork.label>Шедеврально</ABooks_OfficeBinder.stages.masterwork.label>
+    <ABooks_OfficeBinder.stages.legendary.label>Легендарно</ABooks_OfficeBinder.stages.legendary.label>
+
+</LanguageData>

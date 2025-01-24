@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_ZoologicalCompendium.label>Зоологический компендиум</ABooks_ZoologicalCompendium.label>
+
+    <ABooks_ZoologicalCompendium.description>Зоологический компендиум, содержащий много информации и изображений экзотической фауны.</ABooks_ZoologicalCompendium.description>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>Бонус +2% к шансу приручения животных, +2% к шансу дрессировки животных, +5% к скорости сбора ресурсов с животных, +5% к объему получаемых ресурсов с животных.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>Бонус +5% к шансу приручения животных, +5% к шансу дрессировки животных, +10% к скорости сбора ресурсов с животных, +10% к объему получаемых ресурсов с животных.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>Бонус +15% к шансу приручения животных, +15% к шансу дрессировки животных, +15% к скорости сбора ресурсов с животных, +15% к объему получаемых ресурсов с животных.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>Бонус +20% к шансу приручения животных, +20% к шансу дрессировки животных, +20% к скорости сбора ресурсов с животных, +25% к объему получаемых ресурсов с животных, +10% к скрытности на охоте.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>Бонус +30% к шансу приручения животных, +30% к шансу дрессировки животных, +50% к скорости сбора ресурсов с животных, +40% к объему получаемых ресурсов с животных, +25% к скрытности на охоте, +25% к фактору шанса установления связи с животным.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>Бонус +40% к шансу приручения животных, +40% к шансу дрессировки животных, +75% к скорости сбора ресурсов с животных, +50% к объему получаемых ресурсов с животных, +35% к скрытности на охоте, +50% к фактору шанса установления связи с животным.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>
+
+    <ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>Бонус +50% к шансу приручения животных, +50% к шансу дрессировки животных, +100% к скорости сбора ресурсов с животных, +75% к объему получаемых ресурсов с животных, +50% к скрытности на охоте, +75% к фактору шанса установления связи с животным.</ABooks_ZoologicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>
+
+</LanguageData>

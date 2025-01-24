@@ -1,0 +1,61 @@
+﻿<LanguageData>
+
+    <ABooks_BookOfPortents_Description.rulePack.rulesStrings>
+        <li>desc->[excerpt]\n\n[qualityStatement][ending]</li>
+        <li>desc->[excerpt]\n\n[writingQualitySentence][ending]</li>
+        <li>excerpt->"Зри, о ищущий, на [randAstralDescriptor] танец небес, где [astralSign] предвещает приход [mysticEvent]."</li>
+        <li>excerpt->"Внутри этих священных страниц заключена истина [randAstralDescriptor] тверди, где [celestialBeing] ткет гобелен судьбы."</li>
+        <li>excerpt->"Запомни это: [astralSign] восходит, а [celestialBeing] шепчет тайны, которые осмеливаются постичь только смелые."</li>
+        <li>excerpt->"Написанный(ая) [randMaterial], этот том взывает к [mysticEvent], отбрасывая тени и свет в равной мере."</li>
+        <li>excerpt->"Сквозь завесу [randAstralDescriptor] ночи [celestialPhenomenon] направляет достойных к просветлению и [mysticEvent]."</li>
+        <li>excerpt->"Осмелишься ли ты доверять знамениям [astralSign]? Ибо [celestialPhenomenon] несет шепот [mysticEvent] тем, кто ищет [randAstralDescriptor] истину."</li>
+        <li>qualityStatement(quality==6)->Том излучает ауру божественной ясности, делая его пророчества неоспоримыми.</li>
+        <li>qualityStatement(quality==5)->Его(ее) предсказания, хотя и загадочные, резонируют с неоспоримой силой и мудростью.</li>
+        <li>qualityStatement(quality==4)->Хотя и скрытые в мистических загадках, пророчества книги обладают любопытным очарованием.</li>
+        <li>qualityStatement(quality==3)->Его(ее) знамения, хотя и эксцентричные, предлагают интригующие проблески небесных истин.</li>
+        <li>qualityStatement(quality==2)->Затуманенные бессвязными речами, пророчества колеблются между прозрением и глупостью.</li>
+        <li>qualityStatement(quality==1)->Сбивающая с толку мешанина абсурда, его(ее) «знамения» внушают лишь замешательство.</li>
+        <li>qualityStatement(quality==0)->Несвязный беспорядок, его(ее) так называемые «знамения» в лучшем случае смехотворны.</li>
+        <li>writingQualitySentence(quality==6)->Мастерское сочетание поэтического мистицизма и пророческого авторитета.</li>
+        <li>writingQualitySentence(quality==5)->Захватывающее исследование космических тайн, искусно сплетенных воедино.</li>
+        <li>writingQualitySentence(quality==4)->Увлекательное, хотя и временами туманное, повествование о небесных преданиях.</li>
+        <li>writingQualitySentence(quality==3)->Полезное собрание размышлений о небесах, хотя и излишне витиеватое.</li>
+        <li>writingQualitySentence(quality==2)->Неотшлифованное и неравномерное, но слабые искры прозрения сохраняются.</li>
+        <li>writingQualitySentence(quality==1)->Изобилующее многословием и путаницей, оно изо всех сил пытается вдохновить.</li>
+        <li>writingQualitySentence(quality==0)->Хаотическая и невразумительная тирада о небесной чепухе.</li>
+        <li>ending->\n\nПосле прочтения эта книга вызовет случайное астрономическое событие и внушит благоговение, даруя повышение настроения, пропорциональное ее качеству.</li>
+        <li>randAstralDescriptor->мерцающий(ая,ее)</li>
+        <li>randAstralDescriptor->загадочный(ая,ое)</li>
+        <li>randAstralDescriptor->эфирный(ая,ое)</li>
+        <li>randAstralDescriptor->древний(яя,ее)</li>
+        <li>randAstralDescriptor->светящийся(аяся,ееся)</li>
+        <li>randAstralDescriptor->небесный(ая,ое)</li>
+        <li>randAstralDescriptor->эзотерический(ая,ое)</li>
+        <li>astralSign->Эклиптический Змей</li>
+        <li>astralSign->Звездный Змей</li>
+        <li>astralSign->Вестник Пустоты</li>
+        <li>astralSign->Светоносный Предвестник</li>
+        <li>astralSign->Комета Судьбы</li>
+        <li>mysticEvent->великие пробуждения</li>
+        <li>mysticEvent->переплетение хаоса и порядка</li>
+        <li>mysticEvent->просветление истины</li>
+        <li>mysticEvent->предвестник космических перемен</li>
+        <li>mysticEvent->откровения за пределами человеческого понимания</li>
+        <li>celestialBeing->Звезднорожденный Провидец</li>
+        <li>celestialBeing->Космический Ткач</li>
+        <li>celestialBeing->Светило Веков</li>
+        <li>celestialBeing->Страж Пустоты</li>
+        <li>celestialBeing->Звездный Оракул</li>
+        <li>celestialPhenomenon->северные сияния</li>
+        <li>celestialPhenomenon->затмения</li>
+        <li>celestialPhenomenon->метеорные дожди</li>
+        <li>celestialPhenomenon->солнечные вспышки</li>
+        <li>celestialPhenomenon->падающие звезды</li>
+        <li>randMaterial->чернила из звездной пыли</li>
+        <li>randMaterial->кристаллический пергамент</li>
+        <li>randMaterial->пустотная сталь</li>
+        <li>randMaterial->золотистый веленевый пергамент</li>
+        <li>randMaterial->лунные переплеты</li>
+    </ABooks_BookOfPortents_Description.rulePack.rulesStrings>
+
+</LanguageData>

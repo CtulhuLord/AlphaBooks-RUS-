@@ -1,0 +1,28 @@
+﻿<LanguageData>
+
+    <ABooks_SurvivalGuide_Namer.rulePack.rulesStrings>
+        <li>title->[adjective] [guideType] по [subject_primary]</li>
+        <li>title->[subject_primary]: [adjective] [guideType]</li>
+        <li>title->Выживание в [subject_primary]: [guideType]</li>
+        <li>title->[adjective] советы по выживанию и процветанию в [subject_primary]</li>
+        <li>adjective->Основные</li>
+        <li>adjective->Полное</li>
+        <li>adjective->Всеобъемлющее</li>
+        <li>adjective->Самое необходимое</li>
+        <li>adjective->Экспертное</li>
+        <li>adjective->Базовое</li>
+        <li>adjective->Бесценное</li>
+        <li>adjective->Для начинающих</li>
+        <li>adjective->Продвинутое</li>
+        <li>adjective->Минималистичное</li>
+        <li>guideType->руководство по выживанию</li>
+        <li>guideType->справочник</li>
+        <li>guideType->полевое руководство</li>
+        <li>guideType->сборник</li>
+        <li>guideType->руководство к действию</li>
+        <li>guideType->тактическое руководство</li>
+        <li>guideType->руководство исследователя</li>
+        <li>guideType->заметки выжившего</li>
+    </ABooks_SurvivalGuide_Namer.rulePack.rulesStrings>
+
+</LanguageData>

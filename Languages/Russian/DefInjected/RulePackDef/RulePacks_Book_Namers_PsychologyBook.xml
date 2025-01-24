@@ -1,0 +1,81 @@
+﻿<LanguageData>
+
+    <ABooks_PsychologyBook_Namer.rulePack.rulesStrings>
+        <li>title->[prefix] [concept]</li>
+        <li>title->[concept]: [subtitle]</li>
+        <li>title->[concept] и [phenomenon]</li>
+        <li>title->[emotionalVerb] [phenomenon]</li>
+        <li>title->[concept] [linkage] [phenomenon]</li>
+        <li>title->[phenomenon] [linkagePlace] [context]</li>
+        <li>prefix->Искусство</li>
+        <li>prefix->Наука</li>
+        <li>prefix->Сила</li>
+        <li>prefix->Тайна</li>
+        <li>prefix->Преодоление</li>
+        <li>prefix->Разгадка</li>
+        <li>prefix->Открытие</li>
+        <li>prefix->Освоение</li>
+        <li>prefix->Секрет</li>
+        <li>concept->Осознанности</li>
+        <li>concept->Стойкости</li>
+        <li>concept->Счастья</li>
+        <li>concept->Эмоционального интеллекта</li>
+        <li>concept->Эмпатии</li>
+        <li>concept->Самопознания</li>
+        <li>concept->Идентичности</li>
+        <li>concept->Поведенческих моделей</li>
+        <li>concept->Человеческого потенциала</li>
+        <li>concept->Личностного роста</li>
+        <li>concept->Подсознания</li>
+        <li>concept->Привязанности</li>
+        <li>concept->Травмы</li>
+        <li>concept->Когнитивных искажений</li>
+        <li>concept->Принятия решений</li>
+        <li>concept->Социальных связей</li>
+        <li>subtitle->Путешествие к пониманию себя</li>
+        <li>subtitle->Почему мы думаем и действуем так, как мы это делаем</li>
+        <li>subtitle->Ключ к ясности ума</li>
+        <li>subtitle->Как построить лучшие отношения</li>
+        <li>subtitle->Раскрывая тайны человеческого разума</li>
+        <li>subtitle->Скрытые силы, формирующие нашу жизнь</li>
+        <li>subtitle->Практическое руководство по изменениям</li>
+        <li>subtitle->Разрывая цикл негативного мышления</li>
+        <li>subtitle->Уроки нейронауки и психологии</li>
+        <li>subtitle->Стратегии эмоционального благополучия</li>
+        <li>phenomenon->Стресса</li>
+        <li>phenomenon->Тревоги</li>
+        <li>phenomenon->Выгорания</li>
+        <li>phenomenon->Уверенности</li>
+        <li>phenomenon->Отношений</li>
+        <li>phenomenon->Мотивации</li>
+        <li>phenomenon->Привычек</li>
+        <li>phenomenon->Перемен</li>
+        <li>phenomenon->Страха</li>
+        <li>phenomenon->Одиночества</li>
+        <li>phenomenon->Неопределенности</li>
+        <li>phenomenon->Творчества</li>
+        <li>phenomenon->Лидерства</li>
+        <li>phenomenon->Усталости от принятия решений</li>
+        <li>emotionalVerb->Преодолевая</li>
+        <li>emotionalVerb->Принимая</li>
+        <li>emotionalVerb->Преобразуя</li>
+        <li>emotionalVerb->Справляясь с</li>
+        <li>emotionalVerb->Покоряя</li>
+        <li>emotionalVerb->Переосмысливая</li>
+        <li>emotionalVerb->Освобождаясь от</li>
+        <li>emotionalVerb->Понимая</li>
+        <li>emotionalVerb->Переопределяя</li>
+        <li>emotionalVerb->Обуздывая</li>
+        <li>context->мирах RimWorld</li>
+        <li>context->на рабочем месте</li>
+        <li>context->в космическую эру</li>
+        <li>context->в повседневной жизни</li>
+        <li>context->в человеческом опыте</li>
+        <li>context->в эпоху постдефицита</li>
+        <li>context->в семейной динамике</li>
+        <li>context->в отношениях</li>
+        <li>context->в социальных сетях</li>
+        <li>context->в руководящих ролях</li>
+    </ABooks_PsychologyBook_Namer.rulePack.rulesStrings>
+
+</LanguageData>

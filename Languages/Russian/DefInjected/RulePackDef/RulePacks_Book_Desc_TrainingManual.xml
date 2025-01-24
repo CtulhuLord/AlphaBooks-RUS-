@@ -1,0 +1,84 @@
+﻿<LanguageData>
+
+    <ABooks_TrainingManual_Description.rulePack.rulesStrings>
+        <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date]\n\nПосле прочтения эта книга временно повысит скорость изучения навыка [subject_primary], после чего будет уничтожена.</li>
+        <li>follows->делится техниками</li>
+        <li>follows->освещает учения</li>
+        <li>follows->документирует тренировки</li>
+        <li>follows->исследует методы</li>
+        <li>heOrShe->он</li>
+        <li>heOrShe->она</li>
+        <li>storyStruggles->стремится раскрыть потенциал других</li>
+        <li>storyStruggles->стремится предоставить четкий путь к мастерству</li>
+        <li>storyStruggles->объясняет трудности и награды, связанные с [subject_primary]</li>
+        <li>storyStruggles->делится уникальными взглядами на методы тренировок</li>
+        <li>storyStruggles->углубляется в сложности изучения [subject_primary]</li>
+        <li>storyStruggles->описывает эффективные стратегии улучшения навыков</li>
+        <li>storyStruggles->сосредоточивается на важности практики и настойчивости</li>
+        <li>storyStruggles->подчеркивает ценность дисциплины и преданности делу</li>
+        <li>storyStruggles->предлагает практические советы по достижению успехов в [subject_primary]</li>
+        <li>storyStruggles->описывает путь к мастерству</li>
+        <li>storyStruggles->разбивает процесс становления профессионалом на этапы</li>
+        <li>trainer->наставника</li>
+        <li>trainer->тренера</li>
+        <li>trainer->проводника</li>
+        <li>trainer->инструктора</li>
+        <li>trainer->учителя</li>
+        <li>trainer->эксперта</li>
+        <li>trainer->репетитора</li>
+        <li>trainer->мастера</li>
+        <li>trainer->специалиста</li>
+        <li>trainer->практика</li>
+        <li>writingQualityAdjective(quality==6)->мастерски выполненный</li>
+        <li>writingQualityAdjective(quality==5)->умный и проницательный</li>
+        <li>writingQualityAdjective(quality==4)->четкий и взвешенный</li>
+        <li>writingQualityAdjective(quality==3)->достойно составленный</li>
+        <li>writingQualityAdjective(quality==2)->в лучшем случае средний</li>
+        <li>writingQualityAdjective(quality==1)->плохо выполненный</li>
+        <li>writingQualityAdjective(quality==0)->едва читаемый</li>
+        <li>writingQualitySentence(quality[greater_than]4)->Это [excellentDesc][excellentExtra].</li>
+        <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Это [decentDesc][decentExtra].</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc][awfulExtra].</li>
+        <li>excellentDesc->глубокое исследование развития навыков</li>
+        <li>excellentDesc->глубоко раскрывает процесс обучения</li>
+        <li>excellentDesc->лаконично написанное и полное практической мудрости</li>
+        <li>excellentDesc->творческое и вдохновляющее</li>
+        <li>excellentDesc->удивительно оригинальное и хорошо продуманное руководство</li>
+        <li>excellentDesc->полное увлекательных историй от опытных наставников</li>
+        <li>excellentExtra->. Каждая глава логически продолжает предыдущую.</li>
+        <li>excellentExtra->. Это увлекательное чтение, мотивирующее к постоянному совершенствованию.</li>
+        <li>excellentExtra->. Его советы очень действенны и практичны.</li>
+        <li>decentDesc->достойное учебное руководство</li>
+        <li>decentDesc->интересное и информативное, с дельными советами</li>
+        <li>decentDesc->сосредоточено на одном эффективном методе обучения</li>
+        <li>decentDesc->иногда увлекательное, с понятными примерами</li>
+        <li>decentDesc->понравится тем, кто хочет усовершенствовать свои навыки</li>
+        <li>decentExtra->, но ему не хватает продвинутых стратегий.</li>
+        <li>decentExtra->, но некоторые примеры кажутся устаревшими.</li>
+        <li>decentExtra->, но его методы иногда неясны.</li>
+        <li>decentExtra->, но оно слишком сильно фокусируется на теории, а не на практике.</li>
+        <li>decentExtra->, но оно часто усложняет простые идеи.</li>
+        <li>awfulDesc->написано человеком, плохо понимающим суть обучения</li>
+        <li>awfulDesc->полно неуместных личных историй</li>
+        <li>awfulDesc->расплывчатое и неструктурированное</li>
+        <li>awfulDesc->лишено четких, практических советов</li>
+        <li>awfulDesc->изобилует противоречивыми утверждениями</li>
+        <li>awfulExtra->, и его советы часто контрпродуктивны.</li>
+        <li>awfulExtra->, и оно не затрагивает ключевые принципы развития навыков.</li>
+        <li>awfulExtra->, и оно включает бессмысленные или бесполезные методы.</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Книга была опубликована [date_form].</li>
+        <li>maybe_date->Текст был впервые напечатан [date_form].</li>
+        <li>maybe_date->Неизвестно, когда именно была написана эта книга.</li>
+        <li>date_form->недавно</li>
+        <li>date_form->много веков назад</li>
+        <li>date_form->[date]</li>
+        <li>date_form->[date_season]</li>
+        <li>bookType(p=4)->учебное пособие</li>
+        <li>bookType(p=2)->методическое пособие</li>
+        <li>bookType->справочник</li>
+        <li>bookType->образовательное руководство</li>
+        <li>bookType->учебный материал</li>
+    </ABooks_TrainingManual_Description.rulePack.rulesStrings>
+
+</LanguageData>

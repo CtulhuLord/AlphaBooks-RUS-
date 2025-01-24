@@ -1,0 +1,44 @@
+﻿<LanguageData>
+
+    <ABooks_BookOfPortents_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic(p=5)->[randAdjective] Книга предзнаменований</li>
+        <li>titleBasic(p=5)->Хроники [randAdjective] небес</li>
+        <li>titleBasic(p=5)->Небесный кодекс</li>
+        <li>titleBasic(p=5)->Пророчества [randAdjective] небес</li>
+        <li>titleBasic(p=5)->Предзнаменования [randAstronomicalPhenomenon]</li>
+        <li>titleBasic->Тайный альманах</li>
+        <li>titleBasic->Знамения и предзнаменования</li>
+        <li>titleBasic->Откровения астронома</li>
+        <li>titleBasic->Знаки из Пустоты</li>
+        <li>titleBasic->Предвещающие небеса</li>
+        <li>titleAuthored->Небесный путеводитель [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Пророческий компендиум [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Кодекс предзнаменований [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Мистический астральный том [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Альманах предзнаменований [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Руководство по небесным предзнаменованиям [ANYPAWN_nameIndef]</li>
+        <li>randAdjective->Эфирная</li>
+        <li>randAdjective->Тайная</li>
+        <li>randAdjective->Мистическая</li>
+        <li>randAdjective->Роковая</li>
+        <li>randAdjective->Древняя</li>
+        <li>randAdjective->Незримая</li>
+        <li>randAdjective->Оккультная</li>
+        <li>randAdjective->Потусторонняя</li>
+        <li>randAdjective->Загадочная</li>
+        <li>randAdjective->Зловещая</li>
+        <li>randAstronomicalPhenomenon->Затмения</li>
+        <li>randAstronomicalPhenomenon->Северного сияния</li>
+        <li>randAstronomicalPhenomenon->Метеорного потока</li>
+        <li>randAstronomicalPhenomenon->Солнечной вспышки</li>
+        <li>randAstronomicalPhenomenon->Звездного света</li>
+        <li>randAstronomicalPhenomenon->Кометы</li>
+        <li>randAstronomicalPhenomenon->Кровавой луны</li>
+        <li>randAstronomicalPhenomenon->Вихря Пустоты</li>
+        <li>randAstronomicalPhenomenon->Сверхновой</li>
+        <li>randAstronomicalPhenomenon->Падающих звезд</li>
+    </ABooks_BookOfPortents_Namer.rulePack.rulesStrings>
+
+</LanguageData>

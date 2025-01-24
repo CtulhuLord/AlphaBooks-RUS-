@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_MedicalJournal.label>Медицинская экспертиза</ABooks_MedicalJournal.label>
+    <ABooks_MedicalJournal.description>Чтение медицинского журнала повысило медицинские навыки этого человека.</ABooks_MedicalJournal.description>
+    <ABooks_MedicalJournal.stages.awful.label>Ужасно</ABooks_MedicalJournal.stages.awful.label>
+    <ABooks_MedicalJournal.stages.poor.label>Плохо</ABooks_MedicalJournal.stages.poor.label>
+    <ABooks_MedicalJournal.stages.normal.label>Нормально</ABooks_MedicalJournal.stages.normal.label>
+    <ABooks_MedicalJournal.stages.good.label>Хорошо</ABooks_MedicalJournal.stages.good.label>
+    <ABooks_MedicalJournal.stages.excellent.label>Отлично</ABooks_MedicalJournal.stages.excellent.label>
+    <ABooks_MedicalJournal.stages.masterwork.label>Шедеврально</ABooks_MedicalJournal.stages.masterwork.label>
+    <ABooks_MedicalJournal.stages.legendary.label>Легендарно</ABooks_MedicalJournal.stages.legendary.label>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<LanguageData>
+
+    <ABooks_ZoologicalCompendium_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic(p=6)->Сборник [randAdjective] фауны</li>
+        <li>titleBasic(p=6)->[randAdjective] существа: Исследование</li>
+        <li>titleBasic->Исследование [randAdjective] зверей</li>
+        <li>titleBasic->[randAdjective] бестиарий</li>
+        <li>titleBasic->Справочник по удивительным существам</li>
+        <li>titleBasic->Чудеса животного мира</li>
+        <li>titleBasic->[randAdjective] зоопарк: Хроника зверей</li>
+        <li>titleBasic->Наблюдения за [randAdjective] животными</li>
+        <li>titleBasic->Каталог диковинных зверей</li>
+        <li>titleBasic->Полевые заметки о диких существах</li>
+        <li>titleAuthored->Сборник [ANYPAWN_nameDef] о зверях</li>
+        <li>titleAuthored->Зоологические наблюдения [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Бестиарий существ [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Хроника [randAdjective] существ [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Справочник [ANYPAWN_nameDef] по фауне</li>
+        <li>titleAuthored->Заметки [ANYPAWN_nameDef] о [randAdjective] дикой природе</li>
+        <li>randAdjective->экзотической</li>
+        <li>randAdjective->загадочной</li>
+        <li>randAdjective->чудесной</li>
+        <li>randAdjective->дикой</li>
+        <li>randAdjective->свирепой</li>
+        <li>randAdjective->неукротимой</li>
+        <li>randAdjective->мистической</li>
+        <li>randAdjective->редкой</li>
+        <li>randAdjective->величественной</li>
+        <li>randAdjective->древней</li>
+    </ABooks_ZoologicalCompendium_Namer.rulePack.rulesStrings>
+
+</LanguageData>

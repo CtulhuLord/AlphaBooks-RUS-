@@ -1,0 +1,53 @@
+﻿<LanguageData>
+
+    <ABooks_BoardedDoor.label>Заколоченная дверь</ABooks_BoardedDoor.label>
+
+    <ABooks_BoardedDoor.description>Непроходимая заколоченная дверь.</ABooks_BoardedDoor.description>
+
+    <ABooks_BookPile.label>Куча книг</ABooks_BookPile.label>
+
+    <ABooks_BookPile.description>Огромная куча испорченных книг.</ABooks_BookPile.description>
+
+    <ABooks_BookPlinth_ruins.label>Подставка для книг</ABooks_BookPlinth_ruins.label>
+
+    <ABooks_BookPlinth_ruins.description>Небольшая подставка для демонстрации одной открытой книги. Книги, хранящиеся здесь, будут пассивно улучшать интеллектуальную работу, выполняемую поблизости, и повышать красоту подставки. Хранимые книги никогда не испортятся.\n\nКрасота книги, хранящейся на подставке, умножается на 10.</ABooks_BookPlinth_ruins.description>
+
+    <ABooks_Filth_Paper.label>Бумажный мусор</ABooks_Filth_Paper.label>
+
+    <ABooks_RaidSpawner.label>Разрушенный радиомаяк</ABooks_RaidSpawner.label>
+
+    <ABooks_RaidSpawner.description>Это устройство, кажется, излучает слабые радиоволны.</ABooks_RaidSpawner.description>
+
+    <ABooks_RuinedBookcase.label>Разрушенный книжный шкаф</ABooks_RuinedBookcase.label>
+
+    <ABooks_RuinedBookcase.description>Широкий книжный шкаф для хранения и демонстрации до десяти книг. Книги, хранящиеся здесь, будут пассивно улучшать интеллектуальную работу, выполняемую поблизости, и повышать красоту книжного шкафа. Хранимые книги никогда не испортятся.</ABooks_RuinedBookcase.description>
+
+    <ABooks_RuinedBookcase_Filled.label>Разрушенный книжный шкаф (заполненный)</ABooks_RuinedBookcase_Filled.label>
+
+    <ABooks_RuinedBookcase_Filled.description>Широкий книжный шкаф для хранения и демонстрации до десяти книг. Книги, хранящиеся здесь, будут пассивно улучшать интеллектуальную работу, выполняемую поблизости, и повышать красоту книжного шкафа. Хранимые книги никогда не испортятся.</ABooks_RuinedBookcase_Filled.description>
+
+    <ABooks_RuinedBookcase_Small.label>Разрушенный маленький книжный шкаф</ABooks_RuinedBookcase_Small.label>
+
+    <ABooks_RuinedBookcase_Small.description>Узкий книжный шкаф для хранения и демонстрации до пяти книг. Книги, хранящиеся здесь, будут пассивно улучшать интеллектуальную работу, выполняемую поблизости, и повышать красоту книжного шкафа. Хранимые книги никогда не испортятся.</ABooks_RuinedBookcase_Small.description>
+
+    <ABooks_RuinedBookcase_Small_Filled.label>Разрушенный маленький книжный шкаф (заполненный)</ABooks_RuinedBookcase_Small_Filled.label>
+
+    <ABooks_RuinedBookcase_Small_Filled.description>Узкий книжный шкаф для хранения и демонстрации до пяти книг. Книги, хранящиеся здесь, будут пассивно улучшать интеллектуальную работу, выполняемую поблизости, и повышать красоту книжного шкафа. Хранимые книги никогда не испортятся.</ABooks_RuinedBookcase_Small_Filled.description>
+
+    <ABooks_RuinedChair.label>Разрушенный стул</ABooks_RuinedChair.label>
+
+    <ABooks_RuinedChair.description>Этот стул видел лучшие времена.</ABooks_RuinedChair.description>
+
+    <ABooks_RuinedSign.label>Разрушенная вывеска</ABooks_RuinedSign.label>
+
+    <ABooks_RuinedSign.description>Эта вывеска видела лучшие времена.</ABooks_RuinedSign.description>
+
+    <ABooks_RuinedTable.label>Разрушенный стол</ABooks_RuinedTable.label>
+
+    <ABooks_RuinedTable.description>Этот стол видел лучшие времена.</ABooks_RuinedTable.description>
+
+    <ABooks_RuinedWall.label>Разрушенная деревянная стена</ABooks_RuinedWall.label>
+
+    <ABooks_RuinedWall.description>Непроходимая стена. Способна поддерживать крышу.</ABooks_RuinedWall.description>
+
+</LanguageData>

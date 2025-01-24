@@ -1,0 +1,60 @@
+﻿<LanguageData>
+
+    <ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+        <li>title(p=4)->[religiousTextNameBasic]</li>
+        <li>title(p=2)->[religiousTextNameGrandiose]</li>
+        <li>title->[religiousTextNameSimple]</li>
+        <li>title->[religiousTextNameAuthored]</li>
+        <li>religiousTextNameBasic(p=6)->Путь [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic(p=6)->Кодекс [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic(p=6)->Учения [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic(p=6)->Писания [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic->Священное писание [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic->Доктрина [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic->Священное Писание [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic->Гимны [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic->Откровения [altStructureNameBasic]</li>
+        <li>religiousTextNameBasic->Святое Слово [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose(p=6)->Вечная мудрость [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose(p=6)->Открывающаяся истина [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Небесное завещание [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Божественный мандат [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Хроники [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Вечные учения [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Пророчества [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Непреложные законы [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Святой эдикт [altStructureNameBasic]</li>
+        <li>religiousTextNameGrandiose->Священный завет [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple(p=6)->[altStructureNameBasic]</li>
+        <li>religiousTextNameSimple(p=6)->Размышления о [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Путь [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Медитации о [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Свитки [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Слова [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Мудрость [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Стихи [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Завет [altStructureNameBasic]</li>
+        <li>religiousTextNameSimple->Законы [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored(p=6)->Откровения [ANYPAWN_nameIndef] о [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored(p=6)->Хроника [ANYPAWN_nameIndef] о [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Завещание [ANYPAWN_nameIndef] [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Размышления [ANYPAWN_nameIndef] о [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Видения [ANYPAWN_nameIndef] [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Гимны [ANYPAWN_nameIndef] [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Философия [ANYPAWN_nameIndef] [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Священные писания [ANYPAWN_nameIndef] [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Пророчества [ANYPAWN_nameIndef] [altStructureNameBasic]</li>
+        <li>religiousTextNameAuthored->Божественные откровения [ANYPAWN_nameIndef] о [altStructureNameBasic]</li>
+        <li>altStructureNameBasic->[subject_primary] системы</li>
+        <li>altStructureNameBasic->[subject_primary] структуры</li>
+        <li>altStructureNameBasic->[subject_primary] доктрины</li>
+        <li>altStructureNameBasic->[subject_primary] ордена</li>
+        <li>altStructureNameBasic->[subject_primary] схемы</li>
+        <li>altStructureNameBasic->[subject_primary] организации</li>
+        <li>altStructureNameBasic->[subject_primary] сообщества</li>
+        <li>altStructureNameBasic->[subject_primary] института</li>
+        <li>altStructureNameBasic->[subject_primary] сети</li>
+        <li>altStructureNameBasic->[subject_primary] иерархии</li>
+    </ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<LanguageData>
+
+    <ABooks_InstructionManual_Namer.rulePack.rulesStrings>
+        <li>title->[manualAdjective] [manualType]</li>
+        <li>manualAdjective->Простое</li>
+        <li>manualAdjective->Эффективное</li>
+        <li>manualAdjective->Компактное</li>
+        <li>manualAdjective->Удобное</li>
+        <li>manualAdjective->Минималистичное</li>
+        <li>manualAdjective->Краткое</li>
+        <li>manualAdjective->Слишком сложное</li>
+        <li>manualAdjective->Интуитивно понятное</li>
+        <li>manualType->руководство</li>
+        <li>manualType->руководство по сборке</li>
+        <li>manualType->лист с инструкциями</li>
+        <li>manualType->памятка по сборке</li>
+        <li>manualType->инструкция</li>
+        <li>manualType->пошаговое руководство</li>
+        <li>manualType->руководство для самостоятельной сборки</li>
+    </ABooks_InstructionManual_Namer.rulePack.rulesStrings>
+
+</LanguageData>

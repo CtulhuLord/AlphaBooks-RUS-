@@ -1,0 +1,24 @@
+﻿<LanguageData>
+
+    <ABooks_BookOfCondiments_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic->Алхимия [subject_primary]</li>
+        <li>titleBasic->[subject_primary]: Кулинарная хроника</li>
+        <li>titleBasic->Искусство приготовления [subject_primary]</li>
+        <li>titleBasic->Скрытая сила [subject_primary]</li>
+        <li>titleBasic->Трактат о [subject_primary]</li>
+        <li>titleBasic->Секреты [subject_primary]</li>
+        <li>titleBasic->[subject_primary]: Руководство для ценителей</li>
+        <li>titleBasic->Постигая чудеса [subject_primary]</li>
+        <li>titleBasic->Тайны [subject_primary]</li>
+        <li>titleBasic->[subject_primary]: Справочник вкусов</li>
+        <li>titleAuthored->Сборник о [subject_primary] от [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Исследование [subject_primary] от [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Размышления о [subject_primary] от [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Руководство по [subject_primary] от [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Изучение [subject_primary] от [ANYPAWN_nameDef]</li>
+        <li>titleAuthored->Искусство [subject_primary] от [ANYPAWN_nameDef]</li>
+    </ABooks_BookOfCondiments_Namer.rulePack.rulesStrings>
+
+</LanguageData>

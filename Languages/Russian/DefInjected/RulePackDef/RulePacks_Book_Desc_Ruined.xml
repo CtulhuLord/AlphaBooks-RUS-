@@ -1,0 +1,77 @@
+﻿<LanguageData>
+
+    <ABooks_RuinedBook_Description.rulePack.rulesStrings>
+        <li>desc->Эт__ [writingQualityAdjective] [bookType] [follows] за [trainer], пок__ [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date].</li>
+        <li>follows->дел__тся техн__ками</li>
+        <li>follows->осв__щает уч__ния</li>
+        <li>follows->док__ментирует трен__ровки</li>
+        <li>follows->иссле__ует мет__ды</li>
+        <li>heOrShe->он</li>
+        <li>heOrShe->она</li>
+        <li>storyStruggles->____________________</li>
+        <li>storyStruggles->_________________________________________</li>
+        <li>storyStruggles->________</li>
+        <li>storyStruggles->____________________________________________________________________</li>
+        <li>trainer->________</li>
+        <li>trainer->тренер</li>
+        <li>trainer->________</li>
+        <li>trainer->инстр__ктор</li>
+        <li>trainer->________</li>
+        <li>trainer->эксп__рта</li>
+        <li>trainer->________</li>
+        <li>trainer->маст__ра</li>
+        <li>trainer->________</li>
+        <li>trainer->практ__кующего</li>
+        <li>writingQualityAdjective(quality==6)->маст__рски созд__нный</li>
+        <li>writingQualityAdjective(quality==5)->инт__ллигентный и прон__цательный</li>
+        <li>writingQualityAdjective(quality==4)->ч__тко и взв__шенно</li>
+        <li>writingQualityAdjective(quality==3)->дост__йно сост__вленный</li>
+        <li>writingQualityAdjective(quality==2)->в лучш__м случ__е ср__дний</li>
+        <li>writingQualityAdjective(quality==1)->пл__хо вып__лненный</li>
+        <li>writingQualityAdjective(quality==0)->едв__ чит__емый</li>
+        <li>writingQualitySentence(quality[greater_than]4)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Это [decentDesc], [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc], [awfulExtra]</li>
+        <li>excellentDesc->гл__бокое иссл__дование разв__тия навык__в</li>
+        <li>excellentDesc->гл__боко прон__цательный проц__сс обуч__ния</li>
+        <li>excellentDesc->пл__тно нап__лнено практ__ческой мудр__стью</li>
+        <li>excellentDesc->тв__рческий и вд__хновляющий</li>
+        <li>excellentDesc->зам__чательное и хор__шо нап__санное рук__водство</li>
+        <li>excellentDesc->нап__лнено увл__кательными ист__риями от оп__тных тр__неров</li>
+        <li>excellentExtra->. Кажд__й шаг осн__вывается на предыд__щем лог__чным обр__зом</li>
+        <li>excellentExtra->. Это увл__кательное чт__ние, кот__рое вд__хновляет на пост__янное сов__ршенствование</li>
+        <li>excellentExtra->. Его сов__ты оч__нь дейст__енны и эфф__ктивны</li>
+        <li>decentDesc->дост__йное руков__дство</li>
+        <li>decentDesc->инт__ресный и инф__рмативный, с д__льными сов__тами</li>
+        <li>decentDesc->соср__доточено на одн__й эфф__ктивной техн__ке обуч__ния</li>
+        <li>decentDesc->иногд__ увл__кает, с нагл__дными прим__рами</li>
+        <li>decentDesc->привл__кательно для тех, кт__ хоч__т улучш__ть свои навык__</li>
+        <li>decentExtra->, но ем__ не хв__тает бол__е широ_их страт__гий</li>
+        <li>decentExtra->, но некот__рые страт__гии каж__тся устар__вшими</li>
+        <li>decentExtra->, но ег_ сов__ты иног__а неяс__ны</li>
+        <li>decentExtra->, но он_ сл__шком сил__но фокус__руется на тео__и, а не на практ__ке</li>
+        <li>decentExtra->, но он_ усложн__ет прост__е ид__и</li>
+        <li>awfulDesc->нап__сано к__м-то с огр__ниченным пон__манием трен__ровок</li>
+        <li>awfulDesc->нап__лнено неум__стными лич__ными ист__риями</li>
+        <li>awfulDesc->неч__ткое и бесс__руктурное</li>
+        <li>awfulDesc->не хв__тает ч__тких, дейст__енных сов__тов</li>
+        <li>awfulDesc->изоб__лует прот__воречивыми утв__рждениями</li>
+        <li>awfulExtra->и ег_ сов__ты част__ контрп__одуктивны</li>
+        <li>awfulExtra->и он_ не рассм__тривает кл__чевые об_чающие принц__пы</li>
+        <li>awfulExtra->и он_ включ__ет непракт__чные или бе__полезные м__тоды</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Кн__га опуб__икована [date_form].</li>
+        <li>maybe_date->Т_кст напеч__тан [date_form].</li>
+        <li>maybe_date->Неяс_о, ког__а был_ нап__сана кн_га.</li>
+        <li>date_form->нед__вно</li>
+        <li>date_form->мно__о век__в наза_</li>
+        <li>date_form->в [date]</li>
+        <li>date_form->в [date_season]</li>
+        <li>bookType(p=4)->уч__бное пос__бие</li>
+        <li>bookType(p=2)->уч__бное руков__дство</li>
+        <li>bookType->спр__вочник</li>
+        <li>bookType->обр__зовательное руков__дство</li>
+        <li>bookType->уч__бный рес__рс</li>
+    </ABooks_RuinedBook_Description.rulePack.rulesStrings>
+
+</LanguageData>

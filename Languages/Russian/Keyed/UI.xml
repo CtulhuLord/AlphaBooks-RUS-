@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <ABooks_SkillLearnFactor>Коэффициент изучения навыков</ABooks_SkillLearnFactor>
+    <ABooks_NotTallied>(Не учтено)</ABooks_NotTallied>
+    <ABooks_ForADay>На 1 день</ABooks_ForADay>
+    <ABooks_ForXDays>На {0} дней</ABooks_ForXDays>
+    <ABooks_RandomInspiration>Читатель получит случайное вдохновение.</ABooks_RandomInspiration>
+    <ABooks_ExtraMood>Читатель получит бонус к настроению {0} на {1}.</ABooks_ExtraMood>
+    <ABooks_Ability>Читатель получит способность «{0}».</ABooks_Ability>
+    <ABooks_Ability_Charges>Читатель получит способность «{0}» с {1} зарядами.</ABooks_Ability_Charges>
+    <ABooks_Ability_Several>Читатель получит одну из следующих способностей: {0}.</ABooks_Ability_Several>
+    <ABooks_Ability_Several_Charges>Читатель получит одну из следующих способностей: {0}.\nПримечание: полученная способность будет иметь {1} зарядов.</ABooks_Ability_Several_Charges>
+    <ABooks_ReligiousMoodImpact>Читатель получит бонус или штраф к настроению в зависимости от того, совпадает ли идеология читателя с идеологической структурой, описанной в книге.</ABooks_ReligiousMoodImpact>
+    <ABooks_Hediff>Читатель получит {0} на {1}.</ABooks_Hediff>
+    <ABooks_HediffNoTime>Читатель получит {0}.</ABooks_HediffNoTime>
+    <ABooks_Nothing>Эта испорченная книга не принесет читателю никакой пользы, кроме небольшого количества развлечения, и она рассыплется после прочтения.</ABooks_Nothing>
+    <ABooks_NewMapLocations>Чтение этой книги откроет {0} новых мест на карте мира.</ABooks_NewMapLocations>
+    <ABooks_UnlockPsycast>Чтение этой книги разблокирует пси-способность «{0}» (уровень {1}) для читателя.</ABooks_UnlockPsycast>
+    <ABooks_Biome>Чтение этой книги даст читателю преимущества в биоме «{0}».</ABooks_Biome>
+    <ABooks_StatsReport_TempMinByBiome>В биоме «{0}»: -20 ºC</ABooks_StatsReport_TempMinByBiome>
+    <ABooks_StatsReport_TempMaxByBiome>В биоме «{0}»: +20 ºC</ABooks_StatsReport_TempMaxByBiome>
+    <ABooks_StatsReport_MultiplierByBiome>В биоме «{0}»: +20 %</ABooks_StatsReport_MultiplierByBiome>
+    <ABooks_CallRaids>Читатель узнает... весьма изобретательные оскорбления для вражеской фракции, которые побудят их совершить набег на колонию с силой, увеличенной в {0} раз.</ABooks_CallRaids>
+    <ABooks_RandomAstronomicalIncident>Благодаря неизвестному механизму чтение этой книги вызовет случайное астрономическое явление.</ABooks_RandomAstronomicalIncident>
+    <ABooks_Nonsense>Текст бессмысленный и почти нечитаемый. Неизвестно, какой эффект может оказать его чтение, если вообще окажет.</ABooks_Nonsense>
+    <ABooks_StainlessSteel>Изучение этого трактата разблокирует нержавеющую сталь как материал, позволяя создавать из нее предметы и использовать в строительстве. Все, что читатель создаст из стали, отныне будет изготавливаться из нержавеющей стали, которая обладает лучшими качествами и не горит.</ABooks_StainlessSteel>
+    <ABooks_DurathreadTechniques>Изучение этого трактата разблокирует дюранить как материал, позволяя создавать из нее предметы и использовать в строительстве. Все, что читатель создаст из ткани, отныне будет изготавливаться из дюранити, которая обладает лучшими качествами.</ABooks_DurathreadTechniques>
+
+    <ABooks_DisableQuests>Отключить задания «Разрушенная библиотека»</ABooks_DisableQuests>
+    <ABooks_DisableQuests_Description>Отключение этой опции предотвратит появление заданий «Разрушенная библиотека». Помните, что эти задания не зависят от других заданий или событий рассказчика (набеги, охотники за головами и т. д.).</ABooks_DisableQuests_Description>
+    <ABooks_QuestRate>Множитель частоты заданий «Разрушенная библиотека» (меньше — чаще)</ABooks_QuestRate>
+    <ABooks_QuestRateTooltip>Частота появления задания «Разрушенная библиотека» умножается на это число (при множителе 1 оно предлагается случайным образом каждые 15–30 дней). Числа меньше 1 уменьшают время, а числа больше 1 увеличивают его. Обратите внимание, что это событие не «заменяет» обычные задания, оно работает независимо.</ABooks_QuestRateTooltip>
+    <ABooks_Reset>Сбросить</ABooks_Reset>
+</LanguageData>

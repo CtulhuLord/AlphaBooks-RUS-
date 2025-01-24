@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_MedicalJournal.label>Медицинский журнал</ABooks_MedicalJournal.label>
+
+    <ABooks_MedicalJournal.description>Медицинский журнал с подробным описанием новых хирургических процедур и техник.</ABooks_MedicalJournal.description>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>Бонус +25% к скорости лечения, штраф -25% к качеству лечения, бонус +25% к скорости операций, штраф -25% к шансу успеха операции.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>Бонус +10% к скорости лечения, штраф -15% к качеству лечения, бонус +10% к скорости операций, штраф -10% к шансу успеха операции.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>Бонус +5% к скорости лечения, бонус +5% к качеству лечения, бонус +5% к скорости операций.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>Бонус +10% к скорости лечения, бонус +5% к качеству лечения, бонус +10% к скорости операций, бонус +5% к шансу успеха операции.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>Бонус +20% к скорости лечения, бонус +15% к качеству лечения, бонус +20% к скорости операций, бонус +15% к шансу успеха операции.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>Бонус +35% к скорости лечения, бонус +20% к качеству лечения, бонус +35% к скорости операций, бонус +20% к шансу успеха операции.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>
+
+    <ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>Бонус +50% к скорости лечения, бонус +25% к качеству лечения, бонус +50% к скорости операций, бонус +25% к шансу успеха операции.</ABooks_MedicalJournal.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>
+
+</LanguageData>

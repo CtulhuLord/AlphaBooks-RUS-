@@ -1,0 +1,133 @@
+﻿<LanguageData>
+
+    <ABooks_AdventuringLogs_Description.rulePack.rulesStrings>
+        <li>desc->[dateEntry] [eventDescription]. [reflection][qualityDescription][ending]</li>
+        <li>desc->[dateEntry] [eventDescription]. [followUpEvent]. [reflection][qualityDescription][ending]</li>
+        <li>desc->[dateEntry] [eventDescription]. [unexpectedDiscovery]. [reflection][qualityDescription][ending]</li>
+        <li>desc->[dateEntry] [eventDescription]. [reflection]. [note]. [qualityDescription][ending]</li>
+        <li>ending->\n\nПосле прочтения эта книга откроет одно или несколько новых мест на карте мира, а затем будет уничтожена.</li>
+        <li>dateEntry->[date_season] [day] день:</li>
+        <li>dateEntry->15-е [date_season]:</li>
+        <li>dateEntry->[day]-е [date_season]:</li>
+        <li>day->5</li>
+        <li>day->11</li>
+        <li>day->19</li>
+        <li>day->23</li>
+        <li>eventDescription->Я отважно пересёк(ла) опасную [location], и оказался(лась) лицом к лицу с [obstacle]</li>
+        <li>eventDescription->Переход через [location] был коварен, но находка [discovery] стоила того</li>
+        <li>eventDescription->Я едва избежал(а) [danger], эта встреча мне нескоро забудется</li>
+        <li>eventDescription->Моё путешествие через [location] открыло [unexpectedEvent]</li>
+        <li>eventDescription->Сегодня я отправился(лась) в [location], где меня поджидало [obstacle]</li>
+        <li>eventDescription->Я заблудился(лась) в [location], но случайно наткнулся(лась) на [discovery]</li>
+        <li>eventDescription->[location] испытал(а) мою выносливость, но преодоление [obstacle] доказало мою решимость</li>
+        <li>eventDescription->Переправа через [location] была полна опасностей, [danger] подстерегала на каждом шагу</li>
+        <li>eventDescription->Во время путешествия по [location] я обнаружил(а) [unexpectedEvent] — открытие огромной важности</li>
+        <li>eventDescription->Моё исследование [location] было прервано встречей с [danger]</li>
+        <li>eventDescription->В сердце [location] я столкнулся(лась) с [obstacle] — испытанием, которое будет меня преследовать</li>
+        <li>eventDescription->Когда я путешествовал(а) по [location], [discovery] предстало передо мной, зрелище, которое воодушевило меня</li>
+        <li>eventDescription->[location] скрывала [unexpectedEvent] — секрет, к раскрытию которого я был(а) не готов(а)</li>
+        <li>eventDescription->Я двинулся(лась) дальше в [location], где тень [danger] следовала за мной</li>
+        <li>eventDescription->Сегодня [location] подарила мне [discovery] — момент триумфа среди хаоса</li>
+        <li>eventDescription->Навигация по [location] была изнурительной, но встреча с [unexpectedEvent] сделала её незабываемой</li>
+        <li>eventDescription->[location] не предлагала передышки, [obstacle] преграждало мне путь</li>
+        <li>eventDescription->В глубинах [location] я наткнулся(лась) на [discovery] — проблеск надежды в дикой местности</li>
+        <li>eventDescription->[location] испытывала мою силу воли, [danger] едва не стоила мне жизни</li>
+        <li>eventDescription->Я отправился(лась) в [location], не подозревая, что [unexpectedEvent] навсегда изменит моё путешествие</li>
+        <li>eventDescription->Выжить в [location] было само по себе подвигом, [danger] угрожала на каждом шагу</li>
+        <li>eventDescription->[location] хранила нерассказанные секреты, [discovery] изменила ход моих путешествий</li>
+        <li>eventDescription->[location] простиралась передо мной бесконечно, её тишину нарушало лишь [unexpectedEvent]</li>
+        <li>eventDescription->Пересечение [location] было трудным, [obstacle] чуть не положило конец моему путешествию</li>
+        <li>eventDescription->В глубине [location] я наткнулся(лась) на [discovery] — момент, от которого у меня перехватило дыхание</li>
+        <li>location->река Мбгун'го</li>
+        <li>location->Осквернённое ущелье</li>
+        <li>location->Забытые архотех-руины</li>
+        <li>location->Покрытый туманом лес</li>
+        <li>location->Изрезанные вершины</li>
+        <li>location->Бескрайние дюны</li>
+        <li>location->Замёрзшие пустоши</li>
+        <li>location->Сверкающие кристальные пещеры</li>
+        <li>location->Разорённые равнины</li>
+        <li>location->Алая топь</li>
+        <li>location->Эхо-пропасть</li>
+        <li>location->Древний архотех-обелиск</li>
+        <li>location->Раскалённые серные равнины</li>
+        <li>location->Удушливые пепельные земли</li>
+        <li>location->Завуалированный полог</li>
+        <li>location->Пики Громового Воя</li>
+        <li>location->Чаща Цепких Лиан</li>
+        <li>location->Черноводное болото</li>
+        <li>location->Полая впадина</li>
+        <li>location->Светящееся болото</li>
+        <li>location->Бронированная трещина</li>
+        <li>location->Испепеляющие пески</li>
+        <li>location->Звёздное плато</li>
+        <li>location->Шепчущие поляны</li>
+        <li>location->Разломленный хребет</li>
+        <li>location->Сумрачная тундра</li>
+        <li>location->Обсидиановая скала</li>
+        <li>location->Заросший храм</li>
+        <li>location->Воющая бездна</li>
+        <li>location->Обожжённый овраг</li>
+        <li>location->Зелёная долина</li>
+        <li>location->Пепелища</li>
+        <li>location->Разрушенный архипелаг</li>
+        <li>location->Заброшенный карьер</li>
+        <li>location->Дельта Золотой реки</li>
+        <li>location->Ледник Морозного Шпиля</li>
+        <li>location->Плачущие степи</li>
+        <li>location->Бассейн Кровавой Луны</li>
+        <li>location->Ущелье Затмения</li>
+        <li>location->Затопленное архотех-хранилище</li>
+        <li>location->Призрачная впадина</li>
+        <li>location->Перевал Змеиного Хребта</li>
+        <li>location->Разлом Забвения</li>
+        <li>location->Освещённые луной водопады</li>
+        <li>location->Пространство Вечных Песков</li>
+        <li>location->Руническое Каменное поле</li>
+        <li>location->Затенённый лабиринт</li>
+        <li>location->Обдуваемые ветром утёсы</li>
+        <li>location->Кобальтовые пещеры</li>
+        <li>location->Роща Морозного Леса</li>
+        <li>location->Бесконечная трясина</li>
+        <li>location->Дюны Пылающего Горизонта</li>
+        <li>location->Кристально-лианная бездна</li>
+        <li>location->Плато, отмеченное Пустотой</li>
+        <li>location->Лагуна Лазурных Цветов</li>
+        <li>location->Безмолвные вершины</li>
+        <li>obstacle->агрессивная стая диких муффало</li>
+        <li>obstacle->племя каннибалов</li>
+        <li>obstacle->неожиданный архотех-страж</li>
+        <li>obstacle->разрушительный электрический шторм</li>
+        <li>obstacle->смертельная засада рейдеров</li>
+        <li>discovery->скрытая долина, кишащая жизнью</li>
+        <li>discovery->древние архотех-резьбы</li>
+        <li>discovery->жила сверкающей золотой руды</li>
+        <li>discovery->забытый колониальный форпост</li>
+        <li>discovery->странная, но красивая светящаяся флора</li>
+        <li>unexpectedEvent->жуткая тишина, нарушаемая лишь шёпотом ветра</li>
+        <li>unexpectedEvent->странный архотех-сигнал, который, казалось, следовал за мной</li>
+        <li>unexpectedEvent->сама местность, казалось, сдвигалась под ногами в странном преображающемся виде</li>
+        <li>unexpectedEvent->воздух, наполнившийся необъяснимой энергией</li>
+        <li>unexpectedEvent->жуткий метеоритный дождь посреди дня</li>
+        <li>followUpEvent->После этого мне удалось найти безопасное место для ночлега.</li>
+        <li>followUpEvent->Борьба оставила меня измученным(ой), но я двинулся(лась) дальше.</li>
+        <li>followUpEvent->Эта встреча была ужасающей, но она привела меня к удивительному новому пути.</li>
+        <li>followUpEvent->Это испытание научило меня быть осторожнее в этих диких землях.</li>
+        <li>reflection->Я вновь осознал(а), насколько хрупким может быть выживание.</li>
+        <li>reflection->Это путешествие испытало каждый грамм моей стойкости.</li>
+        <li>reflection->Я благодарен(на) за маленькие победы среди хаоса.</li>
+        <li>reflection->Край никогда не перестает удивлять и ужасать меня в равной мере.</li>
+        <li>reflection->Эти переживания сформируют меня так, как я пока не могу себе представить.</li>
+        <li>note->Возможно, завтра принесет более тихие моменты для размышлений.</li>
+        <li>note->Дорога впереди неопределенна, но я должен(на) двигаться дальше.</li>
+        <li>note->Я надеюсь, что этот журнал послужит руководством для будущих исследователей.</li>
+        <li>note->Пока что всё, что я могу делать, — это выживать и учиться у Края.</li>
+        <li>qualityDescription(quality==0)->\n\nЗаписи сделаны грубо и едва разборчивы, что отражает борьбу их автора.</li>
+        <li>qualityDescription(quality==1)->\n\nЗаписи в журнале очень небрежные, но искренние, свидетельство перенесенных трудностей.</li>
+        <li>qualityDescription(quality==2)->\n\nЗаметки в основном ясные и увлекательные, предлагая подлинное представление об опасностях Края.</li>
+        <li>qualityDescription(quality==3)->\n\nПроза написана искусно, живо рисуя путешествие в воображении читателя.</li>
+        <li>qualityDescription(quality==4)->\n\nКаждое слово отзывается страстью и точностью, делая чтение захватывающим.</li>
+        <li>qualityDescription(quality==5)->\n\nПисьмо — это изысканный баланс искусства и повествования, поистине шедевр.</li>
+        <li>qualityDescription(quality==6)->\n\nЗаписи выходят за рамки простых слов, являясь артефактом вневременного чуда.</li>
+    </ABooks_AdventuringLogs_Description.rulePack.rulesStrings>
+</LanguageData>

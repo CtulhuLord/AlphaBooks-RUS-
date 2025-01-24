@@ -1,0 +1,44 @@
+﻿<LanguageData>
+
+    <ABooks_TomeOfFire_Namer.rulePack.rulesStrings>
+        <li>title->[intro] [coreConcept]</li>
+        <li>title->[coreConcept] [suffix]</li>
+        <li>intro->Архотех</li>
+        <li>intro->Игнис</li>
+        <li>intro->Пиро</li>
+        <li>intro->Инфернальный</li>
+        <li>intro->Вечный</li>
+        <li>intro->Огненный</li>
+        <li>intro->Прометеев</li>
+        <li>intro->Расплавленный</li>
+        <li>intro->Солнечный</li>
+        <li>intro->Вулканический</li>
+        <li>coreConcept->Кодекс</li>
+        <li>coreConcept->Том</li>
+        <li>coreConcept->Руководство</li>
+        <li>coreConcept->Шифр</li>
+        <li>coreConcept->Протокол</li>
+        <li>coreConcept->Алгоритм</li>
+        <li>coreConcept->Архив</li>
+        <li>coreConcept->Сборник</li>
+        <li>coreConcept->Журнал</li>
+        <li>coreConcept->Чертеж</li>
+        <li>coreConcept->Манифест</li>
+        <li>coreConcept->Матрица</li>
+        <li>suffix->Костра</li>
+        <li>suffix->Вечного Пламени</li>
+        <li>suffix->Воспламенения</li>
+        <li>suffix->Племени Углей</li>
+        <li>suffix->Солнечной Ярости</li>
+        <li>suffix->Огненной Связи</li>
+        <li>suffix->Инфернального Кода</li>
+        <li>suffix->Сияющих Искр</li>
+        <li>suffix->Архонического Пламени</li>
+        <li>suffix->Вулканической Силы</li>
+        <li>suffix->Возрождения</li>
+        <li>suffix->Плазменной Логики</li>
+        <li>suffix->Квантового Пламени</li>
+        <li>suffix->Протокола Углей</li>
+    </ABooks_TomeOfFire_Namer.rulePack.rulesStrings>
+
+</LanguageData>

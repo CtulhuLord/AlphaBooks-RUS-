@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_BotanicalCompendium.label>Ботанический справочник</ABooks_BotanicalCompendium.label>
+
+    <ABooks_BotanicalCompendium.description>Ботанический справочник, содержащий подробную информацию и изображения о местной и иноземной флоре.</ABooks_BotanicalCompendium.description>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.0>\nБонус +1% к скорости работы с растениями, +1% к урожайности растений, +1% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.0>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.1>\nБонус +2% к скорости работы с растениями, +2% к урожайности растений, +2% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.1>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.2>\nБонус +5% к скорости работы с растениями, +5% к урожайности растений, +5% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.2>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.3>\nБонус +15% к скорости работы с растениями, +15% к урожайности растений, +15% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.3>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.4>\nБонус +30% к скорости работы с растениями, +30% к урожайности растений, +30% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.4>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.5>\nБонус +40% к скорости работы с растениями, +40% к урожайности растений, +40% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.5>
+
+    <ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.6>\nБонус +50% к скорости работы с растениями, +50% к урожайности растений, +50% к урожайности наркотических растений.</ABooks_BotanicalCompendium.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.6>
+
+</LanguageData>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_Training_Animals.label>Учебное пособие: Животноводство</ABooks_Training_Animals.label>
+    <ABooks_Training_Animals.description>Чтение учебного пособия по животноводству на три дня повышает скорость изучения навыка животноводства.</ABooks_Training_Animals.description>
+    <ABooks_Training_Animals.stages.awful.label>Ужасно</ABooks_Training_Animals.stages.awful.label>
+    <ABooks_Training_Animals.stages.poor.label>Плохо</ABooks_Training_Animals.stages.poor.label>
+    <ABooks_Training_Animals.stages.normal.label>Нормально</ABooks_Training_Animals.stages.normal.label>
+    <ABooks_Training_Animals.stages.good.label>Хорошо</ABooks_Training_Animals.stages.good.label>
+    <ABooks_Training_Animals.stages.excellent.label>Отлично</ABooks_Training_Animals.stages.excellent.label>
+    <ABooks_Training_Animals.stages.masterwork.label>Шедеврально</ABooks_Training_Animals.stages.masterwork.label>
+    <ABooks_Training_Animals.stages.legendary.label>Легендарно</ABooks_Training_Animals.stages.legendary.label>
+
+    <ABooks_Training_Artistic.label>Учебное пособие: Искусство</ABooks_Training_Artistic.label>
+    <ABooks_Training_Artistic.description>Чтение учебного пособия по искусству на три дня повышает скорость изучения навыка искусства.</ABooks_Training_Artistic.description>
+    <ABooks_Training_Artistic.stages.awful.label>Ужасно</ABooks_Training_Artistic.stages.awful.label>
+    <ABooks_Training_Artistic.stages.poor.label>Плохо</ABooks_Training_Artistic.stages.poor.label>
+    <ABooks_Training_Artistic.stages.normal.label>Нормально</ABooks_Training_Artistic.stages.normal.label>
+    <ABooks_Training_Artistic.stages.good.label>Хорошо</ABooks_Training_Artistic.stages.good.label>
+    <ABooks_Training_Artistic.stages.excellent.label>Отлично</ABooks_Training_Artistic.stages.excellent.label>
+    <ABooks_Training_Artistic.stages.masterwork.label>Шедеврально</ABooks_Training_Artistic.stages.masterwork.label>
+    <ABooks_Training_Artistic.stages.legendary.label>Легендарно</ABooks_Training_Artistic.stages.legendary.label>
+
+    <ABooks_Training_Construction.label>Учебное пособие: Строительство</ABooks_Training_Construction.label>
+    <ABooks_Training_Construction.description>Чтение учебного пособия по строительству на три дня повышает скорость изучения навыка строительства.</ABooks_Training_Construction.description>
+    <ABooks_Training_Construction.stages.awful.label>Ужасно</ABooks_Training_Construction.stages.awful.label>
+    <ABooks_Training_Construction.stages.poor.label>Плохо</ABooks_Training_Construction.stages.poor.label>
+    <ABooks_Training_Construction.stages.normal.label>Нормально</ABooks_Training_Construction.stages.normal.label>
+    <ABooks_Training_Construction.stages.good.label>Хорошо</ABooks_Training_Construction.stages.good.label>
+    <ABooks_Training_Construction.stages.excellent.label>Отлично</ABooks_Training_Construction.stages.excellent.label>
+    <ABooks_Training_Construction.stages.masterwork.label>Шедеврально</ABooks_Training_Construction.stages.masterwork.label>
+    <ABooks_Training_Construction.stages.legendary.label>Легендарно</ABooks_Training_Construction.stages.legendary.label>
+
+    <ABooks_Training_Cooking.label>Учебное пособие: Кулинария</ABooks_Training_Cooking.label>
+    <ABooks_Training_Cooking.description>Чтение учебного пособия по кулинарии на три дня повышает скорость изучения навыка кулинарии.</ABooks_Training_Cooking.description>
+    <ABooks_Training_Cooking.stages.awful.label>Ужасно</ABooks_Training_Cooking.stages.awful.label>
+    <ABooks_Training_Cooking.stages.poor.label>Плохо</ABooks_Training_Cooking.stages.poor.label>
+    <ABooks_Training_Cooking.stages.normal.label>Нормально</ABooks_Training_Cooking.stages.normal.label>
+    <ABooks_Training_Cooking.stages.good.label>Хорошо</ABooks_Training_Cooking.stages.good.label>
+    <ABooks_Training_Cooking.stages.excellent.label>Отлично</ABooks_Training_Cooking.stages.excellent.label>
+    <ABooks_Training_Cooking.stages.masterwork.label>Шедеврально</ABooks_Training_Cooking.stages.masterwork.label>
+    <ABooks_Training_Cooking.stages.legendary.label>Легендарно</ABooks_Training_Cooking.stages.legendary.label>
+
+    <ABooks_Training_Crafting.label>Учебное пособие: Ремесло</ABooks_Training_Crafting.label>
+    <ABooks_Training_Crafting.description>Чтение учебного пособия по ремеслу на три дня повышает скорость изучения навыка ремесла.</ABooks_Training_Crafting.description>
+    <ABooks_Training_Crafting.stages.awful.label>Ужасно</ABooks_Training_Crafting.stages.awful.label>
+    <ABooks_Training_Crafting.stages.poor.label>Плохо</ABooks_Training_Crafting.stages.poor.label>
+    <ABooks_Training_Crafting.stages.normal.label>Нормально</ABooks_Training_Crafting.stages.normal.label>
+    <ABooks_Training_Crafting.stages.good.label>Хорошо</ABooks_Training_Crafting.stages.good.label>
+    <ABooks_Training_Crafting.stages.excellent.label>Отлично</ABooks_Training_Crafting.stages.excellent.label>
+    <ABooks_Training_Crafting.stages.masterwork.label>Шедеврально</ABooks_Training_Crafting.stages.masterwork.label>
+    <ABooks_Training_Crafting.stages.legendary.label>Легендарно</ABooks_Training_Crafting.stages.legendary.label>
+
+    <ABooks_Training_Intellectual.label>Учебное пособие: Интеллект</ABooks_Training_Intellectual.label>
+    <ABooks_Training_Intellectual.description>Чтение учебного пособия по интеллекту на три дня повышает скорость изучения навыка интеллекта.</ABooks_Training_Intellectual.description>
+    <ABooks_Training_Intellectual.stages.awful.label>Ужасно</ABooks_Training_Intellectual.stages.awful.label>
+    <ABooks_Training_Intellectual.stages.poor.label>Плохо</ABooks_Training_Intellectual.stages.poor.label>
+    <ABooks_Training_Intellectual.stages.normal.label>Нормально</ABooks_Training_Intellectual.stages.normal.label>
+    <ABooks_Training_Intellectual.stages.good.label>Хорошо</ABooks_Training_Intellectual.stages.good.label>
+    <ABooks_Training_Intellectual.stages.excellent.label>Отлично</ABooks_Training_Intellectual.stages.excellent.label>
+    <ABooks_Training_Intellectual.stages.masterwork.label>Шедеврально</ABooks_Training_Intellectual.stages.masterwork.label>
+    <ABooks_Training_Intellectual.stages.legendary.label>Легендарно</ABooks_Training_Intellectual.stages.legendary.label>
+
+    <ABooks_Training_Medicine.label>Учебное пособие: Медицина</ABooks_Training_Medicine.label>
+    <ABooks_Training_Medicine.description>Чтение учебного пособия по медицине на три дня повышает скорость изучения навыка медицины.</ABooks_Training_Medicine.description>
+    <ABooks_Training_Medicine.stages.awful.label>Ужасно</ABooks_Training_Medicine.stages.awful.label>
+    <ABooks_Training_Medicine.stages.poor.label>Плохо</ABooks_Training_Medicine.stages.poor.label>
+    <ABooks_Training_Medicine.stages.normal.label>Нормально</ABooks_Training_Medicine.stages.normal.label>
+    <ABooks_Training_Medicine.stages.good.label>Хорошо</ABooks_Training_Medicine.stages.good.label>
+    <ABooks_Training_Medicine.stages.excellent.label>Отлично</ABooks_Training_Medicine.stages.excellent.label>
+    <ABooks_Training_Medicine.stages.masterwork.label>Шедеврально</ABooks_Training_Medicine.stages.masterwork.label>
+    <ABooks_Training_Medicine.stages.legendary.label>Легендарно</ABooks_Training_Medicine.stages.legendary.label>
+
+    <ABooks_Training_Melee.label>Учебное пособие: Ближний бой</ABooks_Training_Melee.label>
+    <ABooks_Training_Melee.description>Чтение учебного пособия по ближнему бою на три дня повышает скорость изучения навыка ближнего боя.</ABooks_Training_Melee.description>
+    <ABooks_Training_Melee.stages.awful.label>Ужасно</ABooks_Training_Melee.stages.awful.label>
+    <ABooks_Training_Melee.stages.poor.label>Плохо</ABooks_Training_Melee.stages.poor.label>
+    <ABooks_Training_Melee.stages.normal.label>Нормально</ABooks_Training_Melee.stages.normal.label>
+    <ABooks_Training_Melee.stages.good.label>Хорошо</ABooks_Training_Melee.stages.good.label>
+    <ABooks_Training_Melee.stages.excellent.label>Отлично</ABooks_Training_Melee.stages.excellent.label>
+    <ABooks_Training_Melee.stages.masterwork.label>Шедеврально</ABooks_Training_Melee.stages.masterwork.label>
+    <ABooks_Training_Melee.stages.legendary.label>Легендарно</ABooks_Training_Melee.stages.legendary.label>
+
+    <ABooks_Training_Mining.label>Учебное пособие: Горное дело</ABooks_Training_Mining.label>
+    <ABooks_Training_Mining.description>Чтение учебного пособия по горному делу на три дня повышает скорость изучения навыка горного дела.</ABooks_Training_Mining.description>
+    <ABooks_Training_Mining.stages.awful.label>Ужасно</ABooks_Training_Mining.stages.awful.label>
+    <ABooks_Training_Mining.stages.poor.label>Плохо</ABooks_Training_Mining.stages.poor.label>
+    <ABooks_Training_Mining.stages.normal.label>Нормально</ABooks_Training_Mining.stages.normal.label>
+    <ABooks_Training_Mining.stages.good.label>Хорошо</ABooks_Training_Mining.stages.good.label>
+    <ABooks_Training_Mining.stages.excellent.label>Отлично</ABooks_Training_Mining.stages.excellent.label>
+    <ABooks_Training_Mining.stages.masterwork.label>Шедеврально</ABooks_Training_Mining.stages.masterwork.label>
+    <ABooks_Training_Mining.stages.legendary.label>Легендарно</ABooks_Training_Mining.stages.legendary.label>
+
+    <ABooks_Training_Plants.label>Учебное пособие: Растениеводство</ABooks_Training_Plants.label>
+    <ABooks_Training_Plants.description>Чтение учебного пособия по растениеводству на три дня повышает скорость изучения навыка растениеводства.</ABooks_Training_Plants.description>
+    <ABooks_Training_Plants.stages.awful.label>Ужасно</ABooks_Training_Plants.stages.awful.label>
+    <ABooks_Training_Plants.stages.poor.label>Плохо</ABooks_Training_Plants.stages.poor.label>
+    <ABooks_Training_Plants.stages.normal.label>Нормально</ABooks_Training_Plants.stages.normal.label>
+    <ABooks_Training_Plants.stages.good.label>Хорошо</ABooks_Training_Plants.stages.good.label>
+    <ABooks_Training_Plants.stages.excellent.label>Отлично</ABooks_Training_Plants.stages.excellent.label>
+    <ABooks_Training_Plants.stages.masterwork.label>Шедеврально</ABooks_Training_Plants.stages.masterwork.label>
+    <ABooks_Training_Plants.stages.legendary.label>Легендарно</ABooks_Training_Plants.stages.legendary.label>
+
+    <ABooks_Training_Shooting.label>Учебное пособие: Стрельба</ABooks_Training_Shooting.label>
+    <ABooks_Training_Shooting.description>Чтение учебного пособия по стрельбе на три дня повышает скорость изучения навыка стрельбы.</ABooks_Training_Shooting.description>
+    <ABooks_Training_Shooting.stages.awful.label>Ужасно</ABooks_Training_Shooting.stages.awful.label>
+    <ABooks_Training_Shooting.stages.poor.label>Плохо</ABooks_Training_Shooting.stages.poor.label>
+    <ABooks_Training_Shooting.stages.normal.label>Нормально</ABooks_Training_Shooting.stages.normal.label>
+    <ABooks_Training_Shooting.stages.good.label>Хорошо</ABooks_Training_Shooting.stages.good.label>
+    <ABooks_Training_Shooting.stages.excellent.label>Отлично</ABooks_Training_Shooting.stages.excellent.label>
+    <ABooks_Training_Shooting.stages.masterwork.label>Шедеврально</ABooks_Training_Shooting.stages.masterwork.label>
+    <ABooks_Training_Shooting.stages.legendary.label>Легендарно</ABooks_Training_Shooting.stages.legendary.label>
+
+    <ABooks_Training_Social.label>Учебное пособие: Общение</ABooks_Training_Social.label>
+    <ABooks_Training_Social.description>Чтение учебного пособия по общению на три дня повышает скорость изучения навыка общения.</ABooks_Training_Social.description>
+    <ABooks_Training_Social.stages.awful.label>Ужасно</ABooks_Training_Social.stages.awful.label>
+    <ABooks_Training_Social.stages.poor.label>Плохо</ABooks_Training_Social.stages.poor.label>
+    <ABooks_Training_Social.stages.normal.label>Нормально</ABooks_Training_Social.stages.normal.label>
+    <ABooks_Training_Social.stages.good.label>Хорошо</ABooks_Training_Social.stages.good.label>
+    <ABooks_Training_Social.stages.excellent.label>Отлично</ABooks_Training_Social.stages.excellent.label>
+    <ABooks_Training_Social.stages.masterwork.label>Шедеврально</ABooks_Training_Social.stages.masterwork.label>
+    <ABooks_Training_Social.stages.legendary.label>Легендарно</ABooks_Training_Social.stages.legendary.label>
+
+</LanguageData>

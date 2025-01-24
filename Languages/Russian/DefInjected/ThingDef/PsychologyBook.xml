@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_PsychologyBook.label>Книга по психологии</ABooks_PsychologyBook.label>
+
+    <ABooks_PsychologyBook.description>Книга по психологии, рассматривающая более сложные аспекты человеческого разума.</ABooks_PsychologyBook.description>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>Бонус -1% к порогу психического срыва.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>Бонус -5% к порогу психического срыва.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>Бонус -10% к порогу психического срыва, 10% подавления мыслей.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>Бонус -15% к порогу психического срыва, 15% подавления мыслей.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>Бонус -20% к порогу психического срыва, 25% подавления мыслей.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>Бонус -25% к порогу психического срыва, 35% подавления мыслей, -5% базовое изменение настроения, блокировка психических срывов.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>
+
+    <ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>Бонус -25% к порогу психического срыва, 50% подавления мыслей, -10% базовое изменение настроения, блокировка психических срывов.</ABooks_PsychologyBook.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>
+
+</LanguageData>

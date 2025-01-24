@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_InstructionManual.label>Инженерный опыт</ABooks_InstructionManual.label>
+    <ABooks_InstructionManual.description>Чтение руководства по эксплуатации дало этому человеку способность повышать качество создаваемых предметов на одну ступень. Эффект суммируется с другими бонусами к качеству, такими как догматы из VE Memes.</ABooks_InstructionManual.description>
+    <ABooks_InstructionManual.stages.awful.label>Ужасно</ABooks_InstructionManual.stages.awful.label>
+    <ABooks_InstructionManual.stages.poor.label>Плохо</ABooks_InstructionManual.stages.poor.label>
+    <ABooks_InstructionManual.stages.normal.label>Нормально</ABooks_InstructionManual.stages.normal.label>
+    <ABooks_InstructionManual.stages.good.label>Хорошо</ABooks_InstructionManual.stages.good.label>
+    <ABooks_InstructionManual.stages.excellent.label>Отлично</ABooks_InstructionManual.stages.excellent.label>
+    <ABooks_InstructionManual.stages.masterwork.label>Шедеврально</ABooks_InstructionManual.stages.masterwork.label>
+    <ABooks_InstructionManual.stages.legendary.label>Легендарно</ABooks_InstructionManual.stages.legendary.label>
+
+</LanguageData>

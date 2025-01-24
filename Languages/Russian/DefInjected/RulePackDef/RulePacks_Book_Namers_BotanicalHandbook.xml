@@ -1,0 +1,30 @@
+﻿<LanguageData>
+
+    <ABooks_BotanicalCompendium_Namer.rulePack.rulesStrings>
+        <li>title->[prefix] [subject_primary]</li>
+        <li>title->[subject_primary]: [core]</li>
+        <li>title->[prefix] [subject_primary]: [core]</li>
+        <li>title->[subject_primary] [suffix]</li>
+        <li>title->[core] о [subject_primary]</li>
+        <li>prefix->Изучение</li>
+        <li>prefix->Секреты</li>
+        <li>prefix->Руководство по</li>
+        <li>prefix->Тайны</li>
+        <li>prefix->Жизненный цикл</li>
+        <li>prefix->Исследование</li>
+        <li>core->Ботанический взгляд</li>
+        <li>core->Аномальное явление</li>
+        <li>core->Применение и знания</li>
+        <li>core->Руководство выживальщика</li>
+        <li>core->Медицинские и питательные сведения</li>
+        <li>core->Наблюдения на краю обитаемого мира</li>
+        <li>core->Неожиданный рост</li>
+        <li>core->Спутник поселенца</li>
+        <li>suffix->в суровейших биомах</li>
+        <li>suffix->RimWorld</li>
+        <li>suffix->в диких ландшафтах</li>
+        <li>suffix->и их значение</li>
+        <li>suffix->для колонистов</li>
+    </ABooks_BotanicalCompendium_Namer.rulePack.rulesStrings>
+
+</LanguageData>

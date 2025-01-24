@@ -1,0 +1,64 @@
+﻿<LanguageData>
+
+    <ABooks_ZoologicalCompendium_Description.rulePack.rulesStrings>
+        <li>desc->[context] [excerpt]\n\n[writingQualitySentence] [ending]</li>
+        <li>excerpt->Взгляните на таких существ, как [creatureAdjective] [creatureName] — чудо природы. Его [notableTrait] делает его [traitImpact] среди всей известной фауны.</li>
+        <li>excerpt->Среди множества занесенных сюда существ выделяется [creatureAdjective] [creatureName]. Известный своим [notableTrait], он вдохновил [reaction].</li>
+        <li>excerpt->Среди всех этих существ немногие вызывают такое благоговение, как [creatureAdjective] [creatureName] с его [notableTrait]. Будучи [traitImpact] в своей среде обитания, он не поддается простой классификации.</li>
+        <li>excerpt->[creatureAdjective] [creatureName] — существо, обладающее [notableTrait]. Он является частью [reaction], что закрепило его место в анналах зоологической истории.</li>
+        <li>context->Основанный на десятилетиях исследований, этот компендиум представляет множество невероятных открытий.</li>
+        <li>context->Основываясь на тщательных наблюдениях, этот том стремится зафиксировать всех разнообразных животных Rimworld.</li>
+        <li>context->Сквозь призму науки и чуда этот том описывает обширные вариации биологических творений человека.</li>
+        <li>context->Этот труд, плод любопытства и благоговения, охватывает десятилетия изучения фауны Rimworld.</li>
+        <li>writingQualitySentence(quality==6)->Это выдающаяся работа по зоологической науке, достойная места в любой уважаемой коллекции.</li>
+        <li>writingQualitySentence(quality==5)->Это продуманная и подробная хроника, несомненно, обогатит разум своего читателя.</li>
+        <li>writingQualitySentence(quality==4)->Это компетентное исследование, предоставляющее ценные сведения о чудесах фауны.</li>
+        <li>writingQualitySentence(quality==3)->Это функциональный, но ничем не примечательный том, предлагающий стандартные наблюдения.</li>
+        <li>writingQualitySentence(quality==2)->Это несовершенная работа, изобилующая ошибками, но сохраняющая проблески интриги.</li>
+        <li>writingQualitySentence(quality==1)->Это случайная попытка, лишенная строгости и изобилующая ошибками.</li>
+        <li>writingQualitySentence(quality==0)->Это смехотворная неудача, чьи неточности затмевают любые достоинства.</li>
+        <li>ending->\n\nПосле изучения эта книга вдохновляет читателя бонусами, связанными с животными, и при этом исчезает.</li>
+        <li>creatureAdjective->могучий</li>
+        <li>creatureAdjective->загадочный</li>
+        <li>creatureAdjective->грациозный</li>
+        <li>creatureAdjective->неуловимый</li>
+        <li>creatureAdjective->свирепый</li>
+        <li>creatureAdjective->таинственный</li>
+        <li>creatureAdjective->экзотический</li>
+        <li>creatureName->трумбо</li>
+        <li>creatureName->мегаленивец</li>
+        <li>creatureName->муффало</li>
+        <li>creatureName->варг</li>
+        <li>creatureName->мегапаук</li>
+        <li>creatureName->мимик</li>
+        <li>creatureName->кактусовый исполин</li>
+        <li>creatureName->ночник</li>
+        <li>creatureName->фениксовый сова-кот</li>
+        <li>creatureName->аэрофлит</li>
+        <li>creatureName->небесный угорь</li>
+        <li>creatureName->галлатрос</li>
+        <li>creatureName->арктический лев</li>
+        <li>creatureName->хамелеон-як</li>
+        <li>creatureName->пеплозмей</li>
+        <li>creatureName->кристаллический каракал</li>
+        <li>creatureName->ферралиск</li>
+        <li>creatureName->мамонтовый червь</li>
+        <li>notableTrait->великолепную шерсть</li>
+        <li>notableTrait->огромные размеры</li>
+        <li>notableTrait->поразительную осанку</li>
+        <li>notableTrait->природную свирепость</li>
+        <li>notableTrait->своеобразные брачные повадки</li>
+        <li>notableTrait->способность выживать в экстремальных условиях</li>
+        <li>traitImpact->ключевым видом</li>
+        <li>traitImpact->ужасающим хищником</li>
+        <li>traitImpact->источником бесконечного восхищения</li>
+        <li>traitImpact->символом выносливости</li>
+        <li>traitImpact->редкостью в мире природы</li>
+        <li>reaction->песни и мифы разных культур</li>
+        <li>reaction->изучение бесчисленных ученых</li>
+        <li>reaction->страх и уважение в равной мере</li>
+        <li>reaction->ценные трофеи среди охотников</li>
+        <li>reaction->любопытство натуралистов</li>
+    </ABooks_ZoologicalCompendium_Description.rulePack.rulesStrings>
+
+</LanguageData>

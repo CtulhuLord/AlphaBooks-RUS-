@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_Headache.label>Сильнейшая головная боль</ABooks_Headache.label>
+    <ABooks_Headache.description>Эти проклятые офисные записки! Что они вообще значат??</ABooks_Headache.description>
+    <ABooks_Headache.stages.awful.label>Ужасно</ABooks_Headache.stages.awful.label>
+    <ABooks_Headache.stages.poor.label>Плохо</ABooks_Headache.stages.poor.label>
+    <ABooks_Headache.stages.normal.label>Нормально</ABooks_Headache.stages.normal.label>
+    <ABooks_Headache.stages.good.label>Хорошо</ABooks_Headache.stages.good.label>
+    <ABooks_Headache.stages.excellent.label>Отлично</ABooks_Headache.stages.excellent.label>
+    <ABooks_Headache.stages.masterwork.label>Шедеврально</ABooks_Headache.stages.masterwork.label>
+    <ABooks_Headache.stages.legendary.label>Легендарно</ABooks_Headache.stages.legendary.label>
+
+</LanguageData>

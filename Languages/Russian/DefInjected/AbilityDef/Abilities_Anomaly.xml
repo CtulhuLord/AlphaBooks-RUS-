@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_CorrosiveSpray_Charges.label>Разъедающее распыление</ABooks_CorrosiveSpray_Charges.label>
+    <ABooks_CorrosiveSpray_Charges.description>Распыляет кислоту на небольшое расстояние с высокой скоростью.</ABooks_CorrosiveSpray_Charges.description>
+
+    <ABooks_MetalbloodInjection_Charges.label>Инъекция металлокрови</ABooks_MetalbloodInjection_Charges.label>
+    <ABooks_MetalbloodInjection_Charges.description>Выпускает сыворотку металлокрови в кровоток, снижая получаемый урон на короткое время.</ABooks_MetalbloodInjection_Charges.description>
+
+    <ABooks_PsychicSlaughter_Charges.label>Психическая бойня</ABooks_PsychicSlaughter_Charges.label>
+    <ABooks_PsychicSlaughter_Charges.description>Использует тёмную психическую силу, чтобы вызвать хаотическую реконфигурацию плоти. Это убивает плотское существо за считанные секунды и превращает его тело в груду извивающейся плоти.</ABooks_PsychicSlaughter_Charges.description>
+
+    <ABooks_ReleaseDeadlifeDust_Charges.label>Высвобождение праха мёртвой жизни</ABooks_ReleaseDeadlifeDust_Charges.label>
+    <ABooks_ReleaseDeadlifeDust_Charges.description>Высвобождает облако пылеобразного вещества, которое оседает на ближайших трупах и поднимает их в виде шаркунов. Шаркуны будут атаковать только ваших врагов. Прах мёртвой жизни состоит из архитов наноразмера, которые проникают и оживляют мёртвые ткани на клеточном уровне.</ABooks_ReleaseDeadlifeDust_Charges.description>
+    <ABooks_ReleaseDeadlifeDust_Charges.verbProperties.label>Высвободить прах мёртвой жизни</ABooks_ReleaseDeadlifeDust_Charges.verbProperties.label>
+
+    <ABooks_ShapeFlesh_Charges.label>Формирование плоти</ABooks_ShapeFlesh_Charges.label>
+    <ABooks_ShapeFlesh_Charges.description>Заставляет тёмный архитех реконфигурировать труп в ужасного плотоядного зверя. Плотоядный зверь будет враждебен ко всем людям, включая того, кто его создал.</ABooks_ShapeFlesh_Charges.description>
+
+    <ABooks_TransmuteSteel_Charges.label>Превращение стали</ABooks_TransmuteSteel_Charges.label>
+    <ABooks_TransmuteSteel_Charges.description>Реконфигурирует сталь на атомном уровне, превращая её в случайный ценный материал. Может быть применено к стопке стали или куску стального шлака.</ABooks_TransmuteSteel_Charges.description>
+    <ABooks_TransmuteSteel_Charges.comps.CompAbilityEffect_Transmute.failedMessage>Необходимо выбрать сталь, куски стального шлака, стальные постройки или стальные предметы.</ABooks_TransmuteSteel_Charges.comps.CompAbilityEffect_Transmute.failedMessage>
+
+    <ABooks_UnnaturalHealing_Charges.label>Неестественное исцеление</ABooks_UnnaturalHealing_Charges.label>
+    <ABooks_UnnaturalHealing_Charges.description>Использует тёмное психическое воздействие для исцеления. Процесс остановит кровотечение, восстановит потерю крови и даже может исцелить серьёзные раны. Однако это также может иметь неожиданные побочные эффекты.</ABooks_UnnaturalHealing_Charges.description>
+
+    <ABooks_VoidTerror_Charges.label>Ужас пустоты</ABooks_VoidTerror_Charges.label>
+    <ABooks_VoidTerror_Charges.description>Психически вызывает ужасающие галлюцинации, заставляя человека бежать в ужасе.</ABooks_VoidTerror_Charges.description>
+
+</LanguageData>

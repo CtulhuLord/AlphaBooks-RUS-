@@ -1,0 +1,63 @@
+﻿<LanguageData>
+
+    <ABooks_BookOfPortentsThought.stages.awful_book_of_portents.label>Прочитал книгу предзнаменований (ужасно)</ABooks_BookOfPortentsThought.stages.awful_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.awful_book_of_portents.description>Кто вообще верит в эту чушь? Это просто совпадение.</ABooks_BookOfPortentsThought.stages.awful_book_of_portents.description>
+
+    <ABooks_BookOfPortentsThought.stages.poor_book_of_portents.label>Прочитал книгу предзнаменований (плохо)</ABooks_BookOfPortentsThought.stages.poor_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.poor_book_of_portents.description>Я же сказал, это просто совпадение. Астрология — это обман.</ABooks_BookOfPortentsThought.stages.poor_book_of_portents.description>
+
+    <ABooks_BookOfPortentsThought.stages.normal_book_of_portents.label>Прочитал книгу предзнаменований (нормально)</ABooks_BookOfPortentsThought.stages.normal_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.normal_book_of_portents.description>Хотя я не очень верю в астрологию, по крайней мере, это было интересное чтение.</ABooks_BookOfPortentsThought.stages.normal_book_of_portents.description>
+
+    <ABooks_BookOfPortentsThought.stages.good_book_of_portents.label>Прочитал книгу предзнаменований (хорошо)</ABooks_BookOfPortentsThought.stages.good_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.good_book_of_portents.description>Хотя я не верю в астрологию, очевидно, что эта книга содержала какой-то скрытый механизм архотехов.</ABooks_BookOfPortentsThought.stages.good_book_of_portents.description>
+
+    <ABooks_BookOfPortentsThought.stages.excellent_book_of_portents.label>Прочитал книгу предзнаменований (отлично)</ABooks_BookOfPortentsThought.stages.excellent_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.excellent_book_of_portents.description>Поскольку мы все знаем, что астрология — это неправда, это, должно быть, проделки архотехов!</ABooks_BookOfPortentsThought.stages.excellent_book_of_portents.description>
+
+    <ABooks_BookOfPortentsThought.stages.masterwork_book_of_portents.label>Прочитал книгу предзнаменований (шедевр)</ABooks_BookOfPortentsThought.stages.masterwork_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.masterwork_book_of_portents.description>Благодаря вмешательству архотехов, то, что было всего лишь фантазией, кажется, стало реальностью!</ABooks_BookOfPortentsThought.stages.masterwork_book_of_portents.description>
+
+    <ABooks_BookOfPortentsThought.stages.legendary_book_of_portents.label>Прочитал книгу предзнаменований (легендарно)</ABooks_BookOfPortentsThought.stages.legendary_book_of_portents.label>
+
+    <ABooks_BookOfPortentsThought.stages.legendary_book_of_portents.description>Существуют скрытые чудеса архотехнологий, которые бросают вызов даже человеческой логике, и мы стали свидетелями одного из них!</ABooks_BookOfPortentsThought.stages.legendary_book_of_portents.description>
+
+    <ABooks_RaidedLibrary.stages.raided_library.label>Исследовал разрушенную библиотеку</ABooks_RaidedLibrary.stages.raided_library.label>
+
+    <ABooks_RaidedLibrary.stages.raided_library.description>Ощущение приключения волнующе.</ABooks_RaidedLibrary.stages.raided_library.description>
+
+    <ABooks_SelfHelpBookThought.stages.awful_selfhelp_book.label>Прочитал книгу по саморазвитию (ужасно)</ABooks_SelfHelpBookThought.stages.awful_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.awful_selfhelp_book.description>Что это была за книга? Это же бессмыслица.</ABooks_SelfHelpBookThought.stages.awful_selfhelp_book.description>
+
+    <ABooks_SelfHelpBookThought.stages.poor_selfhelp_book.label>Прочитал книгу по саморазвитию (плохо)</ABooks_SelfHelpBookThought.stages.poor_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.poor_selfhelp_book.description>Ну, это было неубедительно. Не уверен, что это что-то изменит.</ABooks_SelfHelpBookThought.stages.poor_selfhelp_book.description>
+
+    <ABooks_SelfHelpBookThought.stages.normal_selfhelp_book.label>Прочитал книгу по саморазвитию (нормально)</ABooks_SelfHelpBookThought.stages.normal_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.normal_selfhelp_book.description>В этой книге по саморазвитию были полезные советы.</ABooks_SelfHelpBookThought.stages.normal_selfhelp_book.description>
+
+    <ABooks_SelfHelpBookThought.stages.good_selfhelp_book.label>Прочитал книгу по саморазвитию (хорошо)</ABooks_SelfHelpBookThought.stages.good_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.good_selfhelp_book.description>Там были отличные советы. Думаю, это действительно может мне помочь.</ABooks_SelfHelpBookThought.stages.good_selfhelp_book.description>
+
+    <ABooks_SelfHelpBookThought.stages.excellent_selfhelp_book.label>Прочитал книгу по саморазвитию (отлично)</ABooks_SelfHelpBookThought.stages.excellent_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.excellent_selfhelp_book.description>Это было действительно поучительно. Теперь у меня свежий взгляд на жизнь.</ABooks_SelfHelpBookThought.stages.excellent_selfhelp_book.description>
+
+    <ABooks_SelfHelpBookThought.stages.masterwork_selfhelp_book.label>Прочитал книгу по саморазвитию (шедевр)</ABooks_SelfHelpBookThought.stages.masterwork_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.masterwork_selfhelp_book.description>Я чувствую, что разгадал секреты вселенной. Эта книга меня преобразила!</ABooks_SelfHelpBookThought.stages.masterwork_selfhelp_book.description>
+
+    <ABooks_SelfHelpBookThought.stages.legendary_selfhelp_book.label>Прочитал книгу по саморазвитию (легендарно)</ABooks_SelfHelpBookThought.stages.legendary_selfhelp_book.label>
+
+    <ABooks_SelfHelpBookThought.stages.legendary_selfhelp_book.description>Эта книга меняет жизнь. Теперь я вижу все в новом свете!</ABooks_SelfHelpBookThought.stages.legendary_selfhelp_book.description>
+
+</LanguageData>

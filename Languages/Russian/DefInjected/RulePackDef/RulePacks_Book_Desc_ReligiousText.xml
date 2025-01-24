@@ -1,0 +1,83 @@
+﻿<LanguageData>
+
+    <ABooks_ReligiousText_Description.rulePack.rulesStrings>
+        <li>desc->Этот священный текст [subject_primary] предлагает [spiritualInsightAdjective] [guidance] для [adherents]. [lessonSummary] [writingQualitySentence][ending]</li>
+        <li>desc->В этом [spiritualInsightAdjective] писании [subject_primary] [prophetTitle] [reveals] [divineMessage]. [lessonSummary]. [maybe_date][ending]</li>
+        <li>ending->\n\nПосле прочтения эта книга наделит читателя способностями и бонусами, а затем будет уничтожена. Любое возникшее в описании богохульство является непреднамеренным.</li>
+        <li>guidance->глубокую мудрость</li>
+        <li>guidance->духовное руководство</li>
+        <li>guidance->нравственные наставления</li>
+        <li>guidance->божественные заповеди</li>
+        <li>guidance->священные пути к просветлению</li>
+        <li>lessonSummary->Она учит [adherents] [virtueAction] и [aspireToVirtue].</li>
+        <li>lessonSummary->Она подчеркивает важность [virtueNoun] и [spiritualPractice].</li>
+        <li>lessonSummary->Она призывает [adherents] [moralCallToAction] в своей жизни.</li>
+        <li>adherents->последователей [subject_primary]</li>
+        <li>adherents->тех, кто предан иерархии [subject_primary]</li>
+        <li>adherents->верующих [subject_primary]</li>
+        <li>virtueAction->принимать смирение</li>
+        <li>virtueAction->искать божественную мудрость</li>
+        <li>virtueAction->жить в гармонии</li>
+        <li>virtueAction->служить нуждающимся</li>
+        <li>virtueAction->практиковать самоотверженность</li>
+        <li>aspireToVirtue->достичь внутреннего покоя</li>
+        <li>aspireToVirtue->приблизиться к божественному</li>
+        <li>aspireToVirtue->жить добродетельной жизнью</li>
+        <li>aspireToVirtue->чтить учения [subject_primary]</li>
+        <li>virtueNoun->веры</li>
+        <li>virtueNoun->милосердия</li>
+        <li>virtueNoun->сострадания</li>
+        <li>virtueNoun->справедливости</li>
+        <li>virtueNoun->терпения</li>
+        <li>spiritualPractice->молитвы</li>
+        <li>spiritualPractice->медитации</li>
+        <li>spiritualPractice->поклонения</li>
+        <li>spiritualPractice->поста</li>
+        <li>spiritualPractice->паломничества</li>
+        <li>divineMessage->вечные истины [subject_primary]</li>
+        <li>divineMessage->путь к спасению</li>
+        <li>divineMessage->священный завет между божественным и человечеством</li>
+        <li>divineMessage->тайны сотворения</li>
+        <li>divineMessage->призыв к праведной жизни</li>
+        <li>prophetTitle->пророк</li>
+        <li>prophetTitle->мудрец</li>
+        <li>prophetTitle->посланник</li>
+        <li>prophetTitle->провидец</li>
+        <li>prophetTitle->писец</li>
+        <li>moralCallToAction->практиковать прощение</li>
+        <li>moralCallToAction->искать искупления</li>
+        <li>moralCallToAction->проявлять доброту ко всем</li>
+        <li>moralCallToAction->защищать слабых</li>
+        <li>moralCallToAction->чтить своих предков</li>
+        <li>spiritualInsightAdjective->глубокое</li>
+        <li>spiritualInsightAdjective->просветляющее</li>
+        <li>spiritualInsightAdjective->вдохновленное божественным</li>
+        <li>spiritualInsightAdjective->волнующее душу</li>
+        <li>spiritualInsightAdjective->священное</li>
+        <li>writingQualitySentence(quality[greater_than]4)->Она почитается как [sacredPraise].</li>
+        <li>writingQualitySentence(quality[less_than]5,quality[greater_than]2)->Она предлагает [spiritualGuidance] в [thoughtfulDesc].</li>
+        <li>writingQualitySentence(quality[less_than]3,quality[greater_than]0)->Она [spiritualStruggle], но все же [sacredSignificance].</li>
+        <li>writingQualitySentence(quality[less_than]1)->Это [spiritualShit].</li>
+        <li>spiritualShit->написано так, что это просто нечитаемый мусор</li>
+        <li>spiritualShit->религиозная чушь, с небольшим количеством искупающих достоинств</li>
+        <li>spiritualShit->, к сожалению, чистая бессмыслица</li>
+        <li>spiritualShit->нечитаемо, как будто написано маленьким ребенком, но кто-то, где-то, вероятно, умер за это</li>
+        <li>sacredPraise->истинный вечный краеугольный камень веры</li>
+        <li>sacredPraise->шедевр духовного понимания</li>
+        <li>sacredPraise->возвышенный путеводитель для всех, ищущих божественное</li>
+        <li>spiritualGuidance->проблеск священных истин</li>
+        <li>spiritualGuidance->нравственные уроки через свои стихи</li>
+        <li>spiritualGuidance->глубокие размышления о человеческом состоянии</li>
+        <li>thoughtfulDesc->структурированной и созерцательной форме</li>
+        <li>thoughtfulDesc->многослойном смысле</li>
+        <li>thoughtfulDesc->в богатой аллегорической форме</li>
+        <li>thoughtfulDesc->в простой и лаконичной манере</li>
+        <li>spiritualStruggle->очень сложно интерпретировать и туманно</li>
+        <li>spiritualStruggle->неоправданно сложный текст</li>
+        <li>spiritualStruggle->написано в плотном стиле</li>
+        <li>sacredSignificance->остается в некоторой степени центральным для организации [subject_primary]</li>
+        <li>sacredSignificance->имеет некоторое значение для верующих</li>
+        <li>sacredSignificance->предлагает некоторую мудрость, несмотря на свои трудности</li>
+    </ABooks_ReligiousText_Description.rulePack.rulesStrings>
+
+</LanguageData>

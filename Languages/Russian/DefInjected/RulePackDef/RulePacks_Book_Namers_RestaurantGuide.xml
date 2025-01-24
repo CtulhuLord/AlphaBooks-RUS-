@@ -1,0 +1,22 @@
+﻿<LanguageData>
+
+    <ABooks_RestaurantGuide_Namer.rulePack.rulesStrings>
+        <li>title->Мишленовский гид - [year] год: [subtitle]</li>
+        <li>subtitle->Лучшие рестораны</li>
+        <li>subtitle->Лучшие места для обедов</li>
+        <li>subtitle->Где поесть</li>
+        <li>subtitle->Одобрено тремя звездами</li>
+        <li>subtitle->Изысканная кухня на краю света</li>
+        <li>subtitle->Лучшие кулинарные гавани</li>
+        <li>subtitle->Обзор звездных заведений</li>
+        <li>subtitle->Гид по кухне окраин</li>
+        <li>subtitle->Хорошая еда на краю света</li>
+        <li>subtitle->Выбор колонистов</li>
+        <li>year->5500</li>
+        <li>year->5499</li>
+        <li>year->5498</li>
+        <li>year->5497</li>
+        <li>year->5496</li>
+    </ABooks_RestaurantGuide_Namer.rulePack.rulesStrings>
+
+</LanguageData>

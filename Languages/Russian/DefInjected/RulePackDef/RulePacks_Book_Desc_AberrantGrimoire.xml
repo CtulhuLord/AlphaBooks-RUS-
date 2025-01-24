@@ -1,0 +1,57 @@
+﻿<LanguageData>
+
+    <ABooks_AberrantGrimoire_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [ending]</li>
+        <li>desc->[intro] [conceptExploration]: [impactStatement]. [writingQualitySentence]. [ending]</li>
+        <li>desc->[introWithContext] [conceptExploration]. [writingQualitySentence]. [ending]</li>
+        <li>ending->\n\nЭтот гримуар открывает способности, известные только скитальцам Бездны и подобным им слугам Пустоты, даруя читателю запретные навыки и знания, но его можно прочесть лишь однажды.</li>
+        <li>intro->Этот [writingQualityAdjective] гримуар излучает ощущение</li>
+        <li>intro->[writingQualityAdjective] артефакт, окутанный</li>
+        <li>intro->[writingQualityAdjective] сборник</li>
+        <li>intro->Этот потусторонний и [writingQualityAdjective] том шепчет</li>
+        <li>intro->Скрытый в тени и тайне, этот [writingQualityAdjective] гримуар раскрывает</li>
+        <li>introWithContext->С помощью неясного и непостижимого письма этот [writingQualityAdjective] том открывает</li>
+        <li>introWithContext->Черпая силу из потустороннего мира, этот [writingQualityAdjective] артефакт подробно описывает</li>
+        <li>introWithContext->Начертанный невидимой рукой, этот [writingQualityAdjective] гримуар передает</li>
+        <li>introWithContext->Наделенный собственным разумом, этот [writingQualityAdjective] том диктует</li>
+        <li>conceptExploration->темные искусства, практикуемые скитальцами Бездны</li>
+        <li>conceptExploration->зловещие практики тех, кто служит неведомому</li>
+        <li>conceptExploration->эзотерические ритуалы, нашептываемые лишь самым преданным из отклоняющихся</li>
+        <li>conceptExploration->неестественную мудрость, призванную расстроить смертный разум</li>
+        <li>conceptExploration->профанные знания о мирах, которых лучше не касаться</li>
+        <li>impactStatement->Его влияние остается, искажая душу любого, кто осмелится его постичь</li>
+        <li>impactStatement->Те, кто его читает, редко остаются невредимыми после его откровений</li>
+        <li>impactStatement->Его страницы обещают силу, хотя и непостижимой ценой</li>
+        <li>impactStatement->Он открывает способности, которыми немногие осмелятся владеть, и еще меньше смогут выжить</li>
+        <li>impactStatement->Его знание — это одновременно дар и проклятие, неразрывно связывающее читателя с его тайнами</li>
+        <li>writingQualityAdjective(quality==6)->бесподобный и ужасающий</li>
+        <li>writingQualityAdjective(quality==5)->жутко глубокий</li>
+        <li>writingQualityAdjective(quality==4)->тревожный, но связный</li>
+        <li>writingQualityAdjective(quality==3)->загадочный, но разборчивый</li>
+        <li>writingQualityAdjective(quality==2)->разрозненный и пугающий</li>
+        <li>writingQualityAdjective(quality==1)->раздробленный и хаотичный</li>
+        <li>writingQualityAdjective(quality==0)->сводящая с ума мешанина</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Его качество [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Его качество [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Его качество [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->не имеет себе равных в передаче запретных знаний</li>
+        <li>excellentDesc->является шедевром оккультного наставления</li>
+        <li>excellentDesc->служит свидетельством глубин потусторонней мудрости</li>
+        <li>excellentExtra->оставляющим неизгладимый след на читателе</li>
+        <li>excellentExtra->превосходящим смертное понимание</li>
+        <li>excellentExtra->выделяющим суть силы скитальцев Бездны</li>
+        <li>decentDesc->пригоден для подробного описания своей мрачной цели</li>
+        <li>decentDesc->достаточен, но лишен полной серьезности своего намерения</li>
+        <li>decentDesc->достаточен для передачи своих тайных истин</li>
+        <li>decentExtra->но ему не хватает ясности, необходимой для полного понимания</li>
+        <li>decentExtra->хотя ему и не удается внушить должный ужас</li>
+        <li>decentExtra->хотя его структура далека от совершенства</li>
+        <li>awfulDesc->несвязная какофония бессмысленных символов</li>
+        <li>awfulDesc->едва понятный, даже для безумных</li>
+        <li>awfulDesc->скорее запутывающий, чем просвещающий</li>
+        <li>awfulExtra->и совершенно непригоден для смертного понимания</li>
+        <li>awfulExtra->и представляет опасность для рассудка без какой-либо награды</li>
+        <li>awfulExtra->не имеющий никаких достоинств, кроме своей зловещей ауры</li>
+    </ABooks_AberrantGrimoire_Description.rulePack.rulesStrings>
+
+</LanguageData>

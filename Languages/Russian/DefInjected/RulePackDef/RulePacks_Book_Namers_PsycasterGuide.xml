@@ -1,0 +1,25 @@
+﻿<LanguageData>
+
+    <ABooks_PsycasterGuide_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic(p=6)->[randAdjective] Руководство псикастера по [subject_primary]</li>
+        <li>titleBasic(p=6)->[randNoun] и техники псикастинга [subject_primary]</li>
+        <li>titleBasic->Справочник псикастера: Мастерство [subject_primary]</li>
+        <li>titleBasic->Основные навыки псикастинга в [subject_primary]</li>
+        <li>titleBasic->Руководство для начинающих по псикастингу [subject_primary]</li>
+        <li>titleBasic->Уроки продвинутого псикастинга: [subject_primary]</li>
+        <li>titleBasic->Обуздание разума архотеха: [subject_primary]</li>
+        <li>titleBasic->Мастерство псикастинга: Искусство [subject_primary]</li>
+        <li>titleBasic->Раскрытие потенциала: Псикастинг [subject_primary]</li>
+        <li>titleBasic->От новичка до эксперта: Техники псикастера в [subject_primary]</li>
+        <li>titleAuthored->Руководство [ANYPAWN_nameIndef] по псикастингу [subject_primary]</li>
+        <li>titleAuthored->Справочник [ANYPAWN_nameIndef] по навыкам псикастера: [subject_primary]</li>
+        <li>titleAuthored->Трактат [ANYPAWN_nameIndef] о псикастинге [subject_primary]</li>
+        <li>titleAuthored->Справочник [ANYPAWN_nameIndef] по псикастингу: [subject_primary]</li>
+        <li>titleAuthored->Заметки [ANYPAWN_nameIndef] о продвинутом [subject_primary]</li>
+        <li>titleAuthored->Учения [ANYPAWN_nameIndef] о псикастинге [subject_primary]</li>
+        <li>titleAuthored->Размышления [ANYPAWN_nameIndef] о мастерстве [subject_primary]</li>
+    </ABooks_PsycasterGuide_Namer.rulePack.rulesStrings>
+
+</LanguageData>

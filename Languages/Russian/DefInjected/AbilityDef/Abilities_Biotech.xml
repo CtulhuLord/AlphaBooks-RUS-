@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_FireBurst_Charges.label>Взрыв пламени</ABooks_FireBurst_Charges.label>
+    <ABooks_FireBurst_Charges.description>Выпускает во все стороны струю горящего топлива, образуя на земле горящие лужи.</ABooks_FireBurst_Charges.description>
+
+    <ABooks_FireSpew_Charges.label>Извержение пламени</ABooks_FireSpew_Charges.label>
+    <ABooks_FireSpew_Charges.description>Изрыгает струю липкой, горючей желчи. Желчь может поджечь всё, с чем соприкасается, а также образовывать горящие лужи на земле.</ABooks_FireSpew_Charges.description>
+
+</LanguageData>

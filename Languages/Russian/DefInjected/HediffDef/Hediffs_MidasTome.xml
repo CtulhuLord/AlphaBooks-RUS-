@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_MidasTome.label>Прикосновение Мидаса</ABooks_MidasTome.label>
+    <ABooks_MidasTome.description>Чтение тома Мидаса наделило этого человека способностью превращать все готовые изделия и постройки в золото.</ABooks_MidasTome.description>
+    <ABooks_MidasTome.stages.awful.label>Ужасно</ABooks_MidasTome.stages.awful.label>
+    <ABooks_MidasTome.stages.poor.label>Плохо</ABooks_MidasTome.stages.poor.label>
+    <ABooks_MidasTome.stages.normal.label>Нормально</ABooks_MidasTome.stages.normal.label>
+    <ABooks_MidasTome.stages.good.label>Хорошо</ABooks_MidasTome.stages.good.label>
+    <ABooks_MidasTome.stages.excellent.label>Отлично</ABooks_MidasTome.stages.excellent.label>
+    <ABooks_MidasTome.stages.masterwork.label>Шедеврально</ABooks_MidasTome.stages.masterwork.label>
+    <ABooks_MidasTome.stages.legendary.label>Легендарно</ABooks_MidasTome.stages.legendary.label>
+
+</LanguageData>

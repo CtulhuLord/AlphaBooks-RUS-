@@ -1,0 +1,94 @@
+﻿<LanguageData>
+
+    <ABooks_PoliticalPamphlet_Namer.rulePack.rulesStrings>
+        <li>title->[mainTitle]: [subtitle]</li>
+        <li>title->[mainTitle]!</li>
+        <li>title->[mainTitle]: [topic]</li>
+        <li>title->[mainTitle] и [issue]</li>
+        <li>title->[mainTitle]: Призыв к [action]</li>
+        <li>title->[mainTitle]: В защиту [ideal]</li>
+        <li>title->[action] [mainTitle]</li>
+        <li>mainTitle->Глас народа</li>
+        <li>mainTitle->Новая заря</li>
+        <li>mainTitle->Свободу сейчас</li>
+        <li>mainTitle->Революция</li>
+        <li>mainTitle->Правда</li>
+        <li>mainTitle->Власть народу</li>
+        <li>mainTitle->Едины за справедливость</li>
+        <li>mainTitle->Разрывая цепи</li>
+        <li>mainTitle->Для общего блага</li>
+        <li>mainTitle->Лучшее завтра</li>
+        <li>mainTitle->Борьба за свободу</li>
+        <li>mainTitle->Прогресс и равенство</li>
+        <li>mainTitle->Возвращая наше будущее</li>
+        <li>mainTitle->Равенство для всех</li>
+        <li>subtitle->Голоса из [subject_primary]</li>
+        <li>subtitle->Манифест за [ideal]</li>
+        <li>subtitle->Руководство к [change]</li>
+        <li>subtitle->Бросая вызовStatus Quo</li>
+        <li>subtitle->План для [topic]</li>
+        <li>subtitle->Новый [ideal]</li>
+        <li>subtitle->Борьба с [problem]</li>
+        <li>subtitle->План действий для [action]</li>
+        <li>subtitle->Путь вперед</li>
+        <li>subtitle->В защиту [ideal]</li>
+        <li>subtitle->Призыв к [change]</li>
+        <li>subtitle->Покончить с [issue]</li>
+        <li>action->Требуя перемен</li>
+        <li>action->Восставая</li>
+        <li>action->Действуя</li>
+        <li>action->Возвращая власть</li>
+        <li>action->Бросая вызов несправедливости</li>
+        <li>action->Создавая единство</li>
+        <li>action->Давая отпор</li>
+        <li>action->Стойко держась</li>
+        <li>action->Освобождаясь</li>
+        <li>action->Требуя равенства</li>
+        <li>action->Стремясь к справедливости</li>
+        <li>topic->Справедливость и свобода</li>
+        <li>topic->Экономическое равенство</li>
+        <li>topic->Социальные реформы</li>
+        <li>topic->Права трудящихся</li>
+        <li>topic->Окружающая среда</li>
+        <li>topic->Борьба с коррупцией</li>
+        <li>topic->Гражданские свободы</li>
+        <li>topic->Образование для всех</li>
+        <li>topic->Права на здравоохранение</li>
+        <li>topic->Сила сообщества</li>
+        <li>topic->Преодоление угнетения</li>
+        <li>problem->Коррупция</li>
+        <li>problem->Угнетение</li>
+        <li>problem->Неравенство</li>
+        <li>problem->Тирания</li>
+        <li>problem->Жадность</li>
+        <li>problem->Бедность</li>
+        <li>problem->Разрушение окружающей среды</li>
+        <li>problem->Эксплуатация</li>
+        <li>problem->Невежество</li>
+        <li>issue->Системная несправедливость</li>
+        <li>issue->Неравноправие</li>
+        <li>issue->Злоупотребление властью</li>
+        <li>issue->Деградация окружающей среды</li>
+        <li>issue->Экономическое неравенство</li>
+        <li>issue->Социальный раскол</li>
+        <li>issue->Цена безразличия</li>
+        <li>issue->Молчание масс</li>
+        <li>ideal->Равенство</li>
+        <li>ideal->Свобода</li>
+        <li>ideal->Справедливость</li>
+        <li>ideal->Солидарность</li>
+        <li>ideal->Процветание</li>
+        <li>ideal->Устойчивость</li>
+        <li>ideal->Расширение прав и возможностей</li>
+        <li>ideal->Единство</li>
+        <li>ideal->Сострадание</li>
+        <li>change->Реформы</li>
+        <li>change->Революцию</li>
+        <li>change->Равенство</li>
+        <li>change->Единство</li>
+        <li>change->Свободу</li>
+        <li>change->Устойчивое развитие</li>
+        <li>change->Процветание</li>
+    </ABooks_PoliticalPamphlet_Namer.rulePack.rulesStrings>
+
+</LanguageData>

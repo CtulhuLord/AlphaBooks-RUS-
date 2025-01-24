@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_LearningFactor_Artistic.label>Коэффициент обучения искусству</ABooks_LearningFactor_Artistic.label>
+    <ABooks_LearningFactor_Artistic.description>Множитель скорости обучения навыку искусства.</ABooks_LearningFactor_Artistic.description>
+
+    <ABooks_LearningFactor_Construction.label>Коэффициент обучения строительству</ABooks_LearningFactor_Construction.label>
+    <ABooks_LearningFactor_Construction.description>Множитель скорости обучения навыку строительства.</ABooks_LearningFactor_Construction.description>
+
+    <ABooks_LearningFactor_Cooking.label>Коэффициент обучения кулинарии</ABooks_LearningFactor_Cooking.label>
+    <ABooks_LearningFactor_Cooking.description>Множитель скорости обучения навыку кулинарии.</ABooks_LearningFactor_Cooking.description>
+
+    <ABooks_LearningFactor_Crafting.label>Коэффициент обучения ремеслу</ABooks_LearningFactor_Crafting.label>
+    <ABooks_LearningFactor_Crafting.description>Множитель скорости обучения навыку ремесла.</ABooks_LearningFactor_Crafting.description>
+
+    <ABooks_LearningFactor_Intellectual.label>Коэффициент обучения интеллекту</ABooks_LearningFactor_Intellectual.label>
+    <ABooks_LearningFactor_Intellectual.description>Множитель скорости обучения интеллектуальному навыку.</ABooks_LearningFactor_Intellectual.description>
+
+    <ABooks_LearningFactor_Medicine.label>Коэффициент обучения медицине</ABooks_LearningFactor_Medicine.label>
+    <ABooks_LearningFactor_Medicine.description>Множитель скорости обучения навыку медицины.</ABooks_LearningFactor_Medicine.description>
+
+    <ABooks_LearningFactor_Melee.label>Коэффициент обучения ближнему бою</ABooks_LearningFactor_Melee.label>
+    <ABooks_LearningFactor_Melee.description>Множитель скорости обучения навыку ближнего боя.</ABooks_LearningFactor_Melee.description>
+
+    <ABooks_LearningFactor_Mining.label>Коэффициент обучения горному делу</ABooks_LearningFactor_Mining.label>
+    <ABooks_LearningFactor_Mining.description>Множитель скорости обучения навыку горного дела.</ABooks_LearningFactor_Mining.description>
+
+    <ABooks_LearningFactor_Plants.label>Коэффициент обучения растениеводству</ABooks_LearningFactor_Plants.label>
+    <ABooks_LearningFactor_Plants.description>Множитель скорости обучения навыку растениеводства.</ABooks_LearningFactor_Plants.description>
+
+    <ABooks_LearningFactor_Shooting.label>Коэффициент обучения стрельбе</ABooks_LearningFactor_Shooting.label>
+    <ABooks_LearningFactor_Shooting.description>Множитель скорости обучения навыку стрельбы.</ABooks_LearningFactor_Shooting.description>
+
+    <ABooks_LearningFactor_Social.label>Коэффициент обучения общению</ABooks_LearningFactor_Social.label>
+    <ABooks_LearningFactor_Social.description>Множитель скорости обучения навыку общения.</ABooks_LearningFactor_Social.description>
+
+</LanguageData>

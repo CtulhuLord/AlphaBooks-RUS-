@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_HermeticMysteries.label>Тайны сокрытого</ABooks_HermeticMysteries.label>
+    <ABooks_HermeticMysteries.description>Чтение компендиума тайн сокрытого наделило этого человека способностью получать дополнительную добычу из герметичных контейнеров.\n\nГерметичные контейнеры обычно можно найти в древних угрозах, руинах древних и т. д.</ABooks_HermeticMysteries.description>    
+    <ABooks_HermeticMysteries.stages.awful.label>Ужасно</ABooks_HermeticMysteries.stages.awful.label>
+    <ABooks_HermeticMysteries.stages.poor.label>Плохо</ABooks_HermeticMysteries.stages.poor.label>
+    <ABooks_HermeticMysteries.stages.normal.label>Нормально</ABooks_HermeticMysteries.stages.normal.label>
+    <ABooks_HermeticMysteries.stages.good.label>Хорошо</ABooks_HermeticMysteries.stages.good.label>
+    <ABooks_HermeticMysteries.stages.excellent.label>Отлично</ABooks_HermeticMysteries.stages.excellent.label>
+    <ABooks_HermeticMysteries.stages.masterwork.label>Шедеврально</ABooks_HermeticMysteries.stages.masterwork.label>
+    <ABooks_HermeticMysteries.stages.legendary.label>Легендарно</ABooks_HermeticMysteries.stages.legendary.label>
+
+</LanguageData>

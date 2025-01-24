@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_RestaurantGuide.label>Ресторанный гид</ABooks_RestaurantGuide.label>
+
+    <ABooks_RestaurantGuide.description>Известный ресторанный гид с рекомендациями изысканных ресторанов и популярных элитных заведений.</ABooks_RestaurantGuide.description>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 6 часов.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 12 часов.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 1 дня.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 1,5 дней.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 2 дней.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 2,5 дней.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>
+
+    <ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>Способность повышать категорию блюд (от простых до изысканных и т. д.) в течение 3 дней.</ABooks_RestaurantGuide.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>
+
+</LanguageData>

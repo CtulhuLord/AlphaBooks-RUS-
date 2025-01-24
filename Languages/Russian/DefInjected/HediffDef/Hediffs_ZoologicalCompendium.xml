@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_ZoologicalCompendium.label>Зоологическая экспертиза</ABooks_ZoologicalCompendium.label>
+    <ABooks_ZoologicalCompendium.description>Чтение зоологического компендиума повысило навыки обращения с животными этого человека.</ABooks_ZoologicalCompendium.description>
+    <ABooks_ZoologicalCompendium.stages.awful.label>Ужасно</ABooks_ZoologicalCompendium.stages.awful.label>
+    <ABooks_ZoologicalCompendium.stages.poor.label>Плохо</ABooks_ZoologicalCompendium.stages.poor.label>
+    <ABooks_ZoologicalCompendium.stages.normal.label>Нормально</ABooks_ZoologicalCompendium.stages.normal.label>
+    <ABooks_ZoologicalCompendium.stages.good.label>Хорошо</ABooks_ZoologicalCompendium.stages.good.label>
+    <ABooks_ZoologicalCompendium.stages.excellent.label>Отлично</ABooks_ZoologicalCompendium.stages.excellent.label>
+    <ABooks_ZoologicalCompendium.stages.masterwork.label>Шедеврально</ABooks_ZoologicalCompendium.stages.masterwork.label>
+    <ABooks_ZoologicalCompendium.stages.legendary.label>Легендарно</ABooks_ZoologicalCompendium.stages.legendary.label>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_PsychologicalInsights.label>Психологическая проницательность</ABooks_PsychologicalInsights.label>
+    <ABooks_PsychologicalInsights.description>Чтение книги по психологии повысило психическую устойчивость этого человека. При качестве книги «нормально» и выше часть мыслей читателя будет нейтрализована. При качестве «шедеврально» и выше все психические срывы будут предотвращены.</ABooks_PsychologicalInsights.description>
+    <ABooks_PsychologicalInsights.stages.awful.label>Ужасно</ABooks_PsychologicalInsights.stages.awful.label>
+    <ABooks_PsychologicalInsights.stages.poor.label>Плохо</ABooks_PsychologicalInsights.stages.poor.label>
+    <ABooks_PsychologicalInsights.stages.normal.label>Нормально</ABooks_PsychologicalInsights.stages.normal.label>
+    <ABooks_PsychologicalInsights.stages.good.label>Хорошо</ABooks_PsychologicalInsights.stages.good.label>
+    <ABooks_PsychologicalInsights.stages.excellent.label>Отлично</ABooks_PsychologicalInsights.stages.excellent.label>
+    <ABooks_PsychologicalInsights.stages.masterwork.label>Шедеврально</ABooks_PsychologicalInsights.stages.masterwork.label>
+    <ABooks_PsychologicalInsights.stages.legendary.label>Легендарно</ABooks_PsychologicalInsights.stages.legendary.label>
+
+</LanguageData>

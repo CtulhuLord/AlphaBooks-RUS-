@@ -1,0 +1,24 @@
+﻿<LanguageData>
+
+    <ABooks_HermeticMysteries_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic->Тайны запечатанной Герметики</li>
+        <li>titleBasic->Тайны запертой мудрости</li>
+        <li>titleBasic->Гермес и искусство заточения</li>
+        <li>titleBasic->Запечатанные истины Гермеса</li>
+        <li>titleBasic->Сокрытые тайны</li>
+        <li>titleBasic->Зашифрованные герметические откровения</li>
+        <li>titleBasic->Хранилища герметической мудрости</li>
+        <li>titleBasic->Скрытые замки Гермеса</li>
+        <li>titleBasic->Ключ к герметическим секретам</li>
+        <li>titleBasic->Расшифрованные герметические загадки</li>
+        <li>titleAuthored->Трактат [ANYPAWN_nameIndef] о герметических замках</li>
+        <li>titleAuthored->Кодекс герметической мудрости [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Тайны запечатанных мистерий [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Герметический компендиум [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Загадка запечатанных хранилищ [ANYPAWN_nameIndef]</li>
+        <li>titleAuthored->Откровения герметического мастерства [ANYPAWN_nameIndef]</li>
+    </ABooks_HermeticMysteries_Namer.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_ArmyManual.label>Стрелковая подготовка</ABooks_ArmyManual.label>
+    <ABooks_ArmyManual.description>Чтение армейского устава повысило навыки ведения боя на расстоянии этого человека.</ABooks_ArmyManual.description>
+    <ABooks_ArmyManual.stages.awful.label>Ужасно</ABooks_ArmyManual.stages.awful.label>
+    <ABooks_ArmyManual.stages.poor.label>Плохо</ABooks_ArmyManual.stages.poor.label>
+    <ABooks_ArmyManual.stages.normal.label>Нормально</ABooks_ArmyManual.stages.normal.label>
+    <ABooks_ArmyManual.stages.good.label>Хорошо</ABooks_ArmyManual.stages.good.label>
+    <ABooks_ArmyManual.stages.excellent.label>Отлично</ABooks_ArmyManual.stages.excellent.label>
+    <ABooks_ArmyManual.stages.masterwork.label>Шедеврально</ABooks_ArmyManual.stages.masterwork.label>
+    <ABooks_ArmyManual.stages.legendary.label>Легендарно</ABooks_ArmyManual.stages.legendary.label>
+
+    <ABooks_SharpshooterCommand.label>Командование стрелками</ABooks_SharpshooterCommand.label>
+    <ABooks_SharpshooterCommand.description>Этот человек вдохновляет ближайших поселенцев чёткими военными стратегиями.</ABooks_SharpshooterCommand.description>
+
+    <ABooks_SharpshooterCommand_Buff.label>Вдохновение стрелка</ABooks_SharpshooterCommand_Buff.label>
+    <ABooks_SharpshooterCommand_Buff.description>Этот человек вдохновлён чёткими военными стратегиями, что повышает его навыки ведения боя на расстоянии.</ABooks_SharpshooterCommand_Buff.description>
+
+</LanguageData>

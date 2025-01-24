@@ -1,0 +1,43 @@
+﻿<LanguageData>
+
+    <ABooks_InstructionManual_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+        <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+        <li>intro->Этот [writingQualityAdjective] [manualType] обещает провести вас через</li>
+        <li>intro->[WritingQualityAdjective] [manualType], призванный упростить</li>
+        <li>intro->[WritingQualityAdjective] попытка объяснить</li>
+        <li>intro->[WritingQualityAdjective] шедевр запутанных инструкций, охватывающий</li>
+        <li>contentOverview->сборку вашей модульной мебели</li>
+        <li>contentOverview->сбивающий с толку процесс сборки вашего новейшего приобретения</li>
+        <li>contentOverview->каждую гайку, болт и загадочную штуковину</li>
+        <li>contentOverview->как превратить груду дерева и шурупов в полезный предмет</li>
+        <li>contentOverview->конструкцию того, что в конечном итоге может напоминать мебель</li>
+        <li>quirkStatement->Всегда будет оставаться по крайней мере одна лишняя деталь, просто чтобы вы гадали</li>
+        <li>quirkStatement->Приготовьтесь спорить о том, какая деталь была неправильно маркирована</li>
+        <li>quirkStatement->Включает загадочные схемы, для понимания которых, кажется, требуется степень в иероглифике</li>
+        <li>quirkStatement->Содержит целую страницу, посвященную инструментам, которых у вас точно нет</li>
+        <li>quirkStatement->Половина шагов таинственным образом отсутствует, но в этом и есть часть очарования</li>
+        <li>quirkStatement->Конечный результат может не совпадать с картинкой, но он будет держаться (вероятно)</li>
+        <li>quirkStatement->Каким-то образом все детали подходят... кроме этой одной</li>
+        <li>qualityStatement(quality==6)->Это триумф ясности и остроумия, поистине лучший в своем роде.</li>
+        <li>qualityStatement(quality==5)->Это надежное, хорошо составленное руководство, с небольшими огорчениями.</li>
+        <li>qualityStatement(quality==4)->Это функциональное руководство, хотя временами оно может заставить вас почесать затылок.</li>
+        <li>qualityStatement(quality==3)->Это достойная попытка, хотя случайная расплывчатость замедлит вас.</li>
+        <li>qualityStatement(quality==2)->Оно досадно расплывчато, оставляя многое на метод проб и ошибок.</li>
+        <li>qualityStatement(quality==1)->Оно запутанное и неполное, но все же слегка полезное.</li>
+        <li>qualityStatement(quality==0)->Это сбивающая с толку мешанина, менее полезная, чем случайный набор картинок.</li>
+        <li>writingQualityAdjective(quality==6)->блестяще созданный</li>
+        <li>writingQualityAdjective(quality==5)->продуманно написанный</li>
+        <li>writingQualityAdjective(quality==4)->компетентно составленный</li>
+        <li>writingQualityAdjective(quality==3)->пригодный</li>
+        <li>writingQualityAdjective(quality==2)->грубоватый</li>
+        <li>writingQualityAdjective(quality==1)->неуклюже написанный</li>
+        <li>writingQualityAdjective(quality==0)->едва связный</li>
+        <li>manualType->руководство по сборке</li>
+        <li>manualType->инструкция</li>
+        <li>manualType->брошюра «Сделай сам»</li>
+        <li>manualType->практическое руководство</li>
+        <li>ending->\n\nПосле прочтения это руководство увеличит скорость строительства простой мебели на некоторое время, а затем рассыплется на отдельные винтики.</li>
+    </ABooks_InstructionManual_Description.rulePack.rulesStrings>
+
+</LanguageData>

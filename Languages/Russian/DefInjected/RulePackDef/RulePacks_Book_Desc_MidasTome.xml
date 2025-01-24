@@ -1,0 +1,56 @@
+﻿<LanguageData>
+
+    <ABooks_MidasTome_Description.rulePack.rulesStrings>
+        <li>desc->[intro], [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+        <li>intro->Этот [writingQualityAdjective] [bookType] раскрывает секреты трансмутации золота с помощью архотеха</li>
+        <li>intro->[WritingQualityAdjective] том, подробно описывающий загадочный процесс превращения материи в золото</li>
+        <li>intro->[WritingQualityAdjective] работа по архотех-алхимии, исследующая современный Философский камень</li>
+        <li>intro->Этот [writingQualityAdjective] текст обещает mastery над легендарным прикосновением Мидаса</li>
+        <li>contentOverview->метод превращения всех готовых изделий и сооружений в чистое золото</li>
+        <li>contentOverview->искусство превращения обычных материалов в сверкающее богатство</li>
+        <li>contentOverview->пошаговое руководство по достижению безграничных богатств с помощью силы архотеха</li>
+        <li>contentOverview->секреты манипулирования материей для получения бесконечного золота</li>
+        <li>quirkStatement->Однако будьте осторожны, ибо сила трансмутации может превратить даже самые простые инструменты в разорительно тяжелые сокровища</li>
+        <li>quirkStatement->Пользователи сообщают о тревожной тенденции рассматривать все предметы как «будущее золото»</li>
+        <li>quirkStatement->Некоторые утверждают, что том шепчет предостережения от чрезмерной жадности во время трансмутации</li>
+        <li>quirkStatement->Читатели часто описывают непреодолимое желание позолотить все, включая колониальную собаку</li>
+        <li>qualityStatement(quality==6)->Это [excellentDesc], шедевр архотех-литературы.</li>
+        <li>qualityStatement(quality==5)->Это [decentDesc], предлагающий(ая) глубокое понимание трансмутации.</li>
+        <li>qualityStatement(quality==4)->Это [functionalDesc], предоставляющий(ая) практические инструкции, несмотря на некоторую загадочность.</li>
+        <li>qualityStatement(quality==3)->Это [mediocreDesc], с загадочными отрывками, сбивающими с толку читателей.</li>
+        <li>qualityStatement(quality==2)->Это [poorDesc], наполненный(ая) фрагментированными теориями и незаконченными схемами.</li>
+        <li>qualityStatement(quality==1)->Это [terribleDesc], бессвязная мешанина из тайных символов и бессмыслицы.</li>
+        <li>qualityStatement(quality==0)->Это [awfulDesc], комическая катастрофа из непостижимой бессмыслицы.</li>
+        <li>writingQualityAdjective(quality==6)->блестяще составленный</li>
+        <li>writingQualityAdjective(quality==5)->превосходно созданный</li>
+        <li>writingQualityAdjective(quality==4)->хорошо организованный</li>
+        <li>writingQualityAdjective(quality==3)->едва связный</li>
+        <li>writingQualityAdjective(quality==2)->досадно разрозненный</li>
+        <li>writingQualityAdjective(quality==1)->комично ужасный</li>
+        <li>writingQualityAdjective(quality==0)->полный фарс</li>
+        <li>excellentDesc->вечное руководство для тех, кто ищет архотех-просветления</li>
+        <li>excellentDesc->определяющий труд по трансмутации</li>
+        <li>excellentDesc->непревзойденный источник алхимической мудрости</li>
+        <li>excellentDesc->необыкновенное свидетельство архотех-изобретательности</li>
+        <li>decentDesc->увлекательный взгляд на передовые методы трансмутации</li>
+        <li>decentDesc->компетентное объяснение превращения в золото</li>
+        <li>decentDesc->познавательное чтение как для любопытных, так и для богатых</li>
+        <li>functionalDesc->достаточный ресурс для начинающих трансмутаторов</li>
+        <li>functionalDesc->пригодное руководство для практического применения архотеха</li>
+        <li>functionalDesc->скромный гид по позолоте обыденного</li>
+        <li>mediocreDesc->сбивающая с толку смесь мудрости и загадок</li>
+        <li>mediocreDesc->тусклая попытка передать секреты архотеха</li>
+        <li>mediocreDesc->неравномерное исследование золотых искусств</li>
+        <li>poorDesc->запутанный и плохо выполненный том</li>
+        <li>poorDesc->досадно расплывчатая и неполная книга</li>
+        <li>poorDesc->вызывающая раздражение неудача в архотех-литературе</li>
+        <li>terribleDesc->нелепая попытка документирования, едва читаемая</li>
+        <li>terribleDesc->странная мешанина из бессвязных слов и неуместной надменности</li>
+        <li>terribleDesc->плачевно некомпетентное изображение архотех-знаний</li>
+        <li>awfulDesc->катастрофически плохая попытка архотех-письма, пригодная только как подпорка для двери</li>
+        <li>awfulDesc->унизительная пародия на свои собственные высокие амбиции</li>
+        <li>awfulDesc->коллекция бессмысленных каракуль, вероятно, написанных пьяным муффало</li>
+        <li>ending->\n\nПосле прочтения эта книга будет поглощена, наделяя читателя способностью превращать все построенные сооружения и изделия в золото.</li>
+    </ABooks_MidasTome_Description.rulePack.rulesStrings>
+
+</LanguageData>

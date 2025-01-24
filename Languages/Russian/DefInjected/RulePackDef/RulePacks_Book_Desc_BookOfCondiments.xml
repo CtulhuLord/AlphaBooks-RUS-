@@ -1,0 +1,68 @@
+﻿<LanguageData>
+
+    <ABooks_BookOfCondiments_Description.rulePack.rulesStrings>
+        <li>desc->[intro], [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[intro], и [conceptExploration]. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[conceptExploration] [contextStatement]. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>intro->Этот [writingQualityAdjective] сборник углубляется в тайны [subject_primary]</li>
+        <li>intro->[writingQualityAdjective] трактат, раскрывающий скрытый потенциал [subject_primary]</li>
+        <li>intro->Необыкновенное руководство, исследующее искусство и науку [subject_primary]</li>
+        <li>intro->Непреходящий труд, описывающий роль [subject_primary] в кулинарной эволюции</li>
+        <li>intro->Это [writingQualityAdjective] руководство предоставляет беспрецедентные сведения о мастерстве [subject_primary]</li>
+        <li>conceptExploration->происхождение, приготовление и применение [subject_primary]</li>
+        <li>conceptExploration->культурное значение и кулинарное использование [subject_primary]</li>
+        <li>conceptExploration->как [subject_primary] преображает даже самые простые блюда</li>
+        <li>conceptExploration->химия и искусство, стоящие за вкусом [subject_primary]</li>
+        <li>conceptExploration->сложные техники использования сущности [subject_primary]</li>
+        <li>conceptExploration->почему [subject_primary] является краеугольным камнем высокой кухни</li>
+        <li>contextStatement->основываясь на многовековых кулинарных традициях</li>
+        <li>contextStatement->вдохновленный(ая) трудами известных поваров и алхимиков</li>
+        <li>contextStatement->с примерами из бесчисленных региональных кухонь</li>
+        <li>contextStatement->раскрывая его(ее) влияние на вкус и обеденные ритуалы</li>
+        <li>contextStatement->раскапывая давно утерянные техники его(ее) использования</li>
+        <li>contextStatement->сочетая строгие эксперименты с древней мудростью</li>
+        <li>impactStatement->Он(оно) предлагает идеи, которые навсегда изменят ваше представление о [subject_primary]</li>
+        <li>impactStatement->Его(ее) учения превратят любую трапезу в кулинарный шедевр</li>
+        <li>impactStatement->Этот труд переосмысливает важность приправ в гастрономии</li>
+        <li>impactStatement->Читатели получат беспрецедентный опыт в искусстве [subject_primary]</li>
+        <li>impactStatement->Знания, содержащиеся в нем(ней), — сокровище как для кулинаров-любителей, так и для новаторов</li>
+        <li>writingQualityAdjective(quality==6)->мастерски написанный(ая)</li>
+        <li>writingQualityAdjective(quality==5)->искусно созданный(ая)</li>
+        <li>writingQualityAdjective(quality==4)->глубокий(ая) и увлекательный(ая)</li>
+        <li>writingQualityAdjective(quality==3)->функциональный(ая), но ничем не примечательный(ая)</li>
+        <li>writingQualityAdjective(quality==2)->посредственный(ая) и неравномерный(ая)</li>
+        <li>writingQualityAdjective(quality==1)->едва связный(ая)</li>
+        <li>writingQualityAdjective(quality==0)->непонятная мешанина</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->блестящее исследование кулинарной алхимии</li>
+        <li>excellentDesc->авторитетное руководство по кулинарному мастерству</li>
+        <li>excellentDesc->кладезь мудрости о вкусе и технике</li>
+        <li>excellentDesc->тщательно исследованный(ая) и прекрасно написанный(ая) трактат</li>
+        <li>excellentExtra->вдохновляющий(ая) на творчество каждого читателя</li>
+        <li>excellentExtra->раскрывающий(ая) истинный потенциал [subject_primary]</li>
+        <li>decentDesc->достаточно полезное исследование приправ</li>
+        <li>decentDesc->смесь полезного и постороннего содержания</li>
+        <li>decentDesc->адекватный(ая), но неглубокий(ая) или лишенный(ая) оригинальности</li>
+        <li>decentDesc->информативный(ая), но неравномерный(ая) в изложении</li>
+        <li>decentExtra->и может помочь начинающим кулинарам-энтузиастам</li>
+        <li>decentExtra->но не оправдывает своих(ее) амбициозных предпосылок</li>
+        <li>awfulDesc->неорганизованный сборник кулинарных мелочей</li>
+        <li>awfulDesc->наполненный(ая) неточностями и утомительными рассуждениями</li>
+        <li>awfulDesc->плохо написанный(ая) и практически бесполезный(ая)</li>
+        <li>awfulDesc->удручающе расплывчатый(ая) и бесполезный(ая) текст</li>
+        <li>awfulExtra->и пустая трата времени для любого серьезного читателя</li>
+        <li>awfulExtra->не предлагающий(ая) ничего ценного начинающему повару</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Первое издание [date_form].</li>
+        <li>maybe_date->Работа была завершена [date_form].</li>
+        <li>maybe_date->Его(ее) происхождение трудно проследить, как и у многих кулинарных традиций.</li>
+        <li>date_form->недавно</li>
+        <li>date_form->десятилетия назад</li>
+        <li>date_form->в ушедший(ую) кулинарный ренессанс</li>
+        <li>date_form->в [date]</li>
+        <li>ending->\n\nПосле прочтения эта книга дарует полное владение искусством использования [subject_primary], но будет уничтожена в процессе.</li>
+    </ABooks_BookOfCondiments_Description.rulePack.rulesStrings>
+
+</LanguageData>

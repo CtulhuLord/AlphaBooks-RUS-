@@ -1,0 +1,77 @@
+﻿<LanguageData>
+
+    <ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>ending->\n\nПосле прочтения этот журнал на три дня усилит медицинские навыки, а затем будет уничтожен.</li>
+        <li>intro->Этот(а) [writingQualityAdjective] [bookType] предлагает глубокий взгляд на</li>
+        <li>intro->[WritingQualityAdjective] руководство по пониманию</li>
+        <li>intro->Вечный(ая) [bookType], описывающий(ая) достижения в области</li>
+        <li>intro->[WritingQualityAdjective] отчет о трудностях в</li>
+        <li>intro->Необычный(ая) [bookType], исследующий(ая)</li>
+        <li>intro->Запоминающееся, яркое исследование</li>
+        <li>conceptExploration->сложности полевой медицины</li>
+        <li>conceptExploration->тонкости приобретения иммунитета и исцеления</li>
+        <li>conceptExploration->эволюцию методов лечения на Краю</li>
+        <li>conceptExploration->как колонии адаптируют свою медицинскую практику</li>
+        <li>conceptExploration->важность находчивости в медицинском обслуживании</li>
+        <li>conceptExploration->балансировку между уходом за пациентами и приоритетами выживания</li>
+        <li>contextStatement->примерами из колоний Края, этот журнал исследует</li>
+        <li>contextStatement->десятилетия колониального медицинского опыта, он(а) исследует</li>
+        <li>contextStatement->сочинениями застрявших врачей, он(а) раскрывает</li>
+        <li>contextStatement->реальными историями первопроходцев, этот журнал обнаруживает</li>
+        <li>contextStatement->яркими рассказами об экстренном лечении, он(а) объясняет</li>
+        <li>impactStatement->Его(ее) идеи изменят ваше понимание медицинского обслуживания в условиях стресса</li>
+        <li>impactStatement->Он(а) предоставляет необходимые знания для любого врача-первопроходца</li>
+        <li>impactStatement->Он(а) проливает свет на находчивый характер практикующих врачей на Краю</li>
+        <li>impactStatement->Этот журнал является жизненно важным ресурсом для тех, кто сталкивается с серьезными медицинскими проблемами</li>
+        <li>impactStatement->Содержащиеся в нем(ней) уроки необходимы для выживания в условиях нехватки ресурсов</li>
+        <li>writingQualityAdjective(quality==6)->мастерски созданный(ая)</li>
+        <li>writingQualityAdjective(quality==5)->блестяще проницательный(ая)</li>
+        <li>writingQualityAdjective(quality==4)->заставляющий(ая) задуматься и точный(ая)</li>
+        <li>writingQualityAdjective(quality==3)->функциональный(ая), но не вдохновляющий(ая)</li>
+        <li>writingQualityAdjective(quality==2)->посредственный(ая)</li>
+        <li>writingQualityAdjective(quality==1)->едва понятный(ая)</li>
+        <li>writingQualityAdjective(quality==0)->несвязное бормотание</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->шедевр практических медицинских советов</li>
+        <li>excellentDesc->бесценный ресурс для понимания неотложной помощи</li>
+        <li>excellentDesc->искусно составленное руководство по медицинскому выживанию</li>
+        <li>excellentDesc->глубоко оригинальное исследование медицины Края</li>
+        <li>excellentDesc->богатый практическими советами и яркими примерами из практики</li>
+        <li>excellentExtra->который(ая) раскрывает стойкость медицинских работников</li>
+        <li>excellentExtra->который(ая) вдохновляет на изобретательность даже в отчаянных ситуациях</li>
+        <li>excellentExtra->который(ая) снабжает читателей необходимыми знаниями для выживания</li>
+        <li>decentDesc->сносное руководство по полевой медицине</li>
+        <li>decentDesc->интересный(ая), но неотшлифованный(ая)</li>
+        <li>decentDesc->полезный(ая) в некоторых областях, но недостаточно глубокий(ая)</li>
+        <li>decentDesc->сосредоточенный(ая) на нескольких узких медицинских сценариях</li>
+        <li>decentDesc->иногда проницательный(ая), но непоследовательный(ая)</li>
+        <li>decentExtra->и может быть полезен(на) менее опытным медикам</li>
+        <li>decentExtra->однако он(а) не охватывает общую картину элементарной медицины на Краю</li>
+        <li>decentExtra->хотя его(ее) методы могут быть непоследовательными</li>
+        <li>awfulDesc->беспорядочный набор медицинских предположений</li>
+        <li>awfulDesc->запутанная мешанина устаревших методов</li>
+        <li>awfulDesc->совершенно непрактичный(ая) и плохо изученный(ая)</li>
+        <li>awfulDesc->наполненный(ая) неуместными анекдотами и пустой болтовней</li>
+        <li>awfulDesc->хаотичная мешанина противоречивых методов лечения</li>
+        <li>awfulExtra->и совершенно бесполезный(ая) для тех, кто лечит пациентов на Краю</li>
+        <li>awfulExtra->и активно вредный(ая) для тех, кто ищет реальное медицинское руководство</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Журнал был опубликован [date_form].</li>
+        <li>maybe_date->Текст был впервые записан [date_form].</li>
+        <li>maybe_date->Его(ее) происхождение затеряно во времени, как и многое на Краю.</li>
+        <li>date_form->недавно</li>
+        <li>date_form->поколения назад</li>
+        <li>date_form->[date]</li>
+        <li>date_form->во время [date_season]</li>
+        <li>bookType(p=4)->медицинский журнал</li>
+        <li>bookType(p=3)->полевой справочник</li>
+        <li>bookType(p=2)->руководство по лечению</li>
+        <li>bookType(p=1)->руководство по выживанию</li>
+    </ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<LanguageData>
+
+    <ABooks_OfficeBinder_Namer.rulePack.rulesStrings>
+        <li>title->[intro] [subject].</li>
+        <li>title->[actionRequired] [subject].</li>
+        <li>title->[reminder]</li>
+        <li>title->[update]</li>
+        <li>title->[announcement]</li>
+        <li>intro->Новое</li>
+        <li>intro->Срочно</li>
+        <li>intro->Важно</li>
+        <li>intro->Немедленно</li>
+        <li>intro->Напоминание</li>
+        <li>intro->Требуется действие</li>
+        <li>intro->Запланировано</li>
+        <li>actionRequired->Требуется действие по</li>
+        <li>actionRequired->Необходимо обратить внимание на</li>
+        <li>actionRequired->Все сотрудники должны быть осведомлены о</li>
+        <li>actionRequired->Немедленные действия относительно</li>
+        <li>actionRequired->Просьба рассмотреть следующее:</li>
+        <li>reminder->Напоминание: [subject]</li>
+        <li>reminder->Не забудьте ознакомиться с [subject]</li>
+        <li>reminder->Последнее напоминание: [subject]</li>
+        <li>reminder->Просьба не забыть выполнить [subject]</li>
+        <li>update->Важное обновление: [subject]</li>
+        <li>update->Доводим до вашего сведения: [subject]</li>
+        <li>update->Последняя информация по [subject]</li>
+        <li>update->Внимание: Новое обновление по [subject]</li>
+        <li>announcement->Официальное объявление: [subject]</li>
+        <li>announcement->Объявление для всех сотрудников о [subject]</li>
+        <li>announcement->Важное объявление: [subject]</li>
+        <li>subject->Политике компании</li>
+        <li>subject->Графику аудита</li>
+        <li>subject->Обновлении информации о сотрудниках</li>
+        <li>subject->Квартальном отчете</li>
+        <li>subject->Графике отпусков</li>
+        <li>subject->Правилах техники безопасности</li>
+        <li>subject->Правилах удаленной работы</li>
+        <li>subject->Переезде офиса</li>
+        <li>subject->Проверке конфиденциальности данных</li>
+        <li>subject->Программе поощрения сотрудников</li>
+        <li>subject->Договоре о закупках</li>
+        <li>subject->Политике возмещения командировочных расходов</li>
+        <li>subject->Техническом обслуживании ИТ-системы</li>
+        <li>subject->Сроках сдачи годового отчета</li>
+    </ABooks_OfficeBinder_Namer.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<LanguageData>
+
+    <ABooks_SelfHelp_Description.rulePack.rulesStrings>
+        <li>desc->Эта [writingQualityAdjective] [bookType] [follows] за [protag], как [protagThey] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nПосле прочтения эта книга случайно вдохновит читателя, а затем будет уничтожена. Она не окажет никакого эффекта на колонистов с активным вдохновением.</li>
+        <li>follows->исследует путешествие</li>
+        <li>follows->углубляется в опыт</li>
+        <li>follows->представляет понимание жизни</li>
+        <li>follows->делится историей</li>
+        <li>follows->раскрывает борьбу</li>
+        <li>protag->индивидуума</li>
+        <li>protag->странника</li>
+        <li>protag->искателя</li>
+        <li>protag->провидца</li>
+        <li>protag->мечтателя</li>
+        <li>protag->путешественника</li>
+        <li>protag->оптимиста</li>
+        <li>protag->пионера</li>
+        <li>protag->философа</li>
+        <li>protag->идеалиста</li>
+        <li>protagThey->он</li>
+        <li>protagThey->она</li>
+        <li>storyStruggles->стремится раскрыть свой внутренний потенциал</li>
+        <li>storyStruggles->преодолевает вызовы самопознания</li>
+        <li>storyStruggles->учится принимать свои сильные и слабые стороны</li>
+        <li>storyStruggles->отправляется на поиски личностного роста</li>
+        <li>storyStruggles->смотрит в лицо своим страхам и становится сильнее</li>
+        <li>storyStruggles->открывает красоту самопринятия</li>
+        <li>storyStruggles->преодолевает сомнения, чтобы достичь величия</li>
+        <li>storyStruggles->находит вдохновение в неожиданных местах</li>
+        <li>storyStruggles->ищет путь к просветлению</li>
+        <li>storyStruggles->раскрывает свои скрытые таланты</li>
+        <li>writingQualityAdjective(quality==6)->удивительно проницательная</li>
+        <li>writingQualityAdjective(quality==5)->заставляющая задуматься и увлекательная</li>
+        <li>writingQualityAdjective(quality==4)->проницательная и вдохновляющая</li>
+        <li>writingQualityAdjective(quality==3)->хорошо написанная</li>
+        <li>writingQualityAdjective(quality==2)->обычная</li>
+        <li>writingQualityAdjective(quality==1)->плохо созданная</li>
+        <li>writingQualityAdjective(quality==0)->почти непостижимая</li>
+        <li>writingQualitySentence(quality[greater_than]4)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc], [awfulExtra]</li>
+        <li>excellentDesc->глубоко рефлективное произведение</li>
+        <li>excellentDesc->наполнено мотивационными историями</li>
+        <li>excellentDesc->богато вдохновляющими мыслями</li>
+        <li>excellentDesc->захватывающее исследование личностного потенциала</li>
+        <li>excellentDesc->удивительно вдохновляющее чтение</li>
+        <li>excellentExtra->. Ее слова глубоко трогают читателя</li>
+        <li>excellentExtra->. Она предлагает глубокие понимания и практические советы</li>
+        <li>excellentExtra->. Она вдохновляет читателя достигать большего</li>
+        <li>decentDesc->простой мотивационный путеводитель</li>
+        <li>decentDesc->простая, но эффективная книга</li>
+        <li>decentDesc->легкое чтение с полезными идеями</li>
+        <li>decentDesc->коллекция скромных, но полезных мыслей</li>
+        <li>decentDesc->доступный взгляд на личностный рост</li>
+        <li>decentExtra->, но в некоторых областях ей не хватает глубины</li>
+        <li>decentExtra->, хотя ее идеи кажутся повторяющимися</li>
+        <li>decentExtra->, но она не открывает ничего нового</li>
+        <li>decentExtra->, хотя ей трудно сохранять фокус</li>
+        <li>decentExtra->, но ее советы могут казаться слишком упрощенными</li>
+        <li>awfulDesc->сумбурная и бессвязная</li>
+        <li>awfulDesc->наполнена ужасными банальностями</li>
+        <li>awfulDesc->разочаровывающе расплывчатая и бесполезная</li>
+        <li>awfulDesc->ее послание едва ли связно</li>
+        <li>awfulDesc->это то дерьмо, которое вы найдете с большими скидками в корзине с уцененными товарами</li>
+        <li>awfulExtra->и не способна предложить никакой реальной ценности</li>
+        <li>awfulExtra->и читается скорее как дневник, чем руководство</li>
+        <li>awfulExtra->и оставляет у читателя больше вопросов, чем ответов</li>
+        <li>awfulExtra->и наполнена клише</li>
+        <li>awfulExtra->и по ощущениям почти как что-то из мошеннической схемы MLM</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Эта книга была впервые опубликована [date_form].</li>
+        <li>maybe_date->Текст был написан [date_form].</li>
+        <li>maybe_date->Эта книга была изначально опубликована малоизвестной компанией, известной своим эксцентричным сочетанием самопомощи и псевдонаучных теорий.</li>
+        <li>date_form->недавно</li>
+        <li>date_form->много лет назад</li>
+        <li>date_form->[date]</li>
+        <li>date_form->[date_season]</li>
+        <li>bookType(p=4)->самопомощи</li>
+        <li>bookType(p=2)->путеводитель</li>
+        <li>bookType->руководство</li>
+        <li>bookType->справочник</li>
+        <li>bookType->сборник</li>
+    </ABooks_SelfHelp_Description.rulePack.rulesStrings>
+
+</LanguageData>

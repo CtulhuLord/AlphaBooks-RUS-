@@ -1,0 +1,35 @@
+﻿<LanguageData>
+
+    <ABooks_DurathreadTechniques_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [conceptExploration]. [writingQualitySentence] [ending]</li>
+        <li>intro->Этот [writingQualityAdjective] сборник техник раскрывает</li>
+        <li>intro->Инновационное [bookType], раскрывающее секреты</li>
+        <li>intro->[writingQualityAdjective] руководство по освоению</li>
+        <li>intro->Тщательно составленная компиляция, посвященная</li>
+        <li>intro->Незаменимый ресурс для тех, кто стремится использовать</li>
+        <li>conceptExploration->непревзойденную прочность дюранити</li>
+        <li>conceptExploration->создание текстиля, более прочного, чем любая ткань</li>
+        <li>conceptExploration->методы вплетения прочности и упругости в каждый стежок</li>
+        <li>conceptExploration->передовые технологии изготовления ткани из дюранити</li>
+        <li>conceptExploration->уникальные свойства этого необыкновенного материала</li>
+        <li>writingQualityAdjective(quality==6)->мастерски составленный</li>
+        <li>writingQualityAdjective(quality==5)->блестяще детализированный</li>
+        <li>writingQualityAdjective(quality==4)->хорошо структурированный</li>
+        <li>writingQualityAdjective(quality==3)->функциональный</li>
+        <li>writingQualityAdjective(quality==2)->посредственный</li>
+        <li>writingQualitySentence->Его(ее) ясность и точность делают его(ее) [excellentDesc].</li>
+        <li>writingQualitySentence->Его(ее) содержание [decentDesc].</li>
+        <li>excellentDesc->эталоном для текстов по текстильной инженерии</li>
+        <li>excellentDesc->бесценным руководством по освоению передовых материалов</li>
+        <li>excellentDesc->блестящим примером документации по ремеслу</li>
+        <li>decentDesc->полезным, но лишенным вдохновения</li>
+        <li>decentDesc->практичным, хотя и ограниченным по объему</li>
+        <li>decentDesc->адекватным, но неглубоким</li>
+        <li>ending->\n\nЭта книга всегда будет обычного качества и будет уничтожена после прочтения.</li>
+        <li>bookType(p=4)->руководство</li>
+        <li>bookType(p=3)->справочник</li>
+        <li>bookType(p=2)->гид</li>
+        <li>bookType(p=1)->трактат</li>
+    </ABooks_DurathreadTechniques_Description.rulePack.rulesStrings>
+
+</LanguageData>

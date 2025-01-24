@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_Convert_Charges.label>Обращение</ABooks_Convert_Charges.label>
+    <ABooks_Convert_Charges.description>Попытка обратить кого-либо в идеологию говорящего. Это снизит уверенность цели в собственных убеждениях. Степень снижения зависит от навыка переговоров говорящего.</ABooks_Convert_Charges.description>
+    <ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {PAWN_gender ? расстроен : расстроена} этой попыткой, но его/её уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.failMessage>
+    <ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} успешно {PAWN_gender ? обратил : обратила} {RECIPIENT_labelShort} в {IDEO}.</ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.successMessage>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_InstructionManual.label>Руководство по сборке</ABooks_InstructionManual.label>
+
+    <ABooks_InstructionManual.description>Руководство по сборке качественной мебели и предметов. После сборки у вас НЕ останется лишнего болта... наверное.</ABooks_InstructionManual.description>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>Способность повышать качество изготовления или строительства на 1 в течение 6 часов.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>Способность повышать качество изготовления или строительства на 1 в течение 12 часов.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>Способность повышать качество изготовления или строительства на 1 в течение 1 дня.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>Способность повышать качество изготовления или строительства на 1 в течение 1,5 дней.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>Способность повышать качество изготовления или строительства на 1 в течение 2 дней.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>Способность повышать качество изготовления или строительства на 1 в течение 2,5 дней.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>
+
+    <ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>Способность повышать качество изготовления или строительства на 1 в течение 3 дней.</ABooks_InstructionManual.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>
+
+</LanguageData>

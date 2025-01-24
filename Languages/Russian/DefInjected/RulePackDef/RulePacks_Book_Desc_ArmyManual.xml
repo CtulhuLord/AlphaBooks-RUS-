@@ -1,0 +1,55 @@
+﻿<LanguageData>
+
+    <ABooks_ArmyManual_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [impactStatement].[ending]</li>
+        <li>ending->\n\nЭто руководство предлагает бесценные сведения для подготовки колониальных войск, но после изучения оно будет уничтожено.</li>
+        <li>intro->[writingQualityAdjective] [bookType], посвященный(ая)</li>
+        <li>intro->Этот [writingQualityAdjective] сборник углубляется в</li>
+        <li>intro->[writingQualityAdjective] анализ</li>
+        <li>intro->Экспертно составленный(ая) [bookType] для</li>
+        <li>conceptExploration->основы организованного боя и выживания</li>
+        <li>conceptExploration->тактические стратегии, позволяющие перехитрить и пережить любого врага</li>
+        <li>conceptExploration->основные методы ведения войны и их практическое применение</li>
+        <li>conceptExploration->сложное искусство скоординированной защиты и нападения</li>
+        <li>conceptExploration->принципы выживания на поле боя и лидерства</li>
+        <li>conceptExploration->продвинутые принципы тактического и оперативного планирования</li>
+        <li>impactStatement(quality[greater_than]1)->Он(а) вооружает лидеров инструментами, необходимыми для превращения хаоса в победу</li>
+        <li>impactStatement(quality[greater_than]1)->Его(ее) уроки укрепят оборонительные и наступательные возможности любой колонии</li>
+        <li>impactStatement(quality[greater_than]1)->Это руководство превращает даже самое неорганизованное ополчение в стратегическую силу</li>
+        <li>impactStatement(quality[greater_than]1)->Оно обеспечивает критически важное руководство для выживания и доминирования на поле боя</li>
+        <li>impactStatement(quality[greater_than]1)->С этими знаниями колонии будут готовы противостоять даже самым сильным противникам</li>
+        <li>impactStatement(quality[less_than]2)->Его(ее) разрозненные инструкции могут скорее запутать, чем помочь начинающим лидерам</li>
+        <li>impactStatement(quality[less_than]2)->Эта неудачная попытка создания стратегии оставляет желать многого на поле боя</li>
+        <li>impactStatement(quality[less_than]2)->Хотя можно найти несколько крупиц полезного совета, они погребены под морем противоречий</li>
+        <li>writingQualityAdjective(quality==6)->мастерски созданный(ая)</li>
+        <li>writingQualityAdjective(quality==5)->блестяще проницательный(ая)</li>
+        <li>writingQualityAdjective(quality==4)->заставляющий(ая) задуматься и точный(ая)</li>
+        <li>writingQualityAdjective(quality==3)->функциональный(ая), но не вдохновляющий(ая)</li>
+        <li>writingQualityAdjective(quality==2)->посредственный(ая)</li>
+        <li>writingQualityAdjective(quality==1)->едва понятный(ая)</li>
+        <li>writingQualityAdjective(quality==0)->беспорядочная мешанина</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->исчерпывающее руководство по военной тактике и выживанию</li>
+        <li>excellentDesc->бесценный ресурс для колоний, сталкивающихся с враждебными угрозами</li>
+        <li>excellentDesc->всестороннее исследование стратегического и тактического планирования</li>
+        <li>excellentExtra->предлагающее ясность и действенные идеи для любого лидера</li>
+        <li>excellentExtra->внушающее уверенность даже в самых отчаянных условиях</li>
+        <li>decentDesc->полезное руководство по основам ведения боя</li>
+        <li>decentDesc->полезный, но неравномерный в освещении стратегии</li>
+        <li>decentDesc->средняя попытка объяснить продвинутые боевые тактики</li>
+        <li>decentExtra->и не хватает глубины в ключевых областях</li>
+        <li>decentExtra->хотя его примеры иногда неясны</li>
+        <li>awfulDesc->запутанная смесь устаревших и непрактичных советов</li>
+        <li>awfulDesc->плохо написанная попытка обсудить военную тактику</li>
+        <li>awfulDesc->хаотическая мешанина из расплывчатых идей и противоречивых стратегий</li>
+        <li>awfulExtra->и совершенно бесполезен для серьезной подготовки к бою</li>
+        <li>awfulExtra->и, скорее всего, принесет больше вреда, чем пользы в любом столкновении</li>
+        <li>bookType(p=3)->военный трактат</li>
+        <li>bookType(p=3)->армейское руководство</li>
+        <li>bookType(p=2)->тактический справочник</li>
+        <li>bookType(p=1)->боевое руководство</li>
+    </ABooks_ArmyManual_Description.rulePack.rulesStrings>
+
+</LanguageData>

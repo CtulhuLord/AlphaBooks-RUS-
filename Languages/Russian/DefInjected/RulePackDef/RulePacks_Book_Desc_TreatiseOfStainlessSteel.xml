@@ -1,0 +1,47 @@
+﻿<LanguageData>
+
+    <ABooks_TreatiseOfStainlessSteel_Description.rulePack.rulesStrings>
+        <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[intro] и [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>intro->Этот [writingQualityAdjective] трактат углубляется в непреходящее наследие нержавеющей стали.</li>
+        <li>intro->Незаменимое [bookType], исследующее свойства и применение нержавеющей стали.</li>
+        <li>intro->[writingQualityAdjective] текст, повествующий о создании и применении нержавеющей стали.</li>
+        <li>intro->Непреходящее [bookType], посвященное изучению нержавеющей стали.</li>
+        <li>intro->Всеобъемлющее [bookType], раскрывающее потенциал нержавеющей стали.</li>
+        <li>intro->Этот [writingQualityAdjective] труд раскрывает секреты изготовления нержавеющей стали.</li>
+        <li>conceptExploration->ее устойчивость к коррозии и практическую универсальность.</li>
+        <li>conceptExploration->ее значение в инструментах, архитектуре и машиностроении.</li>
+        <li>conceptExploration->ее уникальную способность выдерживать суровые условия.</li>
+        <li>conceptExploration->научные принципы, лежащие в основе ее создания.</li>
+        <li>conceptExploration->ее преобразующее воздействие на развитые колонии.</li>
+        <li>conceptExploration->ее загадочную устойчивость и адаптируемость.</li>
+        <li>conceptExploration->ее применение в промышленности и в условиях выживания.</li>
+        <li>contextStatement->Составленное на основе древних производственных записей и передовых открытий, это [bookType] рассматривает</li>
+        <li>contextStatement->Опираясь на традиции инженерии Старой Земли, оно освещает</li>
+        <li>contextStatement->Вдохновленное изобретательностью и находчивостью поселенцев Риммира, оно исследует</li>
+        <li>contextStatement->Сочетая научную строгость с практическими знаниями, оно раскрывает</li>
+        <li>contextStatement->Рожденное необходимостью и любопытством, это произведение объясняет</li>
+        <li>writingQualityAdjective->мастерски детализированный</li>
+        <li>writingQualityAdjective->тщательно исследованный</li>
+        <li>writingQualityAdjective->увлекательный и содержательный</li>
+        <li>writingQualityAdjective->функциональный, но простой</li>
+        <li>writingQualitySentence->Это [decentDesc] [decentExtra].</li>
+        <li>decentDesc->разумное, но неполное руководство</li>
+        <li>decentDesc->базовый обзор для начинающих металлургов</li>
+        <li>decentDesc->полезное введение в нержавеющую сталь</li>
+        <li>decentExtra->с возможностью дальнейшего улучшения</li>
+        <li>decentExtra->с пробелами в деталях</li>
+        <li>maybe_date->Опубликованное [date_form], оно остается актуальным и сегодня.</li>
+        <li>maybe_date->Составленное [date_form], оно отражает вневременные знания.</li>
+        <li>maybe_date->Его происхождение восходит к [date_form].</li>
+        <li>date_form->недавно</li>
+        <li>date_form->в забытую эпоху</li>
+        <li>date_form->в Риммире</li>
+        <li>date_form->в период расцвета промышленной экспансии</li>
+        <li>bookType(p=3)->трактат</li>
+        <li>bookType(p=2)->руководство</li>
+        <li>bookType(p=1)->справочник</li>
+        <li>ending->\n\nЭта книга всегда будет обычного качества и будет уничтожена после прочтения.</li>
+    </ABooks_TreatiseOfStainlessSteel_Description.rulePack.rulesStrings>
+
+</LanguageData>

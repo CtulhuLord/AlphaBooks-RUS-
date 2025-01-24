@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_Cornucopia_Charges.label>Рог изобилия</ABooks_Cornucopia_Charges.label>
+    <ABooks_Cornucopia_Charges.description>Выпускает облако механоидов, которые мгновенно доводят растения в заданном радиусе до зрелости.</ABooks_Cornucopia_Charges.description>
+
+    <ABooks_GreaterFireSpew_Charges.label>Великое извержение пламени</ABooks_GreaterFireSpew_Charges.label>
+    <ABooks_GreaterFireSpew_Charges.description>Изрыгает горючую желчь, которая мгновенно воспламеняется при контакте с кислородом, создавая опасный пожар, который подожжёт всё на своём пути.</ABooks_GreaterFireSpew_Charges.description>
+
+    <ABooks_SharpshooterCommand_Charges.label>Команда снайпера</ABooks_SharpshooterCommand_Charges.label>
+    <ABooks_SharpshooterCommand_Charges.description>Вдохновляет ближайших поселенцев чёткими военными стратегиями. Эффект сохраняется на применившем способность в течение 24 часов.</ABooks_SharpshooterCommand_Charges.description>
+
+</LanguageData>

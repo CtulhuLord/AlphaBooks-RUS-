@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_Condiment.label>Мастерство приправ</ABooks_Condiment.label>
+    <ABooks_Condiment.description>Чтение книги о приправах наделило этого человека мастерством использования определённой приправы. Все приготовленные им блюда будут содержать эту приправу, даже если это не изысканные блюда. Изысканные блюда, приготовленные этим человеком, могут содержать две разные приправы, но эффект будет только от одной из них.</ABooks_Condiment.description>
+    <ABooks_Condiment.stages.awful.label>Ужасно</ABooks_Condiment.stages.awful.label>
+    <ABooks_Condiment.stages.poor.label>Плохо</ABooks_Condiment.stages.poor.label>
+    <ABooks_Condiment.stages.normal.label>Нормально</ABooks_Condiment.stages.normal.label>
+    <ABooks_Condiment.stages.good.label>Хорошо</ABooks_Condiment.stages.good.label>
+    <ABooks_Condiment.stages.excellent.label>Отлично</ABooks_Condiment.stages.excellent.label>
+    <ABooks_Condiment.stages.masterwork.label>Шедеврально</ABooks_Condiment.stages.masterwork.label>
+    <ABooks_Condiment.stages.legendary.label>Легендарно</ABooks_Condiment.stages.legendary.label>
+
+</LanguageData>

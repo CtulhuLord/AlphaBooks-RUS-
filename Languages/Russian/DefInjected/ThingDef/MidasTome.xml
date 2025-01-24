@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_MidasTome.label>Том Мидаса</ABooks_MidasTome.label>
+
+    <ABooks_MidasTome.description>Загадочный архотех-том с невероятными способностями к созданию предметов.</ABooks_MidasTome.description>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>Способность превращать все готовые изделия и постройки в золото на 4 часа.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.0>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>Способность превращать все готовые изделия и постройки в золото на 6 часов.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.1>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>Способность превращать все готовые изделия и постройки в золото на 10 часов.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.2>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>Способность превращать все готовые изделия и постройки в золото на 12 часов.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.3>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>Способность превращать все готовые изделия и постройки в золото на 15 часов.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.4>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>Способность превращать все готовые изделия и постройки в золото на 20 часов.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.5>
+
+    <ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>Способность превращать все готовые изделия и постройки в золото на 1 день.</ABooks_MidasTome.comps.CompBook.doers.ReadingOutcomeDoer.descriptionForStages.6>
+
+</LanguageData>

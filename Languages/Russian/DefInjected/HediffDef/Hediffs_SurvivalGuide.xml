@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_SurvivalGuide.label>Навыки выживания</ABooks_SurvivalGuide.label>
+    <ABooks_SurvivalGuide.description>Чтение руководства по выживанию наделило этого человека способностью лучше выживать в определённом биоме. Находясь в подходящем биоме, он получает +20 °C к минимальной и максимальной комфортной температуре, +20% к скорости передвижения, общей скорости работы, скрытности при охоте, шансу приручения животных и скорости выработки иммунитета.</ABooks_SurvivalGuide.description>
+    <ABooks_SurvivalGuide.stages.awful.label>Ужасно</ABooks_SurvivalGuide.stages.awful.label>
+    <ABooks_SurvivalGuide.stages.poor.label>Плохо</ABooks_SurvivalGuide.stages.poor.label>
+    <ABooks_SurvivalGuide.stages.normal.label>Нормально</ABooks_SurvivalGuide.stages.normal.label>
+    <ABooks_SurvivalGuide.stages.good.label>Хорошо</ABooks_SurvivalGuide.stages.good.label>
+    <ABooks_SurvivalGuide.stages.excellent.label>Отлично</ABooks_SurvivalGuide.stages.excellent.label>
+    <ABooks_SurvivalGuide.stages.masterwork.label>Шедеврально</ABooks_SurvivalGuide.stages.masterwork.label>
+    <ABooks_SurvivalGuide.stages.legendary.label>Легендарно</ABooks_SurvivalGuide.stages.legendary.label>
+
+</LanguageData>

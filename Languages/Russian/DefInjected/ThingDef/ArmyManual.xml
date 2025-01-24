@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_ArmyManual.label>Армейское руководство</ABooks_ArmyManual.label>
+
+    <ABooks_ArmyManual.description>Подробное армейское руководство, объясняющее множество тем, связанных с боем.</ABooks_ArmyManual.description>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.0>\nБонус -1% к множителю перезарядки дальнобойного оружия, +1% к точности стрельбы, -1% к времени прицеливания, -1% к множителю радиуса промаха миномета.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.0>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.1>\nБонус -5% к множителю перезарядки дальнобойного оружия, +3% к точности стрельбы, -5% к времени прицеливания, -10% к множителю радиуса промаха миномета.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.1>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.2>\nБонус -10% к множителю перезарядки дальнобойного оружия, +5% к точности стрельбы, -10% к времени прицеливания, -20% к множителю радиуса промаха миномета.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.2>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.3>\nБонус -12% к множителю перезарядки дальнобойного оружия, +10% к точности стрельбы, -10% к времени прицеливания, -30% к множителю радиуса промаха миномета.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.3>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.4>\nБонус -20% к множителю перезарядки дальнобойного оружия, +15% к точности стрельбы, -15% к времени прицеливания, -40% к множителю радиуса промаха миномета, -10% к множителю входящего урона.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.4>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.5>\nБонус -25% к множителю перезарядки дальнобойного оружия, +20% к точности стрельбы, -20% к времени прицеливания, -50% к множителю радиуса промаха миномета, -15% к множителю входящего урона.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.5>
+
+    <ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.6>\nБонус -25% к множителю перезарядки дальнобойного оружия, +25% к точности стрельбы, -25% к времени прицеливания, -75% к множителю радиуса промаха миномета, -20% к множителю входящего урона.</ABooks_ArmyManual.comps.CompBook.doers.ReadingOutcomeDoer-1.descriptionForStages.6>
+
+</LanguageData>

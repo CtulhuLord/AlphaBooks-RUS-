@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <Abooks_OpportunitySite_RuinedLibrary.questDescriptionRules.rulesStrings>
+        <li>questDescription(askerIsNull==true)->Заброшенный радиомаяк, кажется, излучает слабые радиосигналы с трекером местоположения. Расшифровав эти сигналы, мы обнаружили, что они, по-видимому, ведут к разрушенной библиотеке недалеко от [map_definite]. Это место может содержать редкие рукописи, утраченные знания или ценные архивы данных, что делает его достойным исследования.\n\nНам следует действовать осторожно, поскольку сигнал маяка может привлечь враждебное внимание к местоположению библиотеки.</li>
+    </Abooks_OpportunitySite_RuinedLibrary.questDescriptionRules.rulesStrings>
+
+    <Abooks_OpportunitySite_RuinedLibrary.questNameRules.rulesStrings>
+        <li>questName(priority=1)->[discovered] [library]</li>
+        <li>library->Разрушенная библиотека</li>
+        <li>library->Заброшенная библиотека</li>
+        <li>library->Утерянный архив</li>
+        <li>library->Забытая библиотека</li>
+        <li>library->Древняя библиотека</li>
+        <li>library->Заброшенное книгохранилище</li>
+        <li>library->Библиотека с привидениями</li>
+        <li>library->Разрушенный архив</li>
+        <li>discovered->Обнаружена</li>
+        <li>discovered->Найдена</li>
+        <li>discovered->Определена</li>
+        <li>discovered->Выявлена</li>
+        <li>discovered->Отслежена</li>
+        <li>discovered->Раскопана</li>
+        <li>discovered->Вскрыта</li>
+        <li>discovered->Обнажена</li>
+        <li>discovered->Наткнулись на</li>
+        <li>discovered->Открыта</li>
+    </Abooks_OpportunitySite_RuinedLibrary.questNameRules.rulesStrings>
+
+    <Abooks_OpportunitySite_RuinedLibrary.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Задание просрочено: [resolvedQuestName]</Abooks_OpportunitySite_RuinedLibrary.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+    <Abooks_OpportunitySite_RuinedLibrary.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Перехваченные сообщения указывают на то, что разрушенная библиотека была разграблена другими. Задание [resolvedQuestName] просрочено.</Abooks_OpportunitySite_RuinedLibrary.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+</LanguageData>

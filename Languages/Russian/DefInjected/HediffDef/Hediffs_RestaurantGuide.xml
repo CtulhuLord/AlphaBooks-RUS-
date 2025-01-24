@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_RestaurantGuide.label>Кулинарное мастерство</ABooks_RestaurantGuide.label>
+    <ABooks_RestaurantGuide.description>Чтение ресторанного гида наделило этого человека способностью готовить значительно лучше. Пока действует этот эффект, все приготовленные им блюда будут повышаться на один уровень качества (простая еда становится изысканной, изысканная — роскошной и т. д.).</ABooks_RestaurantGuide.description>
+    <ABooks_RestaurantGuide.stages.awful.label>Ужасно</ABooks_RestaurantGuide.stages.awful.label>
+    <ABooks_RestaurantGuide.stages.poor.label>Плохо</ABooks_RestaurantGuide.stages.poor.label>
+    <ABooks_RestaurantGuide.stages.normal.label>Нормально</ABooks_RestaurantGuide.stages.normal.label>
+    <ABooks_RestaurantGuide.stages.good.label>Хорошо</ABooks_RestaurantGuide.stages.good.label>
+    <ABooks_RestaurantGuide.stages.excellent.label>Отлично</ABooks_RestaurantGuide.stages.excellent.label>
+    <ABooks_RestaurantGuide.stages.masterwork.label>Шедеврально</ABooks_RestaurantGuide.stages.masterwork.label>
+    <ABooks_RestaurantGuide.stages.legendary.label>Легендарно</ABooks_RestaurantGuide.stages.legendary.label>
+
+</LanguageData>

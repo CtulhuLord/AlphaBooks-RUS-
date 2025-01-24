@@ -1,0 +1,25 @@
+﻿<LanguageData>
+
+    <ABooks_SelfHelp_Namer.rulePack.rulesStrings>
+        <li>title->[titleBasic]</li>
+        <li>title(p=2)->[titleAuthored]</li>
+        <li>titleBasic(p=6)->[randAdjective] Руководство по самопомощи</li>
+        <li>titleBasic(p=6)->[randNoun] и личностный рост</li>
+        <li>titleBasic->Раскрытие вашего потенциала</li>
+        <li>titleBasic->Путь к вдохновению</li>
+        <li>titleBasic->Руководство для начинающих по вдохновению</li>
+        <li>titleBasic->Техники вдохновения для самосовершенствования</li>
+        <li>titleBasic->Вдохновение через самоанализ</li>
+        <li>titleBasic->Выживание, вдохновение и рост</li>
+        <li>titleBasic->Путешествие к вдохновению</li>
+        <li>titleBasic->Практика ведет к совершенству: Руководство по вдохновению</li>
+        <li>titleAuthored->Руководство [ANYPAWN_nameIndef] по вдохновению</li>
+        <li>titleAuthored->Руководство [ANYPAWN_nameIndef] по самопомощи</li>
+        <li>titleAuthored->Книга [ANYPAWN_nameIndef] о вдохновении</li>
+        <li>titleAuthored->Справочник [ANYPAWN_nameIndef] по вдохновению</li>
+        <li>titleAuthored->Уроки [ANYPAWN_nameIndef] вдохновения</li>
+        <li>titleAuthored->Заметки [ANYPAWN_nameIndef] о вдохновении</li>
+        <li>titleAuthored->Стратегии [ANYPAWN_nameIndef] для вдохновения</li>
+    </ABooks_SelfHelp_Namer.rulePack.rulesStrings>
+
+</LanguageData>

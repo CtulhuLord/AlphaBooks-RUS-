@@ -1,0 +1,74 @@
+﻿<LanguageData>
+
+    <ABooks_SurvivalGuide_Description.rulePack.rulesStrings>
+        <li>desc->[intro]. [advice]. [warning]. [quirk]. [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+        <li>desc->[intro]. [advice]. [quirk]. [warning] [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+        <li>desc->[intro]. [advice]. [warning]".\n\n[writingQualitySentence]\n\n[ending]</li>
+        <li>desc->[intro]. [advice]. [quirk]".\n\n[writingQualitySentence]\n\n[ending]</li>
+        <li>desc->[intro]. [advice]".\n\n[writingQualitySentence]\n\n[ending]</li>
+        <li>intro->"Навигация по [subject_primary] — непростая задача</li>
+        <li>intro->"Выживание в [subject_primary] требует знаний и выдержки</li>
+        <li>intro->"[subject_primary] может быть как убежищем, так и опасностью</li>
+        <li>intro->"Чтобы процветать в [subject_primary], нужно сначала уважать его</li>
+        <li>intro->"[subject_primary] столь же беспощаден, сколь и прекрасен</li>
+        <li>advice->Освоение [key_survival_topic] имеет решающее значение для выживания</li>
+        <li>advice->Понимание повадок местной дикой природы жизненно важно</li>
+        <li>advice->Обнаружение и сохранение [key_resource] должно быть вашим главным приоритетом</li>
+        <li>advice->Быстрое создание укрытия имеет первостепенное значение для выживания</li>
+        <li>advice->Следите за погодой — она меняется быстрее, чем вы можете ожидать</li>
+        <li>advice->Избегайте переутомления; экономьте свою энергию, когда это возможно</li>
+        <li>key_survival_topic->навигации по пересеченной местности</li>
+        <li>key_survival_topic->поиска и очистки воды</li>
+        <li>key_survival_topic->строительства эффективных укрытий</li>
+        <li>key_survival_topic->управления долгосрочным хранением продуктов</li>
+        <li>key_survival_topic->избегания и защиты от хищников</li>
+        <li>key_survival_topic->идентификации безопасных растений</li>
+        <li>key_resource->чистой воды</li>
+        <li>key_resource->достаточных запасов пищи</li>
+        <li>key_resource->материалов для укрытия</li>
+        <li>key_resource->дров или другого топлива</li>
+        <li>key_resource->средств для защиты</li>
+        <li>key_resource->медикаментов или лечебных принадлежностей</li>
+        <li>warning->Не подготовитесь — и [subject_primary] быстро вас накажет</li>
+        <li>warning->Ночи здесь холоднее и смертоноснее, чем вы можете себе представить</li>
+        <li>warning->Недостаточное планирование может оставить вас на милость хищников</li>
+        <li>warning->Берегитесь самоуверенности; даже опытные исследователи становятся здесь жертвами</li>
+        <li>warning->Неправильная оценка окружающей среды может означать верную гибель</li>
+        <li>warning->[subject_primary] не терпит ошибок</li>
+        <li>quirk->Интересно, что [subject_primary] может похвастаться некоторыми съедобными растениями, которые на вкус странно напоминают [quirky_flavor]</li>
+        <li>quirk->Легенды гласят, что [subject_primary] скрывает сокровища в самых пустынных своих уголках</li>
+        <li>quirk->Здесь даже у насекомых, кажется, есть стратегии выживания, достойные изучения</li>
+        <li>quirk->[subject_primary] известен своими жуткими, почти мелодичными узорами ветра</li>
+        <li>quirk->Как ни странно, в [subject_primary] можно увидеть одни из самых ярких закатов, которые вы когда-либо видели</li>
+        <li>quirky_flavor->мяту</li>
+        <li>quirky_flavor->лимонник</li>
+        <li>quirky_flavor->чернику</li>
+        <li>quirky_flavor->землистые грибы</li>
+        <li>quirky_flavor->пряный мед</li>
+        <li>conclusion->Подходите к [subject_primary] с уважением и бдительностью, и, возможно, вы выживете».</li>
+        <li>conclusion->Только подготовленные и находчивые могут по-настоящему процветать в этой среде».</li>
+        <li>conclusion->Это место суровых уроков, но и замечательных наград».</li>
+        <li>conclusion->Помните, выживание здесь — это не просто навык — это искусство».</li>
+        <li>conclusion->[subject_primary] не прощает, но его можно покорить».</li>
+        <li>writingQualitySentence->Эта [bookType] [writingQualityAdjective], предлагая читателям понимание опасностей и стратегий выживания.</li>
+        <li>writingQualitySentence->Благодаря [writingQualityAdjective] прозе, эта [bookType] предоставляет множество знаний для осторожного путешественника.</li>
+        <li>writingQualitySentence->[bookType] является [writingQualityAdjective] ресурсом, сочетающим советы с образами [subject_primary].</li>
+        <li>bookType->руководство по выживанию</li>
+        <li>bookType->справочник</li>
+        <li>bookType->руководство</li>
+        <li>bookType->сборник</li>
+        <li>bookType->полевой справочник</li>
+        <li>writingQualityAdjective(quality==6)->мастерски написана</li>
+        <li>writingQualityAdjective(quality==5)->изысканно детализирована</li>
+        <li>writingQualityAdjective(quality==4)->тщательно составлена</li>
+        <li>writingQualityAdjective(quality==3)->компетентно написана</li>
+        <li>writingQualityAdjective(quality==2)->несколько неуклюжая</li>
+        <li>writingQualityAdjective(quality==1)->плохо организована</li>
+        <li>writingQualityAdjective(quality==0)->хаотично скомпонована</li>
+        <li>ending->После изучения эта книга исчезнет в эфире, оставив только переданные ею знания.</li>
+        <li>ending->По завершении это руководство самоуничтожится, гарантируя, что его секреты останутся с читателем.</li>
+        <li>ending->Впитав ее мудрость, вы потеряете книгу, но приобретете знания о выживании.</li>
+        <li>ending->После прочтения книга исчезает, оставляя только уроки, запечатленные в вашей памяти.</li>
+    </ABooks_SurvivalGuide_Description.rulePack.rulesStrings>
+
+</LanguageData>

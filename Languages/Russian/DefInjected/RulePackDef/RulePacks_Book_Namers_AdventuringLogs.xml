@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_AdventuringLogs_Namer.rulePack.rulesStrings>
+        <li>title->[adjective] [subject] в [locationA]</li>
+		<li>title->[adjective] [subject] в [locationB]</li>
+		<li>title->[adjective] [subjectA] о [locationA]</li>
+		
+		<li>title->Хроники [subject] [event]</li>
+		<li>title->[subjectA]: Хроник [event]</li>
+		
+        <li>title->[adjective] [subject] [event]</li>
+		<li>title->[adjective] [subjectA] о [eventA]</li>
+		
+        <li>title->[subjectA] об [adjectiveA] [locationA]</li>
+		<li>title->[subject] в [adjective] [locationB]</li>
+		
+        <li>title->[subject] среди [location]</li>  
+		
+        <li>title->[adjective] [subject]</li>
+		<li>title->[adjective] [subjectA]</li>
+		
+        <li>adjective->Опасные</li>
+        <li>adjective->Неизведанные</li>
+        <li>adjective->Легендарные</li>
+        <li>adjective->Забытые</li>
+        <li>adjective->Чудесные</li>
+        <li>adjective->Проклятые</li>
+        <li>adjective->Пылающие</li>
+        <li>adjective->Потерянные</li>
+        <li>adjective->Героические</li>
+        <li>adjective->Ужасающие</li>
+		
+		<li>adjectiveA->Опасных</li>
+        <li>adjectiveA->Неизведанных</li>
+        <li>adjectiveA->Легендарных</li>
+        <li>adjectiveA->Забытых</li>
+        <li>adjectiveA->Чудесных</li>
+        <li>adjectiveA->Проклятых</li>
+        <li>adjectiveA->Пылающих</li>
+        <li>adjectiveA->Потерянных</li>
+        <li>adjectiveA->Героических</li>
+        <li>adjectiveA->Ужасающих</li>
+		
+        <li>subject->Путешествия</li>
+        <li>subject->Странствия</li>
+        <li>subject->Приключения</li>
+        <li>subject->Экспедиции</li>
+		
+        <li>subjectA->Записи</li>
+        <li>subjectA->Истории</li>
+        <li>subjectA->Исследования</li>
+		
+        <li>location->RimWorld</li>
+        <li>location->Неизведанных земель</li>
+        <li>location->Пустошей</li>
+        <li>location->Дальних рубежей</li>
+        <li>location->Пылающей пустыни</li>
+        <li>location->Ледяной тундры</li>
+        <li>location->Забытых джунглей</li>
+        <li>location->Архотек-руин</li>
+        <li>location->Разбитых вершин</li>
+		
+		<li>locationA->RimWorld</li>
+        <li>locationA->Неизведанных землях</li>
+        <li>locationA->Пустошах</li>
+        <li>locationA->Дальних рубежах</li>
+        <li>locationA->Пылающей пустыне</li>
+        <li>locationA->Ледяной тундре</li>
+        <li>locationA->Забытых джунглях</li>
+        <li>locationA->Архотек-руинах</li>
+        <li>locationA->Разбитых вершинах</li>
+		
+		<li>locationB->RimWorld</li>
+        <li>locationB->Неизведанные земли</li>
+        <li>locationB->Пустоши</li>
+        <li>locationB->Дальние рубежи</li>
+        <li>locationB->Пылающую пустыню</li>
+        <li>locationB->Ледяную тундру</li>
+        <li>locationB->Забытые джунгли</li>
+        <li>locationB->Архотек-руины</li>
+        <li>locationB->Разбитые вершины</li>
+		
+        <li>event->Открытия</li>
+        <li>event->Выживания</li>
+        <li>event->Расплаты</li>
+        <li>event->Тайны</li>
+        <li>event->Завоевания</li>
+        <li>event->Пробуждения</li>
+        <li>event->Легенды</li>
+        <li>event->Безумия</li>
+        <li>event->Триумфа</li>
+        <li>event->Гибели</li>
+		
+        <li>eventA->Открытиях</li>
+        <li>eventA->Выживании</li>
+        <li>eventA->Расплате</li>
+        <li>eventA->Тайнах</li>
+        <li>eventA->Завоеваниях</li>
+        <li>eventA->Пробуждении</li>
+        <li>eventA->Легендах</li>
+        <li>eventA->Безумии</li>
+        <li>eventA->Триумфе</li>
+        <li>eventA->Гибели</li>
+		
+    </ABooks_AdventuringLogs_Namer.rulePack.rulesStrings>
+
+</LanguageData>

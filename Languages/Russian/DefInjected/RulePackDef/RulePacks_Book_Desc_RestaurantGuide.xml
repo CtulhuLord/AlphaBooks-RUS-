@@ -1,0 +1,74 @@
+﻿<LanguageData>
+
+    <ABooks_RestaurantGuide_Description.rulePack.rulesStrings>
+        <li>desc->[intro] [contentOverview]。[qualityStatement][maybe_date][ending]</li>
+        <li>desc->[intro] [contentOverview] [quirkStatement]。[qualityStatement][maybe_date][ending]</li>
+        <li>desc->[intro] [contextStatement] [contentOverview]。[qualityStatement][maybe_date][ending]</li>
+        <li>desc->[intro] [contentOverview]。[quirkStatement]。[qualityStatement][maybe_date][ending]</li>
+        <li>intro->Этот [writingQualityAdjective] [bookType] охватывает звезды, каталогизируя</li>
+        <li>intro->[WritingQualityAdjective] путеводитель по кулинарному совершенству на границе, включающий</li>
+        <li>intro->[WritingQualityAdjective] антология звездных гастрономических впечатлений, посвященная</li>
+        <li>intro->[WritingQualityAdjective] [bookType], описывающий(ая) бескрайний космос</li>
+        <li>intro->[WritingQualityAdjective] исследование гастрономических чудес, освещающее</li>
+        <li>contentOverview->лучшие закусочные на обитаемых мирах</li>
+        <li>contentOverview->скрытые кулинарные жемчужины в отдаленных звездных системах</li>
+        <li>contentOverview->аванпосты, где подают неожиданно изысканные блюда</li>
+        <li>contentOverview->галактические центры, известные своей фьюжн-кухней</li>
+        <li>contentOverview->редкие ингредиенты и инновационные методы приготовления</li>
+        <li>contentOverview->изменяющиеся вкусы колонистов и поселенцев</li>
+        <li>contentOverview->заведения, которые пережили — и процветали — во время космических катаклизмов</li>
+        <li>quirkStatement->Включает обзоры блюд, которые бросают вызов гравитации и логике</li>
+        <li>quirkStatement->Освещает странные, но восхитительные деликатесы пограничных поваров</li>
+        <li>quirkStatement->Предупреждает читателей о потенциальной токсичности некоторых экзотических блюд</li>
+        <li>quirkStatement->Содержит спорный рейтинг гидропонно выращенных ингредиентов</li>
+        <li>quirkStatement->Включает раздел о правилах этикета за столом с механоидами</li>
+        <li>quirkStatement->Известен своими необычайно резкими отзывами о столовых на астероидных шахтах</li>
+        <li>contextStatement->десятилетий кулинарных исследований, это путеводитель по</li>
+        <li>contextStatement->опыта бесчисленных гастрономических первопроходцев, он(а) подробно описывает</li>
+        <li>contextStatement->тщательных обследований и дегустаций по всему Краю, он(а) подробно описывает</li>
+        <li>contextStatement->веков пограничных кулинарных тенденций, это издание исследует</li>
+        <li>contextStatement->артефактов кулинарной антропологии, эта книга повествует о</li>
+        <li>qualityStatement(quality==6)->Это [excellentDesc], что принесло ему широкое признание среди ценителей.</li>
+        <li>qualityStatement(quality==5)->Это [decentDesc], демонстрируя вершину кулинарной критики.</li>
+        <li>qualityStatement(quality==4)->Это [decentDesc], предлагая основательные идеи для любителей экзотической еды.</li>
+        <li>qualityStatement(quality==3)->Это [functionalDesc], с надежными, но не вдохновляющими рекомендациями.</li>
+        <li>qualityStatement(quality==2)->Это [mediocreDesc], с недостатками, но содержащий(ая) несколько полезных советов.</li>
+        <li>qualityStatement(quality==1)->Это [poorDesc], изобилующий ошибками, но все еще смутно читаемый.</li>
+        <li>qualityStatement(quality==0)->Это [terribleDesc], больше запутывающий, чем помогающий.</li>
+        <li>writingQualityAdjective(quality==6)->мастерски написанный</li>
+        <li>writingQualityAdjective(quality==5)->изысканно созданный</li>
+        <li>writingQualityAdjective(quality==4)->задумчивый и увлекательный</li>
+        <li>writingQualityAdjective(quality==3)->пригодный</li>
+        <li>writingQualityAdjective(quality==2)->неотшлифованный</li>
+        <li>writingQualityAdjective(quality==1)->наспех собранный</li>
+        <li>writingQualityAdjective(quality==0)->хаотично составленный</li>
+        <li>excellentDesc->шедевр кулинарной журналистики</li>
+        <li>excellentDesc->незаменимый ресурс для любителей еды</li>
+        <li>excellentDesc->блестящий пример гастрономической литературы</li>
+        <li>excellentDesc->настоящий триумф ресторанных рекомендаций</li>
+        <li>decentDesc->похвальная попытка в кулинарной критике</li>
+        <li>decentDesc->информативный, хотя и неравномерный, путеводитель</li>
+        <li>decentDesc->ценный компаньон для космических путешественников</li>
+        <li>decentDesc->достойное дополнение к библиотеке любого гастронома</li>
+        <li>functionalDesc->полезный справочник для голодных космонавтов</li>
+        <li>functionalDesc->базовый, но практичный путеводитель</li>
+        <li>functionalDesc->приемлемое руководство для гастрономических исследований</li>
+        <li>mediocreDesc->разочаровывающая попытка кулинарного комментария</li>
+        <li>mediocreDesc->тусклая компиляция средних идей</li>
+        <li>mediocreDesc->невпечатляющий обзор предложений космоса</li>
+        <li>poorDesc->запутанная, плохо выполненная работа</li>
+        <li>poorDesc->разочаровывающе неполный сборник отзывов</li>
+        <li>poorDesc->забывающееся вторжение в кулинарную критику</li>
+        <li>terribleDesc->непостижимая катастрофа в качестве руководства</li>
+        <li>terribleDesc->бессмысленный и глубоко ошибочный документ</li>
+        <li>terribleDesc->удивительно бесполезный набор чепухи</li>
+        <li>maybe_date-></li>
+        <li>maybe_date->Впервые опубликовано [date_form].</li>
+        <li>maybe_date->Его происхождение восходит к [date_form].</li>
+        <li>maybe_date->Текст появился во время [date_season].</li>
+        <li>date_form->в 5500 году</li>
+        <li>date_form->несколько лет назад</li>
+        <li>ending->\n\nПосле прочтения эта книга даст способность повышать категорию блюд (от простых до изысканных и т. д.), а затем будет уничтожена.</li>
+    </ABooks_RestaurantGuide_Description.rulePack.rulesStrings>
+
+</LanguageData>

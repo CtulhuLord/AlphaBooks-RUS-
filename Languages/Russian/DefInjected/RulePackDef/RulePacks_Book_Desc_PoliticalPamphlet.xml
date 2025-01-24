@@ -1,0 +1,85 @@
+﻿<LanguageData>
+
+    <ABooks_PoliticalPamphlet_Description.rulePack.rulesStrings>
+        <li>desc->[intro]。[contentOverview]。[reveal]。[writingQualitySentence][ending]</li>
+        <li>desc->[intro]。[contextStatement]。[contentOverview]。[reveal]。[writingQualitySentence][ending]</li>
+        <li>desc->[intro]。[contentOverview]。[quirky_flavor]。[reveal]。[writingQualitySentence][ending]</li>
+        <li>desc->[intro]。[contextStatement]。[contentOverview]。[quirky_flavor]。[reveal]。[writingQualitySentence][ending]</li>
+        <li>intro->Этот [bookType] стремится разжечь революцию в мыслях, но в основном возмущение</li>
+        <li>intro->Пламенный призыв к оружию для всех, кто сыт по горло [issue] и жаждет извергать оскорбления</li>
+        <li>intro->Страстный манифест, который под своим праведным тоном скрывает язвительную критику</li>
+        <li>intro->Этот [writingQualityAdjective] памфлет утверждает, что борется за [ideal], но явно наслаждается клеветой</li>
+        <li>intro->Тупое оружие в войне против [problem] или просто предлог для грубости</li>
+        <li>contextStatement->Рожденный из жарких споров и немалого количества яда</li>
+        <li>contextStatement->Вышедший из неустанной внутренней борьбы [subject_primary]</li>
+        <li>contextStatement->Вдохновленный разочарованием в [issue] и, возможно, слишком большим количеством кофеина</li>
+        <li>contextStatement->Выкованный в огне политического возмущения и, возможно, небольшой злобы</li>
+        <li>contextStatement->Движимый идеалами [ideal], но с изрядной долей личной вендетты</li>
+        <li>contentOverview->Памфлет обрисовывает смелое видение [ideal]</li>
+        <li>contentOverview->Он предлагает решения [problem], хотя они затмеваются оскорблениями</li>
+        <li>contentOverview->Страницы подробно описывают критику [issue], перемежающуюся с оскорблениями</li>
+        <li>contentOverview->Риторика направлена на решение [topic], но часто переходит на личные выпады</li>
+        <li>contentOverview->Идеи реформ обсуждаются, но в основном заглушаются подстрекательскими выражениями</li>
+        <li>quirky_flavor->Включает глоссарий новых оскорблений для политических оппонентов</li>
+        <li>quirky_flavor->Уделяет удивительно много внимания чьей-то прическе</li>
+        <li>quirky_flavor->Целый раздел посвящен высмеиванию грамматики оппозиционных листовок</li>
+        <li>quirky_flavor->Содержит лимерик о [subject_primary], который слишком груб, чтобы его повторять</li>
+        <li>quirky_flavor->Непреднамеренно смешон в своих чрезмерных оскорблениях</li>
+        <li>reveal->Утверждая, что занимается [issue], он уделяет больше места личным нападкам</li>
+        <li>reveal->Любые фактические аргументы заглушаются непрекращающейся клеветой</li>
+        <li>reveal->Под риторикой это на самом деле просто длинный список мелких обид</li>
+        <li>reveal->Читается скорее как длинная, гневная тирада, чем как политический трактат</li>
+        <li>reveal->Тонкий налет политических аргументов едва скрывает ядовитые оскорбления</li>
+        <li>topic->справедливость и свобода</li>
+        <li>topic->экономическое равенство</li>
+        <li>topic->социальные реформы</li>
+        <li>topic->права трудящихся</li>
+        <li>topic->защита окружающей среды</li>
+        <li>topic->борьба с коррупцией</li>
+        <li>topic->гражданские свободы</li>
+        <li>topic->всеобщее образование</li>
+        <li>topic->права на здравоохранение</li>
+        <li>topic->сила единства</li>
+        <li>topic->победа над угнетением</li>
+        <li>problem->коррупция</li>
+        <li>problem->угнетение</li>
+        <li>problem->неравенство</li>
+        <li>problem->тирания</li>
+        <li>problem->алчность</li>
+        <li>problem->бедность</li>
+        <li>problem->уничтожение окружающей среды</li>
+        <li>problem->эксплуатация</li>
+        <li>problem->невежество</li>
+        <li>issue->несправедливость судебной системы</li>
+        <li>issue->несправедливость</li>
+        <li>issue->всевластие</li>
+        <li>issue->ухудшение состояния окружающей среды</li>
+        <li>issue->экономический разрыв</li>
+        <li>issue->социальное расслоение</li>
+        <li>issue->цена равнодушия</li>
+        <li>issue->молчание народа</li>
+        <li>ideal->равенство</li>
+        <li>ideal->свобода</li>
+        <li>ideal->справедливость</li>
+        <li>ideal->гармония</li>
+        <li>ideal->процветание</li>
+        <li>ideal->стабильность</li>
+        <li>ideal->расширение прав и возможностей</li>
+        <li>ideal->единство</li>
+        <li>ideal->сострадание</li>
+        <li>bookType->памфлет</li>
+        <li>bookType->брошюра</li>
+        <li>bookType->политический манифест</li>
+        <li>bookType->политическое руководство</li>
+        <li>bookType->агитационная литература</li>
+        <li>writingQualitySentence(quality==6)->Это изящно составленная филиппика, наносящая удары с изяществом и остроумием.</li>
+        <li>writingQualitySentence(quality==5)->Он(а) написан(а) остро, его(ее) колкости точны, несмотря на тон.</li>
+        <li>writingQualitySentence(quality==4)->Он(а) добротно построен(а), хотя оскорбления часто затмевают его(ее) аргументы.</li>
+        <li>writingQualitySentence(quality==3)->Он(а) пригоден(а), хотя и несколько неуклюж(а) в балансировании идей и оскорблений.</li>
+        <li>writingQualitySentence(quality==2)->Это неуклюжая, плохо организованная тирада с выпадами, которые не достигают цели.</li>
+        <li>writingQualitySentence(quality==1)->Это хаотичная мешанина из бессвязных аргументов и юношеских оскорблений.</li>
+        <li>writingQualitySentence(quality==0)->Это ужасная ругань, без всяких попыток скрыть свою желчь и мелкие оскорбления.</li>
+        <li>ending->\n\nПосле прочтения этот памфлет исчезнет в облаке яда, но может оставить затяжное чувство негодования.</li>
+    </ABooks_PoliticalPamphlet_Description.rulePack.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<LanguageData>
+
+    <ABooks_BotanicalCompendium_Description.rulePack.rulesStrings>
+        <li>desc->[intro], [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+        <li>intro->Этот [writingQualityAdjective] справочник исследует fascinating мир [subject_primary]</li>
+        <li>intro->Незаменимый(ая) [bookType], подробно описывающий(ая) особенности [subject_primary]</li>
+        <li>intro->[writingQualityAdjective] компендиум, раскрывающий тайны [subject_primary]</li>
+        <li>intro->Вечный(ая) [bookType], посвященный(ая) пониманию [subject_primary]</li>
+        <li>intro->[writingQualityAdjective] руководство по жизненному циклу [subject_primary]</li>
+        <li>intro->Просветительский(ая) [bookType], посвященный(ая) значению [subject_primary]</li>
+        <li>conceptExploration->его(ее) биологические особенности и адаптации</li>
+        <li>conceptExploration->его(ее) медицинское и survival использование</li>
+        <li>conceptExploration->его(ее) загадочную роль в экосистемах Края</li>
+        <li>conceptExploration->его(ее) значение для колонистов и дикой природы</li>
+        <li>conceptExploration->предания, окружающие его(ее) рост и полезность</li>
+        <li>conceptExploration->его(ее) потенциал для процветания во враждебных средах</li>
+        <li>conceptExploration->его(ее) роль как жизненно важного ресурса на Краю</li>
+        <li>contextStatement->Основываясь на непосредственных наблюдениях, этот(а) [bookType] проливает свет на</li>
+        <li>contextStatement->Составленный(ая) из разрозненных полевых заметок, он(а) раскрывает</li>
+        <li>contextStatement->Основанный(ая) на экспедициях на границу Края, он(а) показывает</li>
+        <li>contextStatement->Вдохновленный(ая) древними записями и современными открытиями, он(а) углубляется в</li>
+        <li>contextStatement->Сочетая анекдотические свидетельства и строгие исследования, он(а) изучает</li>
+        <li>writingQualityAdjective(quality==6)->мастерски написанный(ая)</li>
+        <li>writingQualityAdjective(quality==5)->тщательно исследованный(ая)</li>
+        <li>writingQualityAdjective(quality==4)->увлекательный(ая) и подробный(ая)</li>
+        <li>writingQualityAdjective(quality==3)->полезный(ая), но простой(ая)</li>
+        <li>writingQualityAdjective(quality==2)->плохо организованный(ая)</li>
+        <li>writingQualityAdjective(quality==1)->досадно расплывчатый(ая)</li>
+        <li>writingQualityAdjective(quality==0)->безумная мешанина</li>
+        <li>writingQualitySentence(quality[greater_than]3)->Это [excellentDesc] [excellentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Это [decentDesc] [decentExtra]</li>
+        <li>writingQualitySentence(quality[less_than]2)->Это [awfulDesc] [awfulExtra]</li>
+        <li>excellentDesc->выдающееся достижение в области ботанических исследований</li>
+        <li>excellentDesc->исчерпывающее руководство для понимания [subject_primary]</li>
+        <li>excellentDesc->бесценный ресурс для любителей растений</li>
+        <li>excellentExtra->который(ая) увлекает читателей своими(ее) идеями</li>
+        <li>excellentExtra->который(ая) предлагает как вдохновение, так и практические знания</li>
+        <li>decentDesc->функциональное, но неравномерное изучение [subject_primary]</li>
+        <li>decentDesc->приличное руководство для начинающих ботаников</li>
+        <li>decentDesc->скромный(ая), но полезный(ая) ресурс о [subject_primary]</li>
+        <li>decentExtra->с некоторыми пробелами в деталях</li>
+        <li>decentExtra->который(ая) мог(ла) бы использовать дополнительные исследования</li>
+        <li>awfulDesc->непостижимая попытка каталогизации [subject_primary]</li>
+        <li>awfulDesc->неуклюжее и неэффективное изучение [subject_primary]</li>
+        <li>awfulDesc->досадно расплывчатое изложение [subject_primary]</li>
+        <li>awfulExtra->который(ая) мало что дает своему(ее) читателю</li>
+        <li>awfulExtra->с вопиющими ошибками и упущениями</li>
+        <li>maybe_date->Работа была составлена [date_form].</li>
+        <li>maybe_date->Опубликованный(ая) [date_form], он(а) остается актуальным(ой) и сегодня.</li>
+        <li>maybe_date->Его(ее) происхождение восходит к [date_form].</li>
+        <li>date_form->недавно</li>
+        <li>date_form->в забытую эпоху</li>
+        <li>date_form->на Краю</li>
+        <li>date_form->в первые дни колонизации</li>
+        <li>bookType(p=3)->компендиум</li>
+        <li>bookType(p=2)->руководство</li>
+        <li>bookType(p=1)->справочник</li>
+        <li>ending->\n\nЧтение этого справочника временно повысит навык растениеводства на три дня, после чего он будет уничтожен.</li>
+    </ABooks_BotanicalCompendium_Description.rulePack.rulesStrings>
+
+</LanguageData>

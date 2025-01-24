@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_PsycasterGuide.label>Мастерство псионика</ABooks_PsycasterGuide.label>
+    <ABooks_PsycasterGuide.description>Чтение руководства для псиоников повысило боевые пси-способности этого человека.</ABooks_PsycasterGuide.description>
+    <ABooks_PsycasterGuide.stages.awful.label>Ужасно</ABooks_PsycasterGuide.stages.awful.label>
+    <ABooks_PsycasterGuide.stages.poor.label>Плохо</ABooks_PsycasterGuide.stages.poor.label>
+    <ABooks_PsycasterGuide.stages.normal.label>Нормально</ABooks_PsycasterGuide.stages.normal.label>
+    <ABooks_PsycasterGuide.stages.good.label>Хорошо</ABooks_PsycasterGuide.stages.good.label>
+    <ABooks_PsycasterGuide.stages.excellent.label>Отлично</ABooks_PsycasterGuide.stages.excellent.label>
+    <ABooks_PsycasterGuide.stages.masterwork.label>Шедеврально</ABooks_PsycasterGuide.stages.masterwork.label>
+    <ABooks_PsycasterGuide.stages.legendary.label>Легендарно</ABooks_PsycasterGuide.stages.legendary.label>
+
+</LanguageData>

@@ -1,0 +1,63 @@
+﻿<LanguageData>
+
+    <ABooks_AberrantGrimoire_Namer.rulePack.rulesStrings>
+        <li>title->[adjective] [noun]</li>
+        <li>title->[noun] о [mysticTheme]</li>
+        <li>title->[noun] [mysticThemeGen]</li>
+        <li>title->[arcaneDescriptor] [grimoire]</li>
+        <li>title->[grimoire] [ofAnomaly]</li>
+        <li>adjective->Странный</li>
+        <li>adjective->Непостижимый</li>
+        <li>adjective->Искаженный</li>
+        <li>adjective->Древний</li>
+        <li>adjective->Порочный</li>
+        <li>adjective->Потусторонний</li>
+        <li>adjective->Разрушенный</li>
+        <li>adjective->Оскверненный</li>
+        <li>noun->Кодекс</li>
+        <li>noun->Том</li>
+        <li>noun->Писание</li>
+        <li>noun->Трактат</li>
+        <li>noun->Свиток</li>
+        <li>noun->Книга записей</li>
+        <li>noun->Летопись</li>
+        <li>noun->Сочинение</li>
+        <li>mysticTheme->Запретном знании</li>
+        <li>mysticTheme->Ритуальных тайнах</li>
+        <li>mysticTheme->Разрушенных мирах</li>
+        <li>mysticTheme->Искаженных душах</li>
+        <li>mysticTheme->Потерянных измерениях</li>
+        <li>mysticTheme->Вечной тишине</li>
+        <li>mysticTheme->Разрушенных аномалиях</li>
+        <li>mysticThemeGen->Запретного знания</li>
+        <li>mysticThemeGen->Ритуальных тайн</li>
+        <li>mysticThemeGen->Разрушенных миров</li>
+        <li>mysticThemeGen->Искаженных душ</li>
+        <li>mysticThemeGen->Потерянных измерений</li>
+        <li>mysticThemeGen->Вечной тишины</li>
+        <li>mysticThemeGen->Разрушенных аномалий</li>
+        <li>arcaneDescriptor->Сокрытый</li>
+        <li>arcaneDescriptor->Запретный</li>
+        <li>arcaneDescriptor->Проклятый</li>
+        <li>arcaneDescriptor->Оскверненный</li>
+        <li>arcaneDescriptor->Таинственный</li>
+        <li>arcaneDescriptor->Потаенный</li>
+        <li>arcaneDescriptor->Незримый</li>
+        <li>arcaneDescriptor->Извращенный</li>
+        <li>grimoire->Гримуар</li>
+        <li>grimoire->Манускрипт</li>
+        <li>grimoire->Компендиум</li>
+        <li>grimoire->Текст</li>
+        <li>grimoire->Сборник</li>
+        <li>grimoire->Хроника</li>
+        <li>grimoire->Архив</li>
+        <li>ofAnomaly->о Разломе</li>
+        <li>ofAnomaly->о Пустоте</li>
+        <li>ofAnomaly->о Том Свете</li>
+        <li>ofAnomaly->об Эфирных мирах</li>
+        <li>ofAnomaly->о Потерянном плане</li>
+        <li>ofAnomaly->о Бесконечном хаосе</li>
+        <li>ofAnomaly->о Забытых пустошах</li>
+    </ABooks_AberrantGrimoire_Namer.rulePack.rulesStrings>
+
+</LanguageData>

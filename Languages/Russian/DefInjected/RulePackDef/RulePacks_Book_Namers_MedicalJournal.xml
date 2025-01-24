@@ -1,0 +1,68 @@
+﻿<LanguageData>
+
+    <ABooks_MedicalJournal_Namer.rulePack.rulesStrings>
+        <li>title(p=3)->[titleNaked]</li>
+        <li>title->[ANYPAWN_nameIndef] [titleNaked]</li>
+        <li>title->[Character] [medicalStory]</li>
+        <li>title->[Character] [objectMedical]</li>
+        <li>title->[Character] [linkagePlace] [place]</li>
+        <li>title->[adjective] [objectMedical]</li>
+        <li>titleNaked->[ConceptMedical]</li>
+        <li>titleNaked->[adjective] [ConceptMedical]</li>
+        <li>titleNaked->[ConceptMedical] [linkage] [ConceptMedical]</li>
+        <li>titleNaked->[ConceptMedical] [linkagePlace] [place]</li>
+        <li>titleNaked->[objectMedical] [linkage] [ConceptMedical]</li>
+        <li>objectMedical->Хирургия</li>
+        <li>objectMedical->Протезирование</li>
+        <li>objectMedical->Медицина</li>
+        <li>objectMedical->Исцеление</li>
+        <li>objectMedical->Анатомия</li>
+        <li>objectMedical->Диагностика</li>
+        <li>objectMedical->Терапия</li>
+        <li>objectMedical->Вакцины</li>
+        <li>objectMedical->Патология</li>
+        <li>objectMedical->Фармакология</li>
+        <li>ConceptMedical->Здоровье</li>
+        <li>ConceptMedical->Инфекция</li>
+        <li>ConceptMedical->Восстановление</li>
+        <li>ConceptMedical->Болезнь</li>
+        <li>ConceptMedical->Травма</li>
+        <li>ConceptMedical->Благополучие</li>
+        <li>ConceptMedical->Смертность</li>
+        <li>ConceptMedical->Иммунитет</li>
+        <li>ConceptMedical->Уход</li>
+        <li>ConceptMedical->Жизнеспособность</li>
+        <li>linkage->о</li>
+        <li>linkage->от</li>
+        <li>linkage->для</li>
+        <li>linkage->без</li>
+        <li>linkage->с</li>
+        <li>linkagePlace->в</li>
+        <li>linkagePlace->у</li>
+        <li>linkagePlace->на</li>
+        <li>linkagePlace->возле</li>
+        <li>adjective->Важная</li>
+        <li>adjective->Продвинутая</li>
+        <li>adjective->Всеобъемлющая</li>
+        <li>adjective->Новаторская</li>
+        <li>adjective->Критическая</li>
+        <li>adjective->Жизненно важная</li>
+        <li>adjective->Экспериментальная</li>
+        <li>adjective->Практическая</li>
+        <li>adjective->Интригующая</li>
+        <li>adjective->Беспрецедентная</li>
+        <li>place(p=25)->[TerrainFeature]</li>
+        <li>place->Больнице</li>
+        <li>place->Клинике</li>
+        <li>place->Операционной</li>
+        <li>place->Палате выздоровления</li>
+        <li>place->Лаборатории</li>
+        <li>place->Исследовательском центре</li>
+        <li>place->Полевом госпитале</li>
+        <li>place->Отделении неотложной помощи</li>
+        <li>place->Медицинском пункте</li>
+        <li>place->Убежище</li>
+        <li>place->Санатории</li>
+    </ABooks_MedicalJournal_Namer.rulePack.rulesStrings>
+
+</LanguageData>

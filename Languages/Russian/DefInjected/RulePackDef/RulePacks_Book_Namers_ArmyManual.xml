@@ -1,0 +1,28 @@
+﻿<LanguageData>
+
+    <ABooks_ArmyManual_Namer.rulePack.rulesStrings>
+        <li>title->[descriptor] [category]: [specialDetail]</li>
+        <li>title->[category] о [specialDetail]</li>
+        <li>title->[descriptor] [category]</li>
+        <li>descriptor->Всестороннее</li>
+        <li>descriptor->Продвинутое</li>
+        <li>descriptor->Тактическое</li>
+        <li>descriptor->Основное</li>
+        <li>descriptor->Полевое</li>
+        <li>descriptor->Стратегическое</li>
+        <li>descriptor->Оперативное</li>
+        <li>category->Руководство для армии</li>
+        <li>category->Полевое руководство</li>
+        <li>category->Военное руководство</li>
+        <li>category->Сборник тактик</li>
+        <li>category->Военный кодекс</li>
+        <li>specialDetail->Современном бое</li>
+        <li>specialDetail->Войне в RimWorld'е</li>
+        <li>specialDetail->Стратегиях боя</li>
+        <li>specialDetail->Выживании и столкновениях</li>
+        <li>specialDetail->Совместных действиях войск</li>
+        <li>specialDetail->Победе через подготовку</li>
+        <li>specialDetail->Искусстве войны</li>
+    </ABooks_ArmyManual_Namer.rulePack.rulesStrings>
+
+</LanguageData>

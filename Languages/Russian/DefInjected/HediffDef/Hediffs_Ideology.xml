@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_ReligiousFervor.label>Религиозный пыл</ABooks_ReligiousFervor.label>
+    <ABooks_ReligiousFervor.description>Чтение религиозного текста укрепило идеологические убеждения этого человека.</ABooks_ReligiousFervor.description>
+    <ABooks_ReligiousFervor.stages.awful.label>Ужасно</ABooks_ReligiousFervor.stages.awful.label>
+    <ABooks_ReligiousFervor.stages.poor.label>Плохо</ABooks_ReligiousFervor.stages.poor.label>
+    <ABooks_ReligiousFervor.stages.normal.label>Нормально</ABooks_ReligiousFervor.stages.normal.label>
+    <ABooks_ReligiousFervor.stages.good.label>Хорошо</ABooks_ReligiousFervor.stages.good.label>
+    <ABooks_ReligiousFervor.stages.excellent.label>Отлично</ABooks_ReligiousFervor.stages.excellent.label>
+    <ABooks_ReligiousFervor.stages.masterwork.label>Шедеврально</ABooks_ReligiousFervor.stages.masterwork.label>
+    <ABooks_ReligiousFervor.stages.legendary.label>Легендарно</ABooks_ReligiousFervor.stages.legendary.label>
+
+</LanguageData>

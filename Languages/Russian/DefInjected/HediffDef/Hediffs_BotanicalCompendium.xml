@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ABooks_BotanicalCompendium.label>Ботаническая экспертиза</ABooks_BotanicalCompendium.label>
+    <ABooks_BotanicalCompendium.description>Чтение ботанического компендиума повысило познания этого человека в области ботаники.</ABooks_BotanicalCompendium.description>
+    <ABooks_BotanicalCompendium.stages.awful.label>Ужасно</ABooks_BotanicalCompendium.stages.awful.label>
+    <ABooks_BotanicalCompendium.stages.poor.label>Плохо</ABooks_BotanicalCompendium.stages.poor.label>
+    <ABooks_BotanicalCompendium.stages.normal.label>Нормально</ABooks_BotanicalCompendium.stages.normal.label>
+    <ABooks_BotanicalCompendium.stages.good.label>Хорошо</ABooks_BotanicalCompendium.stages.good.label>
+    <ABooks_BotanicalCompendium.stages.excellent.label>Отлично</ABooks_BotanicalCompendium.stages.excellent.label>
+    <ABooks_BotanicalCompendium.stages.masterwork.label>Шедеврально</ABooks_BotanicalCompendium.stages.masterwork.label>
+    <ABooks_BotanicalCompendium.stages.legendary.label>Легендарно</ABooks_BotanicalCompendium.stages.legendary.label>
+
+</LanguageData>

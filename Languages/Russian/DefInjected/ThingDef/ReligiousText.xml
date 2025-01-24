@@ -1,0 +1,21 @@
+﻿<LanguageData>
+
+    <ABooks_ReligiousText.label>Религиозный текст</ABooks_ReligiousText.label>
+
+    <ABooks_ReligiousText.description>Религиозный текст, подробно описывающий принципы и доктрины определенной идеологической структуры.</ABooks_ReligiousText.description>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.0>Бонус -1% к фактору потери уверенности, +5% к частоте распространения социальной идеологии, +1% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.0>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.1>Бонус -10% к фактору потери уверенности, +20% к частоте распространения социальной идеологии, +5% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.1>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.2>Бонус -20% к фактору потери уверенности, +40% к частоте распространения социальной идеологии, +10% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.2>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.3>Бонус -35% к фактору потери уверенности, +60% к частоте распространения социальной идеологии, +20% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.3>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.4>Бонус -50% к фактору потери уверенности, +75% к частоте распространения социальной идеологии, +30% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.4>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.5>Бонус -60% к фактору потери уверенности, +100% к частоте распространения социальной идеологии, +40% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.5>
+
+    <ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.6>Бонус -75% к фактору потери уверенности, +200% к частоте распространения социальной идеологии, +50% к силе обращения.</ABooks_ReligiousText.comps.CompBook.doers.ReadingOutcomeDoer-2.descriptionForStages.6>
+
+</LanguageData>
